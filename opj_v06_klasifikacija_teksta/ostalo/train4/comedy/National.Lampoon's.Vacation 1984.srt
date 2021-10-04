@@ -1,0 +1,5954 @@
+1
+00:00:29,489 --> 00:00:32,323
+"I found out long ago"
+
+2
+00:00:34,323 --> 00:00:38,658
+"It's a long way down a Holiday Road"
+
+3
+00:00:52,245 --> 00:00:54,996
+"Jack be nimble, Jack be quick"
+
+4
+00:00:57,330 --> 00:01:00,665
+"Going to take a ride
+to the West Coast, kids"
+
+5
+00:01:01,998 --> 00:01:04,666
+"Holiday Road!"
+
+6
+00:01:07,000 --> 00:01:08,958
+"Holiday Road!"
+
+7
+00:01:12,334 --> 00:01:16,294
+"Holiday Road!"
+
+8
+00:01:17,336 --> 00:01:21,296
+"Holiday Road!"
+
+9
+00:01:34,383 --> 00:01:36,758
+"I found out long ago"
+
+10
+00:01:39,384 --> 00:01:43,719
+"It's a long way down a Holiday Road"
+
+11
+00:01:44,052 --> 00:01:46,720
+"Holiday Road"
+
+12
+00:01:49,262 --> 00:01:51,929
+"Holiday Road"
+
+13
+00:01:54,389 --> 00:01:57,014
+"Holiday Road"
+
+14
+00:02:34,483 --> 00:02:37,151
+Clark Griswold.
+I'm trading my wife's old car in.
+
+15
+00:02:38,776 --> 00:02:40,444
+Say good-bye
+to the old gas-guzzler, Russ!
+
+16
+00:02:42,612 --> 00:02:44,236
+It's pretty exciting, isn't it, Rusty?
+
+17
+00:02:44,653 --> 00:02:45,361
+What's that, Dad?
+
+18
+00:02:45,445 --> 00:02:46,404
+Picking up the new car!
+
+19
+00:02:48,279 --> 00:02:49,447
+You can't wait, can you?
+
+20
+00:02:50,780 --> 00:02:51,488
+Hi there, Ed!
+
+21
+00:02:51,739 --> 00:02:52,906
+Good to see you, Mr. Griswold!
+
+22
+00:02:52,989 --> 00:02:54,281
+How are you doing?
+Rubin right?
+
+23
+00:02:54,489 --> 00:02:55,489
+Rusty.
+
+24
+00:02:56,365 --> 00:02:57,365
+Look at him. He can't wait.
+
+25
+00:02:57,657 --> 00:02:59,115
+So, did you bring your trade-in?
+
+26
+00:02:59,491 --> 00:03:01,283
+Yes, a guy just took it away
+a couple of seconds ago.
+
+27
+00:03:01,700 --> 00:03:03,326
+Well, let's get to it, then.
+
+28
+00:03:03,992 --> 00:03:05,950
+We were worried that the new car
+might not be ready yet.
+
+29
+00:03:06,034 --> 00:03:08,327
+We're on our way to California
+in the morning...
+
+30
+00:03:08,410 --> 00:03:10,411
+...big vacation, the whole family,
+Walley World...
+
+31
+00:03:10,495 --> 00:03:12,161
+Walley World? Very exciting, Clyde.
+
+32
+00:03:12,495 --> 00:03:13,161
+Clark.
+
+33
+00:03:13,496 --> 00:03:14,537
+Well, there she is.
+
+34
+00:03:15,496 --> 00:03:16,120
+Where?
+
+35
+00:03:16,829 --> 00:03:17,871
+Right here. The wagon.
+
+36
+00:03:18,996 --> 00:03:20,456
+Dad, this is not the car you ordered!
+
+37
+00:03:21,498 --> 00:03:22,331
+Take it easy, Rusty.
+
+38
+00:03:22,664 --> 00:03:24,624
+Ed, this is not the car I ordered.
+
+39
+00:03:26,499 --> 00:03:29,791
+I distinctly ordered the Antarctic Blue,
+Super Sportswagon...
+
+40
+00:03:30,166 --> 00:03:32,292
+...with the C.B. and the optional
+Rally fun pack.
+
+41
+00:03:33,667 --> 00:03:35,585
+You didn't order the Metallic Pea?
+
+42
+00:03:36,001 --> 00:03:38,877
+Metallic Pea? No, Antarctic Blue.
+
+43
+00:03:39,419 --> 00:03:40,419
+The Sportswagon.
+
+44
+00:03:40,503 --> 00:03:41,545
+This isn't even the right model!
+
+45
+00:03:43,295 --> 00:03:45,630
+You know, I think you're right.
+I don't think this is the car.
+
+46
+00:03:45,713 --> 00:03:47,672
+This is the new
+Wagonqueen Family Truckster.
+
+47
+00:03:48,047 --> 00:03:51,423
+This is a fine automobile,
+if you want my honest opinion.
+
+48
+00:03:51,548 --> 00:03:53,381
+It beats the hell out of
+the Sportswagon but...
+
+49
+00:03:53,465 --> 00:03:55,049
+...I want to make you happy.
+
+50
+00:03:55,382 --> 00:03:56,007
+Davenport!
+
+51
+00:03:56,716 --> 00:03:57,674
+I'll get to the bottom of this.
+
+52
+00:04:00,091 --> 00:04:02,593
+Mr. Griswold ordered a blue Sportswagon.
+Where is it?
+
+53
+00:04:03,426 --> 00:04:04,426
+I don't know, sir.
+
+54
+00:04:07,885 --> 00:04:10,553
+I know what must have happened!
+
+55
+00:04:11,011 --> 00:04:12,012
+It didn't come in!
+
+56
+00:04:12,387 --> 00:04:16,680
+Ed, I'm not your ordinary,
+everyday fool. Okay?
+
+57
+00:04:18,055 --> 00:04:21,223
+Now, I'd like my Antarctic Blue
+Super Sportswagon right now.
+
+58
+00:04:21,264 --> 00:04:24,098
+If you can't get it for me,
+I'm going to take my business elsewhere!
+
+59
+00:04:25,266 --> 00:04:26,099
+Where's my old car?
+
+60
+00:04:30,476 --> 00:04:32,477
+I'm just as upset as you are.
+Believe me.
+
+61
+00:04:33,143 --> 00:04:34,143
+Davenport!
+
+62
+00:04:34,810 --> 00:04:37,769
+Get Mr. Griswold's car back!
+Bring it back here!
+
+63
+00:04:43,979 --> 00:04:45,980
+And I can get you the wagon,
+there's no problem there.
+
+64
+00:04:46,147 --> 00:04:47,731
+The problem is, it might take six weeks.
+
+65
+00:04:48,814 --> 00:04:50,898
+Now, I owe it to myself
+to tell you, Mr. Griswold...
+
+66
+00:04:51,273 --> 00:04:53,857
+...if you're thinking of taking
+the tribe cross-country...
+
+67
+00:04:53,941 --> 00:04:55,899
+...this is the automobile
+you should be using.
+
+68
+00:04:56,275 --> 00:04:57,734
+The Wagonqueen Family Truckster.
+
+69
+00:04:58,317 --> 00:05:00,818
+You think you hate it now,
+but wait until you drive it.
+
+70
+00:05:01,318 --> 00:05:04,069
+I don't want to drive it.
+I just want my old car back, okay?
+
+71
+00:05:04,819 --> 00:05:06,152
+I'm not falling for this bit.
+
+72
+00:05:06,403 --> 00:05:08,112
+No way. Let's go, Russ.
+
+73
+00:05:41,830 --> 00:05:43,122
+Clark, is that the right car?
+
+74
+00:05:43,539 --> 00:05:45,872
+No, it isn't, honey. I changed my mind.
+
+75
+00:05:46,831 --> 00:05:48,790
+They flattened our old car
+like a pancake.
+
+76
+00:05:49,832 --> 00:05:51,667
+Are you serious?
+Is this really our car, Dad?
+
+77
+00:05:53,500 --> 00:05:56,209
+What happened? I thought we were
+going to get the little Sportswagon.
+
+78
+00:05:56,543 --> 00:05:59,001
+Oh, no!
+The Sportswagon's much too small.
+
+79
+00:05:59,335 --> 00:06:00,793
+Besides, I got a great deal on this one.
+
+80
+00:06:01,545 --> 00:06:05,504
+Believe me, we're taking
+the whole tribe across country.
+
+81
+00:06:05,878 --> 00:06:07,212
+This is your automobile.
+
+82
+00:06:09,213 --> 00:06:10,255
+Why is it still running?
+
+83
+00:06:11,213 --> 00:06:12,673
+Oh, all new cars do that.
+
+84
+00:06:13,047 --> 00:06:14,506
+I'll take care of that in a second.
+
+85
+00:06:17,549 --> 00:06:20,258
+You may think you hate it now,
+but wait until you drive it.
+
+86
+00:06:23,050 --> 00:06:24,426
+An air bag!
+
+87
+00:06:24,883 --> 00:06:27,926
+You know, Clark, it's not too late
+to fly out to California.
+
+88
+00:06:28,260 --> 00:06:29,344
+We only have two weeks.
+
+89
+00:06:29,719 --> 00:06:31,678
+Let's not get into that again,
+sweet pie. Please?
+
+90
+00:06:32,886 --> 00:06:36,221
+Lots of families fly, Clark.
+Especially cross-country.
+
+91
+00:06:37,054 --> 00:06:41,014
+The idea of a family vacation
+is to be together as a family.
+
+92
+00:06:41,222 --> 00:06:45,181
+On a plane, you put on earphones
+and you're lost in your own world.
+
+93
+00:06:46,057 --> 00:06:48,016
+It's a very long drive, Clark.
+
+94
+00:06:48,391 --> 00:06:50,350
+I'm looking forward to a long drive.
+
+95
+00:06:50,517 --> 00:06:52,267
+You get to see the kids all the time!
+
+96
+00:06:53,560 --> 00:06:56,352
+I only see them a few minutes
+in the mornings and evenings...
+
+97
+00:06:56,477 --> 00:06:58,102
+...and a few hours on the weekends.
+
+98
+00:06:58,935 --> 00:07:03,563
+Someday I'll wake up and realize
+my babies have grown up!
+
+99
+00:07:03,937 --> 00:07:04,895
+And then what?
+
+100
+00:07:05,812 --> 00:07:09,147
+I just thought it would be
+easier to fly.
+
+101
+00:07:09,605 --> 00:07:11,939
+Nothing that is worthwhile
+is easy, Ellen.
+
+102
+00:07:12,981 --> 00:07:13,982
+We know that.
+
+103
+00:07:15,149 --> 00:07:15,815
+Kids?
+
+104
+00:07:17,442 --> 00:07:18,774
+Do you want to see the trip plan?
+
+105
+00:07:19,608 --> 00:07:20,942
+Not now, we're playing a game!
+
+106
+00:07:21,443 --> 00:07:22,734
+Okay, shut off the video games.
+
+107
+00:07:23,109 --> 00:07:24,444
+Come on, Russ. Shut it off.
+
+108
+00:07:25,444 --> 00:07:28,320
+I know you'll enjoy this. I've worked
+out the whole trip on the computer...
+
+109
+00:07:28,611 --> 00:07:31,487
+...so that we get the maximum amount
+of fun time at Walley World...
+
+110
+00:07:31,571 --> 00:07:33,612
+...without missing any
+of the good stuff along the way.
+
+111
+00:07:34,613 --> 00:07:35,988
+Here we go! There's us.
+
+112
+00:07:36,322 --> 00:07:38,114
+And there's Walley World!
+
+113
+00:07:38,989 --> 00:07:41,449
+Now, let's just take a look at Day One.
+Shall we?
+
+114
+00:07:41,615 --> 00:07:43,198
+Honey, come on in!
+We're going to do Day One!
+
+115
+00:07:49,200 --> 00:07:52,868
+Okay, now, there's the Family Truckster
+as we leave Chicago.
+
+116
+00:07:58,037 --> 00:08:00,203
+Rusty, please, do not eat the Truckster!
+
+117
+00:08:01,996 --> 00:08:05,456
+Russ, do you mind? I'm trying to work
+this out here on the computer.
+
+118
+00:08:07,331 --> 00:08:09,956
+Okay, Audrey. Thank you, Audrey.
+That's just great.
+
+119
+00:08:12,207 --> 00:08:13,541
+Look out, Dad, here I come.
+
+120
+00:08:14,207 --> 00:08:16,208
+All right, that's enough, Russ.
+
+121
+00:08:16,666 --> 00:08:18,125
+Okay, now,
+I think we're moving further...
+
+122
+00:08:19,001 --> 00:08:19,959
+Good shot, Audrey.
+
+123
+00:08:20,335 --> 00:08:21,667
+Dad, I forgot. Why aren't we flying?
+
+124
+00:08:22,877 --> 00:08:26,545
+Because getting there is half the fun!
+You know that!
+
+125
+00:08:29,338 --> 00:08:32,004
+I turned off the water,
+the stove, the heat and the air.
+
+126
+00:08:32,380 --> 00:08:34,671
+Locked the door and notified the police.
+Stopped the newspapers.
+
+127
+00:08:34,755 --> 00:08:36,214
+I called to get the grass cut.
+
+128
+00:08:36,298 --> 00:08:38,381
+Did I put the timers
+on the living room lights?
+
+129
+00:08:39,215 --> 00:08:40,715
+Don't forget the mail...
+
+130
+00:08:45,759 --> 00:08:46,509
+So long!
+
+131
+00:08:46,717 --> 00:08:48,051
+Drive careful now, Clark!
+
+132
+00:08:51,385 --> 00:08:52,593
+Watch those freeways!
+
+133
+00:08:53,719 --> 00:08:54,677
+Good-bye!
+
+134
+00:08:55,261 --> 00:08:56,929
+I know I've forgotten something.
+
+135
+00:08:57,887 --> 00:08:59,596
+Walley World, here we come!
+
+136
+00:09:11,433 --> 00:09:14,767
+"Mockingbird, tell me, everybody
+
+137
+00:09:15,100 --> 00:09:16,434
+"Have you heard?
+
+138
+00:09:16,684 --> 00:09:19,268
+"He's gonna buy me...
+
+139
+00:09:19,643 --> 00:09:20,977
+"A mockingbird
+
+140
+00:09:21,311 --> 00:09:24,645
+"And if that mockingbird don't sing
+
+141
+00:09:24,978 --> 00:09:29,146
+"He's gonna buy me a diamond ring
+
+142
+00:09:29,604 --> 00:09:33,397
+"And if that diamond ring don't shine
+
+143
+00:09:33,773 --> 00:09:37,316
+"He's surely gonna break
+this heart of mine
+
+144
+00:09:37,441 --> 00:09:40,775
+"And that's why I keep on singin'
+
+145
+00:09:40,858 --> 00:09:42,442
+"Did you hear now... "
+
+146
+00:09:45,651 --> 00:09:46,443
+Come on, kids.
+
+147
+00:09:46,776 --> 00:09:47,735
+We don't know any of your songs!
+
+148
+00:09:48,110 --> 00:09:49,818
+Dad, is that made up?
+It sounds made up!
+
+149
+00:09:50,277 --> 00:09:51,320
+I know a song!
+
+150
+00:09:51,653 --> 00:09:55,321
+How about
+"The Walley World National Anthem"?
+
+151
+00:09:56,321 --> 00:09:57,321
+Okay, you start it.
+
+152
+00:09:57,988 --> 00:10:02,572
+"Who's the moosiest moose we know?
+Marty Moose!
+
+153
+00:10:03,156 --> 00:10:06,491
+"Who's the star of our favorite show?
+Marty Moose!
+
+154
+00:10:06,865 --> 00:10:09,824
+" 'M' is for merry,
+we're merry, you see
+
+155
+00:10:10,325 --> 00:10:13,659
+" 'O' is for 'O' gosh!
+'O' golly! 'O' gee!
+
+156
+00:10:13,909 --> 00:10:17,327
+" 'S' is for super-swell family glee
+
+157
+00:10:17,660 --> 00:10:20,994
+" 'E' is for everything you want to be
+
+158
+00:10:21,536 --> 00:10:24,496
+"M-A-R-T-Y
+
+159
+00:10:25,497 --> 00:10:28,705
+"M-O-O-S-E
+
+160
+00:10:29,373 --> 00:10:30,206
+"What's that spell?
+
+161
+00:10:30,872 --> 00:10:33,540
+"Marty Moose, Marty Moose, Marty Moose
+
+162
+00:10:33,873 --> 00:10:36,707
+"That's me!"
+
+163
+00:10:38,124 --> 00:10:39,501
+All right! That's more like it!
+
+164
+00:10:40,209 --> 00:10:41,376
+Here's one you don't know.
+
+165
+00:10:41,501 --> 00:10:43,668
+We used to sing it
+when you were little kids.
+
+166
+00:10:44,834 --> 00:10:46,961
+"Jimmy crack corn
+And I don't care... "
+
+167
+00:11:09,467 --> 00:11:12,343
+"Swing low...
+
+168
+00:11:12,385 --> 00:11:15,386
+"Sweet chariot...
+
+169
+00:11:16,552 --> 00:11:18,511
+"Comin' for to carry me home
+
+170
+00:11:21,887 --> 00:11:24,264
+"I looked over Jordan
+and what did I see?
+
+171
+00:11:24,472 --> 00:11:25,930
+"Comin' for to carry me home"
+
+172
+00:11:28,722 --> 00:11:29,764
+What smells in here, honey?
+
+173
+00:11:31,057 --> 00:11:32,765
+Russ! Russ! Your feet.
+
+174
+00:12:31,199 --> 00:12:32,367
+Isn't this the gas tank?
+
+175
+00:12:33,491 --> 00:12:34,367
+Yes, I know, honey.
+
+176
+00:12:34,867 --> 00:12:37,868
+Get in the car.
+I'm just fixing the license plate.
+
+177
+00:12:43,995 --> 00:12:45,287
+Do you see that, kids?
+
+178
+00:12:45,536 --> 00:12:48,495
+That's the St. Louis Arch.
+The Gateway to the West.
+
+179
+00:12:48,871 --> 00:12:52,330
+It's over 600 feet tall, and there's
+an elevator all the way to the top.
+
+180
+00:12:54,998 --> 00:12:56,332
+Dad, can we go up on it?
+
+181
+00:12:56,540 --> 00:12:57,291
+No.
+
+182
+00:12:57,957 --> 00:12:59,166
+Dad, what river is this?
+
+183
+00:12:59,916 --> 00:13:02,624
+That's the Mississippi.
+The mighty Mississip.
+
+184
+00:13:04,001 --> 00:13:05,001
+The old Miss...
+
+185
+00:13:05,500 --> 00:13:07,460
+The old man...
+
+186
+00:13:17,546 --> 00:13:19,297
+Clark, I think this is the wrong exit.
+
+187
+00:13:20,089 --> 00:13:22,422
+What's the difference,
+as long as we get across the river?
+
+188
+00:13:33,259 --> 00:13:34,593
+Clark? What are you doing?
+
+189
+00:13:35,885 --> 00:13:36,760
+Just relax, Ellen.
+
+190
+00:13:37,093 --> 00:13:38,427
+This is so dangerous!
+
+191
+00:13:38,886 --> 00:13:41,511
+We have no business being
+in an area like this!
+
+192
+00:13:43,137 --> 00:13:45,055
+This is a part of America
+we never get to see.
+
+193
+00:13:45,429 --> 00:13:46,263
+That's good!
+
+194
+00:13:46,596 --> 00:13:47,555
+No, that's bad.
+
+195
+00:13:47,930 --> 00:13:50,264
+We can't close our eyes
+to the plight of the cities.
+
+196
+00:13:51,348 --> 00:13:52,931
+Kids, are you noticing all this plight?
+
+197
+00:13:54,432 --> 00:13:56,432
+This will just make us
+appreciate what we have.
+
+198
+00:13:57,933 --> 00:13:58,767
+Roll them up!
+
+199
+00:14:06,602 --> 00:14:09,478
+I'd better ask these fellows
+how to get back on the expressway.
+
+200
+00:14:13,729 --> 00:14:16,314
+I wonder if you could tell me how
+to get back on the expressway?
+
+201
+00:14:17,272 --> 00:14:18,230
+Fuck your mama!
+
+202
+00:14:18,397 --> 00:14:19,564
+Thank you very much!
+
+203
+00:14:33,319 --> 00:14:34,943
+Hey, excuse me?
+
+204
+00:14:37,153 --> 00:14:39,820
+What it is, bro'!
+We're from out of town.
+
+205
+00:14:40,570 --> 00:14:41,487
+No shit?
+
+206
+00:14:41,987 --> 00:14:43,571
+Listen, I'd really appreciate it
+if you could...
+
+207
+00:14:43,696 --> 00:14:46,405
+...give me directions
+back onto the expressway.
+
+208
+00:14:46,697 --> 00:14:47,906
+What? For free?
+
+209
+00:14:48,572 --> 00:14:49,324
+Sure.
+
+210
+00:14:49,698 --> 00:14:50,907
+Five dollars.
+
+211
+00:14:51,990 --> 00:14:53,657
+I'm not going to give you
+$5 for directions!
+
+212
+00:14:54,033 --> 00:14:55,616
+I think that's fair, Clark.
+
+213
+00:14:58,367 --> 00:14:59,618
+Okay. Here's $10.
+
+214
+00:15:03,994 --> 00:15:05,119
+Keep the change.
+
+215
+00:15:06,161 --> 00:15:08,620
+You see which way you're pointing?
+
+216
+00:15:10,663 --> 00:15:11,788
+You see that place?
+
+217
+00:15:13,038 --> 00:15:15,122
+Do you see the sign, "Rib Tips"?
+
+218
+00:15:16,665 --> 00:15:18,373
+Well, fuck that,
+you don't want to go that way.
+
+219
+00:15:18,665 --> 00:15:20,332
+I wonder if these guys
+know The Commodores.
+
+220
+00:15:21,874 --> 00:15:23,792
+You go half a block down the street...
+
+221
+00:15:23,833 --> 00:15:25,875
+...and you'll see a Torino
+with no wheels on it.
+
+222
+00:15:26,375 --> 00:15:29,043
+Inside that Torino is my cousin, Jackie.
+
+223
+00:15:29,709 --> 00:15:32,044
+Tell him that you're my boy,
+and that you're lost.
+
+224
+00:15:32,418 --> 00:15:33,836
+He'll make sure you
+get where you're going.
+
+225
+00:15:33,878 --> 00:15:36,336
+You don't want to know from me.
+I'm not from this neighborhood.
+
+226
+00:15:37,045 --> 00:15:39,712
+I'm from the west side of Chicago,
+here on vacation.
+
+227
+00:15:40,171 --> 00:15:41,838
+Thanks a lot. You've been a great help.
+
+228
+00:15:43,713 --> 00:15:46,339
+"I'm Mister Blue
+
+229
+00:15:47,048 --> 00:15:49,007
+"When you say you love me... "
+
+230
+00:15:49,340 --> 00:15:50,257
+Honey?
+
+231
+00:15:52,800 --> 00:15:54,467
+Remember when we were in college...
+
+232
+00:15:54,550 --> 00:15:57,218
+...and drove to Fort Lauderdale
+in my Austin Healy?
+
+233
+00:15:58,260 --> 00:16:00,551
+I haven't thought about that
+for a long time.
+
+234
+00:16:02,719 --> 00:16:04,679
+Remember what we did in the car?
+
+235
+00:16:05,054 --> 00:16:07,553
+It's amazing we didn't
+get into an accident.
+
+236
+00:16:08,554 --> 00:16:10,055
+Want to relive a fond memory?
+
+237
+00:16:10,263 --> 00:16:11,722
+Are you serious?
+
+238
+00:16:12,597 --> 00:16:13,555
+No!
+
+239
+00:16:13,847 --> 00:16:14,806
+Why not?
+
+240
+00:16:14,890 --> 00:16:16,515
+Because, that's why.
+
+241
+00:16:18,224 --> 00:16:19,183
+The kids are asleep.
+
+242
+00:16:19,724 --> 00:16:21,892
+Let's just wait until we get to a motel.
+
+243
+00:16:26,227 --> 00:16:30,394
+Okay, we'll wait.
+I'll find the best one on the road.
+
+244
+00:16:31,061 --> 00:16:32,436
+Do you want to put your head in my lap?
+
+245
+00:16:33,104 --> 00:16:34,062
+It's not what I was thinking.
+
+246
+00:16:35,646 --> 00:16:37,646
+Let me adjust the steering wheel.
+
+247
+00:16:39,730 --> 00:16:41,438
+There you go, out of your way.
+
+248
+00:16:42,523 --> 00:16:43,773
+Comfortable?
+
+249
+00:16:46,315 --> 00:16:46,983
+Clark?
+
+250
+00:16:48,024 --> 00:16:49,149
+My head's stuck.
+
+251
+00:16:53,609 --> 00:16:54,901
+Quit kidding around! It hurts!
+
+252
+00:16:55,484 --> 00:16:56,485
+I'm not. It's stuck.
+
+253
+00:16:57,485 --> 00:16:58,944
+Cut it out!
+
+254
+00:17:00,611 --> 00:17:03,737
+I know what you're trying to do,
+and I think it's sick!
+
+255
+00:17:05,946 --> 00:17:07,280
+The wheel's stuck, honey!
+
+256
+00:17:09,530 --> 00:17:11,073
+That was a dirty trick!
+
+257
+00:17:11,489 --> 00:17:12,823
+The damn wheel is all screwed up.
+
+258
+00:17:13,323 --> 00:17:15,782
+You're tired.
+You get weird when you get tired.
+
+259
+00:17:16,116 --> 00:17:19,241
+Let's just find a motel.
+I don't want you dozing off.
+
+260
+00:17:20,159 --> 00:17:21,534
+I'm not tired. Are you kidding?
+
+261
+00:17:23,325 --> 00:17:25,994
+I can drive for another 100 miles.
+
+262
+00:17:26,368 --> 00:17:27,995
+No problem.
+
+263
+00:17:31,996 --> 00:17:34,163
+"I stay at home at night
+
+264
+00:17:36,705 --> 00:17:39,664
+"By the phone at night
+
+265
+00:17:40,665 --> 00:17:42,623
+"But you don't call
+
+266
+00:17:43,165 --> 00:17:46,624
+"And I won't hurt my pride
+
+267
+00:17:48,375 --> 00:17:51,710
+"Call me Mister Blue
+
+268
+00:17:53,168 --> 00:17:54,460
+"I'm Mister Blue without you"
+
+269
+00:18:35,430 --> 00:18:39,765
+Sparky, why don't you turn off
+the TV and come to bed?
+
+270
+00:18:42,099 --> 00:18:42,850
+Okay, honey.
+
+271
+00:19:03,480 --> 00:19:04,814
+Well, wake up everyone.
+
+272
+00:19:05,314 --> 00:19:06,272
+We're here.
+
+273
+00:19:30,739 --> 00:19:31,405
+Clark!
+
+274
+00:19:32,989 --> 00:19:33,990
+Can I do your back, honey?
+
+275
+00:19:34,156 --> 00:19:35,239
+I've done it already.
+
+276
+00:19:36,073 --> 00:19:36,990
+Can I do your front?
+
+277
+00:19:37,908 --> 00:19:38,908
+Go do your own front.
+
+278
+00:19:44,951 --> 00:19:47,786
+We should call
+Catherine and Eddie...
+
+279
+00:19:47,827 --> 00:19:50,995
+...and tell them that we won't be in
+until tomorrow afternoon.
+
+280
+00:19:53,411 --> 00:19:56,621
+If we're not there by 10:00 a. m.,
+we'll be completely off schedule.
+
+281
+00:19:57,537 --> 00:19:58,997
+I planned very carefully...
+
+282
+00:19:59,288 --> 00:20:01,706
+...so that we would be
+at Walley World early Saturday.
+
+283
+00:20:04,164 --> 00:20:06,916
+Sparky, I know what this trip
+means to you...
+
+284
+00:20:07,457 --> 00:20:09,666
+...and that you want all of us
+to have a great time, but...
+
+285
+00:20:10,708 --> 00:20:12,626
+...it is a long way to Walley World.
+
+286
+00:20:13,793 --> 00:20:17,752
+I think it would be easier on all of us
+if you would just try to relax.
+
+287
+00:20:20,377 --> 00:20:21,711
+I'm way ahead of you, honey.
+
+288
+00:20:31,297 --> 00:20:32,423
+When did you get these glasses?
+
+289
+00:20:32,757 --> 00:20:34,173
+Oh, I have my little secrets.
+
+290
+00:20:38,382 --> 00:20:39,675
+What a nice thought.
+
+291
+00:20:46,844 --> 00:20:47,677
+Don't drink yet!
+
+292
+00:20:56,013 --> 00:20:56,764
+Ready?
+
+293
+00:21:05,849 --> 00:21:07,600
+I would like to propose a toast.
+
+294
+00:21:08,600 --> 00:21:11,226
+To a very restful vacation.
+
+295
+00:21:13,477 --> 00:21:15,602
+Here's to a very relaxing vacation.
+
+296
+00:21:16,560 --> 00:21:18,020
+To a renewed love affair.
+
+297
+00:21:22,270 --> 00:21:24,105
+To a time of joy with our kids.
+
+298
+00:21:27,940 --> 00:21:29,606
+You know, I've never told you this.
+
+299
+00:21:30,524 --> 00:21:32,440
+I know it's been a rough beginning.
+
+300
+00:21:32,524 --> 00:21:34,650
+I think there's something wrong here!
+
+301
+00:21:34,733 --> 00:21:36,316
+It's the bed.
+It will slow down in a second.
+
+302
+00:21:37,776 --> 00:21:40,442
+I got it! Here, hold on to these.
+
+303
+00:21:42,276 --> 00:21:43,318
+What are you doing?
+
+304
+00:21:43,610 --> 00:21:45,028
+Let's try this, my darling.
+
+305
+00:21:49,821 --> 00:21:51,738
+We haven't done this in a long time.
+
+306
+00:21:56,072 --> 00:21:56,906
+Oh! Clark!
+
+307
+00:21:58,407 --> 00:21:59,615
+What's that noise?
+
+308
+00:21:59,740 --> 00:22:00,824
+What's going on?
+
+309
+00:22:02,032 --> 00:22:03,616
+Don't you kids knock anymore?
+
+310
+00:22:05,033 --> 00:22:06,826
+Sorry, we thought you were fighting.
+
+311
+00:22:07,826 --> 00:22:09,201
+No one is fighting in here.
+
+312
+00:22:12,035 --> 00:22:12,953
+It is very late.
+
+313
+00:22:13,494 --> 00:22:14,661
+Where is Mom?
+
+314
+00:22:14,912 --> 00:22:16,370
+I'm under here, kids.
+
+315
+00:22:16,829 --> 00:22:18,036
+Go back to bed.
+
+316
+00:22:19,371 --> 00:22:20,371
+Go back to bed now.
+
+317
+00:22:21,663 --> 00:22:23,122
+The bed was very soft.
+
+318
+00:22:23,789 --> 00:22:25,163
+Weirdo-rama!
+
+319
+00:22:29,708 --> 00:22:33,041
+It's the same street Wyatt Earp
+kept law and order on.
+
+320
+00:22:33,542 --> 00:22:35,626
+It seems kind of dirty and touristy.
+
+321
+00:22:36,793 --> 00:22:38,167
+The Old West was dirty.
+
+322
+00:22:38,418 --> 00:22:40,002
+Everything isn't like home.
+
+323
+00:22:40,210 --> 00:22:43,294
+If it were, there would be no reason
+for leaving home, right, Rusty?
+
+324
+00:22:43,628 --> 00:22:45,086
+Yeah, Dad. This is great.
+
+325
+00:22:45,169 --> 00:22:46,879
+I'm glad we didn't go to Hawaii.
+
+326
+00:22:47,045 --> 00:22:47,963
+I'll bet you are.
+
+327
+00:22:55,756 --> 00:22:56,882
+Okay, let's go get a drink.
+
+328
+00:23:05,634 --> 00:23:07,135
+Howdy, city slickers!
+
+329
+00:23:07,468 --> 00:23:10,928
+Welcome!
+No fighting, cussing or gunslinging.
+
+330
+00:23:11,219 --> 00:23:14,220
+Watch what you say
+to our bartender. He's ornery.
+
+331
+00:23:15,220 --> 00:23:16,178
+Thank you, sheriff.
+
+332
+00:23:16,470 --> 00:23:17,513
+Marshal.
+
+333
+00:23:20,347 --> 00:23:21,431
+Give me five, partner!
+
+334
+00:23:25,849 --> 00:23:29,016
+That guy was a crummy Wyatt Earp!
+He's wearing jogging shoes!
+
+335
+00:23:29,224 --> 00:23:30,392
+Nah, they used to, Rusty.
+
+336
+00:23:30,934 --> 00:23:33,935
+Hey, knucklehead! Set us up
+with four red-eyes, will you?
+
+337
+00:23:36,059 --> 00:23:38,060
+Hey, yellow-belly! I'm talking to you!
+
+338
+00:23:42,061 --> 00:23:44,855
+Hey, tenderfoot!
+Move your chicken wings, turkey!
+
+339
+00:23:51,231 --> 00:23:53,398
+Clark! That's not nice!
+
+340
+00:23:53,815 --> 00:23:55,607
+It's part of the act, honey.
+
+341
+00:23:56,524 --> 00:23:57,733
+Hey, underpants!
+
+342
+00:24:02,484 --> 00:24:04,026
+I'm okay! I'm okay!
+
+343
+00:24:04,109 --> 00:24:05,736
+I'm all right!
+
+344
+00:24:07,652 --> 00:24:11,821
+That wasn't funny! A noise like that
+could impair the kids' hearing.
+
+345
+00:24:14,362 --> 00:24:17,405
+It was real! It looked real, didn't it?
+I thought it was real gun.
+
+346
+00:24:17,780 --> 00:24:19,489
+Didn't it look real when I fell down?
+
+347
+00:24:19,947 --> 00:24:20,615
+What?
+
+348
+00:24:20,740 --> 00:24:21,698
+Didn't it look real?
+
+349
+00:24:22,198 --> 00:24:23,073
+What?
+
+350
+00:24:23,282 --> 00:24:24,782
+Are you happy now, Clark?
+
+351
+00:24:24,907 --> 00:24:25,867
+She's deaf.
+
+352
+00:24:26,199 --> 00:24:29,492
+What's the difference? It was fun
+anyway. Let's have a drink.
+
+353
+00:24:29,784 --> 00:24:30,950
+Pardon me, sir?
+
+354
+00:24:36,620 --> 00:24:38,369
+Catherine told us to follow 50.
+
+355
+00:24:39,287 --> 00:24:43,121
+I was thinking of taking
+a detour to Liberal.
+
+356
+00:24:43,455 --> 00:24:44,288
+What for?
+
+357
+00:24:44,455 --> 00:24:45,371
+The House of Mud.
+
+358
+00:24:45,705 --> 00:24:46,623
+What's that?
+
+359
+00:24:46,873 --> 00:24:50,206
+The largest, freestanding
+mud dwelling ever built!
+
+360
+00:24:51,457 --> 00:24:53,708
+The pioneers didn't have bricks,
+so they used mud.
+
+361
+00:24:54,041 --> 00:24:56,042
+They didn't use mud, they used sod!
+
+362
+00:24:56,375 --> 00:24:57,208
+Right, Audrey.
+
+363
+00:24:57,334 --> 00:24:59,543
+When they ran out of sod,
+they used mud!
+
+364
+00:25:00,627 --> 00:25:02,919
+Let's skip The House of Mud.
+
+365
+00:25:03,294 --> 00:25:05,127
+Dodge City was enough for today.
+
+366
+00:25:06,044 --> 00:25:08,503
+And Catherine and Eddie
+are expecting us.
+
+367
+00:25:10,546 --> 00:25:11,588
+It's living history.
+
+368
+00:25:12,046 --> 00:25:14,172
+But, if you would rather visit
+your cousins...
+
+369
+00:25:15,005 --> 00:25:16,047
+...it's okay with me.
+
+370
+00:25:16,213 --> 00:25:18,632
+I would rather see
+a pile of mud than Eddie.
+
+371
+00:25:19,340 --> 00:25:20,174
+Stop it!
+
+372
+00:25:20,591 --> 00:25:21,507
+What's going on?
+
+373
+00:25:22,007 --> 00:25:24,091
+Rusty is licking his hand
+and touching me with it!
+
+374
+00:25:24,675 --> 00:25:26,342
+Tell Rusty to behave himself.
+
+375
+00:25:26,842 --> 00:25:28,176
+Rusty, behave yourself!
+
+376
+00:25:28,426 --> 00:25:31,510
+But Audrey is eating candy and
+smiling at me with her mouth open!
+
+377
+00:25:31,844 --> 00:25:33,928
+Audrey, eat with you mouth closed!
+
+378
+00:25:34,261 --> 00:25:36,428
+No eating in the car, kids!
+
+379
+00:25:36,595 --> 00:25:37,804
+You suck, you know that?
+
+380
+00:25:38,012 --> 00:25:38,763
+Retard!
+
+381
+00:25:38,929 --> 00:25:40,847
+I am trying to concentrate on the road!
+
+382
+00:25:48,432 --> 00:25:52,767
+"I've had some lonely nights
+
+383
+00:25:53,850 --> 00:25:57,726
+"And I'll admit I cried sometimes
+
+384
+00:25:57,810 --> 00:25:59,685
+"Cause you were out of my life
+
+385
+00:26:00,810 --> 00:26:03,770
+"But then you called my name
+
+386
+00:26:04,687 --> 00:26:07,187
+"And you came back again
+
+387
+00:26:07,312 --> 00:26:09,938
+"I feel so inspired
+
+388
+00:26:10,063 --> 00:26:13,481
+"Kissing your lips of fire
+
+389
+00:26:13,689 --> 00:26:16,774
+"Little boy sweet, little boy sweet,
+
+390
+00:26:17,023 --> 00:26:19,982
+"Sweet little boy of mine
+
+391
+00:26:20,899 --> 00:26:22,484
+"Come a little closer"
+
+392
+00:26:25,025 --> 00:26:26,610
+You're driving 80 miles an hour!
+
+393
+00:26:26,984 --> 00:26:28,068
+Doesn't seem that fast, honey?
+
+394
+00:26:28,109 --> 00:26:29,402
+Slow down!
+
+395
+00:26:30,985 --> 00:26:32,654
+I don't know why,
+we're making good time.
+
+396
+00:26:36,238 --> 00:26:38,613
+"Love for sale
+
+397
+00:26:39,863 --> 00:26:41,947
+"Appetizing, yummy love... "
+
+398
+00:26:59,202 --> 00:27:01,328
+They're here! Eddie, come on!
+
+399
+00:27:01,869 --> 00:27:04,287
+I can't believe it's been so long!
+
+400
+00:27:08,705 --> 00:27:11,039
+Eddie, you look terrific.
+
+401
+00:27:15,123 --> 00:27:18,874
+Come and meet your cousins!
+Look how they've grown!
+
+402
+00:27:19,208 --> 00:27:21,042
+You have lost weight, Catherine!
+
+403
+00:27:21,376 --> 00:27:23,710
+She's added a few more mouths
+to the litter.
+
+404
+00:27:26,460 --> 00:27:29,461
+Rusty and Audrey,
+cousins Vicki and Dale.
+
+405
+00:27:31,087 --> 00:27:34,213
+And this is Eddie Junior and Junior.
+
+406
+00:27:34,421 --> 00:27:36,879
+The little one hanging onto
+my skirt is Daisy-Mabel.
+
+407
+00:27:37,464 --> 00:27:39,381
+How old are you, little one.
+
+408
+00:27:40,214 --> 00:27:42,382
+She was born without a tongue, Clark.
+
+409
+00:27:43,340 --> 00:27:46,675
+But don't worry about her. She whistles
+like a bird and eats like a horse.
+
+410
+00:27:48,259 --> 00:27:51,926
+Take your cousins out back
+and show them your worm farm.
+
+411
+00:27:53,593 --> 00:27:56,511
+Come in the house, Ellen.
+I've so much to tell you.
+
+412
+00:28:02,221 --> 00:28:03,263
+Look at that car!
+
+413
+00:28:04,346 --> 00:28:05,347
+That's the Family Truckster.
+
+414
+00:28:05,681 --> 00:28:09,014
+Boy, she's a beaut!
+I like those "green walls. "
+
+415
+00:28:09,682 --> 00:28:11,181
+We had some trouble in St. Louis.
+
+416
+00:28:14,849 --> 00:28:16,517
+Well, you're looking really...
+
+417
+00:28:17,058 --> 00:28:18,058
+...fit.
+
+418
+00:28:19,351 --> 00:28:20,518
+This is your homestead, huh?
+
+419
+00:28:23,686 --> 00:28:27,186
+Yeah, I don't know for how long, though.
+
+420
+00:28:28,270 --> 00:28:31,187
+The bank's been after me like
+flies on a rib roast.
+
+421
+00:28:31,895 --> 00:28:33,564
+I know the feeling.
+
+422
+00:28:34,564 --> 00:28:35,565
+Oh, fuck it!
+
+423
+00:28:41,566 --> 00:28:43,108
+I bet you could use a cool one?
+
+424
+00:28:43,316 --> 00:28:44,400
+Now you're talking.
+
+425
+00:28:55,153 --> 00:28:55,986
+I'm going steady.
+
+426
+00:28:56,737 --> 00:28:58,237
+And I French kiss.
+
+427
+00:28:59,320 --> 00:29:00,904
+So? Everyone does that.
+
+428
+00:29:01,196 --> 00:29:03,156
+Yeah, but Daddy says I'm the best.
+
+429
+00:29:07,490 --> 00:29:08,490
+Want a worm?
+
+430
+00:29:09,323 --> 00:29:10,074
+No, thanks.
+
+431
+00:29:11,991 --> 00:29:12,907
+Do you have Pac-Man?
+
+432
+00:29:14,742 --> 00:29:15,409
+No.
+
+433
+00:29:16,075 --> 00:29:17,826
+Space Invaders?
+
+434
+00:29:18,535 --> 00:29:19,201
+No.
+
+435
+00:29:20,827 --> 00:29:21,910
+Do you have Asteroids?
+
+436
+00:29:22,119 --> 00:29:23,828
+No, but my dad does.
+
+437
+00:29:24,162 --> 00:29:26,120
+He can't even sit on the toilet
+some days.
+
+438
+00:29:29,787 --> 00:29:31,205
+What do you do here, Dale?
+
+439
+00:29:34,789 --> 00:29:36,748
+Well, I have a stack of
+nudie books this high.
+
+440
+00:29:38,874 --> 00:29:40,291
+She's beautiful!
+
+441
+00:29:44,792 --> 00:29:46,126
+Would you sell me any of them?
+
+442
+00:29:46,251 --> 00:29:49,210
+Shit, no! I cherish them!
+
+443
+00:29:51,295 --> 00:29:52,878
+And I use them a lot!
+
+444
+00:29:55,296 --> 00:29:56,629
+How do you use a magazine?
+
+445
+00:29:57,629 --> 00:29:59,088
+I'll tell you how.
+
+446
+00:30:00,422 --> 00:30:02,964
+A guy taught me something
+really neat, last year.
+
+447
+00:30:05,049 --> 00:30:06,715
+Have you ever bopped your bologna?
+
+448
+00:30:13,675 --> 00:30:14,926
+I guess we are 11, right?
+
+449
+00:30:16,302 --> 00:30:18,052
+No, we are 12 with Aunt Edna.
+
+450
+00:30:18,177 --> 00:30:20,844
+Aunt Edna? Is she still alive?
+
+451
+00:30:21,178 --> 00:30:22,012
+You bet!
+
+452
+00:30:22,762 --> 00:30:26,221
+I can't wait to see the look
+on Clark's face when he hears that.
+
+453
+00:30:27,263 --> 00:30:29,847
+She came to help when
+Eddie ruptured his spleen...
+
+454
+00:30:29,930 --> 00:30:31,764
+...and she's been here ever since.
+
+455
+00:30:33,349 --> 00:30:35,140
+She wanted to go back
+to Phoenix last year...
+
+456
+00:30:35,223 --> 00:30:36,891
+...but Eddie wouldn't let her.
+
+457
+00:30:38,224 --> 00:30:41,850
+Without her Social Security,
+we'd never be able to live like this.
+
+458
+00:30:46,269 --> 00:30:48,227
+It looks as though you've really
+got your hands full.
+
+459
+00:30:48,685 --> 00:30:50,520
+Oh, it's not so bad!
+
+460
+00:30:51,520 --> 00:30:54,854
+Eddie says after the baby comes,
+I can quit one of my night jobs.
+
+461
+00:30:59,814 --> 00:31:00,814
+How do you like yours, Clark?
+
+462
+00:31:01,731 --> 00:31:04,066
+Oh, medium rare, a little pink inside.
+
+463
+00:31:04,232 --> 00:31:06,484
+No! Your bun! Light or dark?
+
+464
+00:31:07,442 --> 00:31:08,775
+Either way, it doesn't matter.
+
+465
+00:31:10,734 --> 00:31:13,402
+Vicki, can I help you
+stir that? Please?
+
+466
+00:31:16,736 --> 00:31:19,153
+I don't know why they call this
+Hamburger Helper!
+
+467
+00:31:19,236 --> 00:31:21,446
+It's just fine by itself.
+
+468
+00:31:22,404 --> 00:31:25,280
+I like it better than Tuna Helper,
+don't you, Clark?
+
+469
+00:31:25,738 --> 00:31:27,656
+You're the gourmet, Ed.
+
+470
+00:31:33,491 --> 00:31:34,575
+No meat in this?
+
+471
+00:31:34,908 --> 00:31:37,576
+You get plenty of meat at home.
+Be polite. Have some ketchup.
+
+472
+00:31:43,452 --> 00:31:44,786
+Real tomato ketchup, Eddie?
+
+473
+00:31:45,203 --> 00:31:46,286
+Nothing but the best!
+
+474
+00:31:48,620 --> 00:31:49,579
+Aunt Edna!
+
+475
+00:31:49,870 --> 00:31:51,663
+Helper's getting cold.
+
+476
+00:31:53,871 --> 00:31:55,373
+Is that your Aunt Edna?
+
+477
+00:32:04,291 --> 00:32:08,043
+Aunt Edna! After all these years!
+And you look so good!
+
+478
+00:32:13,294 --> 00:32:15,628
+Hi, Edna! Nice to see you again!
+
+479
+00:32:16,628 --> 00:32:18,045
+You remember Clark, don't you?
+
+480
+00:32:21,629 --> 00:32:24,381
+You were the ones who sent me
+the fruitcake for Christmas.
+
+481
+00:32:24,797 --> 00:32:26,298
+It made me so sick!
+
+482
+00:32:27,881 --> 00:32:31,341
+I'm sorry. We thought
+you enjoyed fruitcake.
+
+483
+00:32:31,508 --> 00:32:33,925
+Do you enjoy throwing up
+every five minutes, Claud?
+
+484
+00:32:34,591 --> 00:32:35,259
+Clark.
+
+485
+00:32:37,717 --> 00:32:41,177
+Well, am I going to eat
+or starve to death?
+
+486
+00:32:44,844 --> 00:32:46,388
+Catherine?
+
+487
+00:32:46,637 --> 00:32:49,012
+Did you tell Clark and Ellen
+the good news.
+
+488
+00:32:50,347 --> 00:32:52,305
+No. I was just about to.
+
+489
+00:32:52,847 --> 00:32:54,515
+What's the good news?
+
+490
+00:32:55,181 --> 00:32:57,765
+You are driving me to Phoenix!
+
+491
+00:33:10,186 --> 00:33:11,769
+"Junior Pig Competition"?
+
+492
+00:33:13,144 --> 00:33:14,770
+You won this trophy for racing a pig?
+
+493
+00:33:15,271 --> 00:33:16,521
+Yeah. First Place.
+
+494
+00:33:17,938 --> 00:33:19,688
+Does anyone know about it?
+
+495
+00:33:20,897 --> 00:33:21,855
+Everyone knows.
+
+496
+00:33:23,482 --> 00:33:28,441
+Vicki, don't be offended, but being
+a farmer is not too cool, you know.
+
+497
+00:33:30,401 --> 00:33:31,359
+Oh, yeah.
+
+498
+00:33:34,235 --> 00:33:35,568
+How cool...
+
+499
+00:33:36,527 --> 00:33:37,819
+...is this?
+
+500
+00:33:45,238 --> 00:33:48,322
+I'm really glad things
+are going well for you.
+
+501
+00:33:53,573 --> 00:33:57,950
+I was laid off when they
+closed that asbestos factory.
+
+502
+00:34:01,326 --> 00:34:03,118
+The Army cuts my disability pension.
+
+503
+00:34:03,410 --> 00:34:06,743
+They claimed the plate in my head
+wasn't large enough.
+
+504
+00:34:11,704 --> 00:34:14,620
+Clark and Ellen don't want
+to hear about problems.
+
+505
+00:34:15,289 --> 00:34:16,621
+No, no. It is very interesting.
+
+506
+00:34:16,955 --> 00:34:19,998
+Why don't you just ask him
+for the money, Eddie?
+
+507
+00:34:20,164 --> 00:34:22,124
+He sure as hell can't take a hint!
+
+508
+00:34:22,790 --> 00:34:25,624
+Well, I didn't want to ask you, Clark.
+
+509
+00:34:27,292 --> 00:34:30,917
+Could you, maybe,
+spare a little extra cash?
+
+510
+00:34:31,042 --> 00:34:32,335
+Sure, Eddie!
+
+511
+00:34:37,420 --> 00:34:38,420
+How much money do you need?
+
+512
+00:34:39,212 --> 00:34:40,962
+About $52,000.
+
+513
+00:34:44,297 --> 00:34:45,964
+Good-bye, baby!
+
+514
+00:34:46,714 --> 00:34:48,256
+You'll send those checks?
+
+515
+00:34:48,964 --> 00:34:49,965
+It's taken care of.
+
+516
+00:34:51,132 --> 00:34:52,548
+Okay, let's go. Come on, Edna.
+
+517
+00:34:52,883 --> 00:34:53,883
+Lay off, lay off!
+
+518
+00:34:55,591 --> 00:34:56,842
+Well, gotta be going.
+
+519
+00:34:57,925 --> 00:34:58,884
+What's this?
+
+520
+00:34:58,925 --> 00:35:00,010
+This is for you, Clark.
+
+521
+00:35:00,676 --> 00:35:01,885
+Oh, what is it?
+
+522
+00:35:02,551 --> 00:35:03,510
+A gift.
+
+523
+00:35:03,719 --> 00:35:05,677
+You didn't have to buy me a gift!
+
+524
+00:35:06,011 --> 00:35:07,179
+Go on and open it.
+
+525
+00:35:11,388 --> 00:35:12,596
+Eddie, you shouldn't have.
+
+526
+00:35:14,680 --> 00:35:16,014
+Those are great, Dad!
+
+527
+00:35:16,347 --> 00:35:17,182
+Be quiet, Russ.
+
+528
+00:35:18,015 --> 00:35:18,931
+Try them on.
+
+529
+00:35:19,098 --> 00:35:20,599
+No, no, I don't want to get them dirty.
+
+530
+00:35:20,765 --> 00:35:22,515
+I told you he wouldn't like them!
+
+531
+00:35:23,516 --> 00:35:24,434
+I love them.
+
+532
+00:35:24,766 --> 00:35:27,435
+I knew you did because
+the last time I saw you, Clark...
+
+533
+00:35:27,601 --> 00:35:29,435
+...you remarked about
+how much you liked mine.
+
+534
+00:35:29,517 --> 00:35:31,477
+I guess we better be going.
+
+535
+00:35:40,062 --> 00:35:42,813
+Here he is, Uncle Clark,
+all walked and everything.
+
+536
+00:35:42,980 --> 00:35:43,980
+What is this? A dog?
+
+537
+00:35:44,522 --> 00:35:46,564
+He's Aunt Edna's dog, Dinky.
+
+538
+00:35:46,647 --> 00:35:48,274
+He watches "Family Feud. "
+
+539
+00:35:49,899 --> 00:35:50,857
+How are you, little fellow?
+
+540
+00:35:55,193 --> 00:35:57,902
+You didn't get to meet Dinky last night.
+
+541
+00:35:58,152 --> 00:36:00,402
+He had the shits,
+so he slept in the barn.
+
+542
+00:36:00,735 --> 00:36:03,903
+Great. I'll make some space
+for him in the back.
+
+543
+00:36:06,612 --> 00:36:08,821
+No! Sit, sit!
+Roll over! Heel!
+
+544
+00:36:09,155 --> 00:36:10,238
+Here. Have a good trip.
+
+545
+00:36:10,738 --> 00:36:11,489
+Thanks a lot.
+
+546
+00:36:23,742 --> 00:36:26,410
+"I found out long ago
+
+547
+00:36:28,534 --> 00:36:31,535
+"It's a long way down a Holiday Road
+
+548
+00:36:33,870 --> 00:36:36,371
+"Holiday Road!
+
+549
+00:36:36,704 --> 00:36:39,622
+"Holiday Road! "
+
+550
+00:36:40,622 --> 00:36:43,498
+Look at these sandwiches.
+Here, Aunt Edna.
+
+551
+00:36:43,539 --> 00:36:44,332
+Thank you.
+
+552
+00:36:47,457 --> 00:36:50,416
+Rusty, stop playing with the dog
+and come and eat your lunch.
+
+553
+00:36:57,877 --> 00:37:00,337
+You're favorite, bologna and cheese.
+
+554
+00:37:20,842 --> 00:37:25,010
+"I've had some lonely nights
+
+555
+00:37:26,177 --> 00:37:29,928
+"And I'll admit I cried sometimes
+
+556
+00:37:30,261 --> 00:37:32,595
+"Cause you were out of my life
+
+557
+00:37:33,179 --> 00:37:35,846
+"But then you called my name
+
+558
+00:37:36,846 --> 00:37:39,514
+"And you came back again
+
+559
+00:37:39,847 --> 00:37:42,182
+"I feel so inspired
+
+560
+00:37:42,515 --> 00:37:45,849
+"Kissing your lips of fire
+
+561
+00:37:46,266 --> 00:37:48,600
+"Little boy sweet, little boy sweet
+
+562
+00:37:49,517 --> 00:37:51,851
+"Sweet little boy of mine
+
+563
+00:37:53,185 --> 00:37:54,519
+"Come a little closer
+
+564
+00:37:55,019 --> 00:37:56,686
+"I want to show you
+
+565
+00:37:57,853 --> 00:37:59,520
+"What's on my mind
+
+566
+00:38:00,187 --> 00:38:02,854
+"Here in the night, here in the night
+
+567
+00:38:03,437 --> 00:38:06,772
+"Here in the night, together
+
+568
+00:38:07,647 --> 00:38:09,648
+"I want to show you
+
+569
+00:38:10,315 --> 00:38:14,482
+"Love so... warm and tender!"
+
+570
+00:38:15,067 --> 00:38:16,566
+Mom, my sandwich is wet!
+
+571
+00:38:17,150 --> 00:38:18,734
+They're all wet...
+
+572
+00:38:21,235 --> 00:38:23,069
+The dog went on the picnic basket!
+
+573
+00:38:38,156 --> 00:38:40,490
+"Jack be nimble, Jack be quick
+
+574
+00:38:43,408 --> 00:38:46,367
+"Going to take a ride
+to the West Coast, kids
+
+575
+00:38:47,909 --> 00:38:52,576
+"Holiday Road!
+
+576
+00:38:53,245 --> 00:38:57,246
+"Holiday Road!
+
+577
+00:38:58,037 --> 00:39:02,705
+"Holiday Road!
+
+578
+00:39:03,622 --> 00:39:05,372
+"Holiday Road! "
+
+579
+00:39:23,795 --> 00:39:24,712
+Russ, look!
+
+580
+00:39:25,712 --> 00:39:27,046
+Excellent! They have a pool!
+
+581
+00:39:29,130 --> 00:39:30,463
+Aren't the woods beautiful?
+
+582
+00:39:32,463 --> 00:39:35,381
+Clark! Dinky needs
+a long walk and a bath.
+
+583
+00:39:36,215 --> 00:39:37,549
+Rusty, take care of Dinky.
+
+584
+00:39:38,716 --> 00:39:39,674
+Dad, he bites!
+
+585
+00:39:39,882 --> 00:39:41,466
+Bite him back!
+
+586
+00:39:59,180 --> 00:40:00,847
+We would like three tents, please.
+
+587
+00:40:01,181 --> 00:40:02,848
+All right. That'll be $37.
+
+588
+00:40:03,347 --> 00:40:05,348
+$37 for three tents?!
+
+589
+00:40:05,682 --> 00:40:07,348
+They're very nice tents.
+
+590
+00:40:07,432 --> 00:40:09,683
+The price includes
+scenery and wildlife fun.
+
+591
+00:40:13,392 --> 00:40:16,602
+This seems like a nice place,
+and it has a pool.
+
+592
+00:40:17,602 --> 00:40:18,436
+All right.
+
+593
+00:40:19,103 --> 00:40:21,186
+Would you fill that out?
+
+594
+00:40:27,521 --> 00:40:29,856
+Clark W. Griswold.
+Do you want my address?
+
+595
+00:40:30,606 --> 00:40:31,439
+Please.
+
+596
+00:40:31,814 --> 00:40:33,356
+What do you need my address for?
+
+597
+00:40:33,398 --> 00:40:34,898
+We like to send out mailers.
+
+598
+00:40:38,984 --> 00:40:40,901
+- I can't wait to get in!
+- Me, too.
+
+599
+00:40:41,233 --> 00:40:43,818
+Let's go get our bathing suits.
+
+600
+00:40:46,736 --> 00:40:47,736
+Disgusting!
+
+601
+00:40:52,821 --> 00:40:54,821
+You're too cheap to pay
+for a hotel room.
+
+602
+00:40:56,906 --> 00:40:59,907
+Oh, Clark, this tent smells.
+
+603
+00:41:01,740 --> 00:41:02,740
+Edna, this is your tent.
+
+604
+00:41:25,288 --> 00:41:26,956
+This isn't very romantic.
+
+605
+00:41:28,123 --> 00:41:32,124
+I don't think there's enough room
+for two in this sleeping bag.
+
+606
+00:41:33,290 --> 00:41:35,791
+Right now, we're one.
+
+607
+00:41:36,000 --> 00:41:38,168
+One heart beating for two.
+
+608
+00:41:45,669 --> 00:41:48,295
+Sparky, there's a wild animal.
+
+609
+00:41:48,378 --> 00:41:49,046
+Yes.
+
+610
+00:41:49,545 --> 00:41:51,630
+I know, I'm going for it, honey.
+
+611
+00:41:55,631 --> 00:41:56,464
+Get off!
+
+612
+00:41:56,714 --> 00:41:57,714
+Down! Go!
+
+613
+00:41:58,132 --> 00:41:59,465
+I'm sorry, honey. It's Dinky.
+
+614
+00:42:04,717 --> 00:42:06,009
+I'll kill that dog!
+
+615
+00:42:17,762 --> 00:42:19,096
+What do you say, honey?
+
+616
+00:42:20,429 --> 00:42:22,680
+In spite of the problems,
+it's fun isn't it?
+
+617
+00:42:23,680 --> 00:42:24,347
+No!
+
+618
+00:42:25,181 --> 00:42:27,932
+But with each new day there's new hope.
+
+619
+00:42:30,349 --> 00:42:32,016
+Kids, let's go!
+
+620
+00:42:32,600 --> 00:42:33,767
+We're losing daylight.
+
+621
+00:42:35,601 --> 00:42:36,601
+Did you walk him?
+
+622
+00:42:36,935 --> 00:42:39,019
+He took a big one
+on Aunt Edna's blanket.
+
+623
+00:42:40,019 --> 00:42:41,019
+Good boy.
+
+624
+00:42:41,685 --> 00:42:42,520
+Help!
+
+625
+00:42:42,686 --> 00:42:45,020
+Go take care of Aunt Edna.
+I'll take the leash.
+
+626
+00:42:49,438 --> 00:42:50,438
+Roll over, Dinky!
+
+627
+00:42:55,564 --> 00:42:56,941
+You're tearing my flesh!
+
+628
+00:42:57,315 --> 00:42:58,482
+Good morning, Edna.
+
+629
+00:43:05,442 --> 00:43:06,443
+Audrey, you're next.
+
+630
+00:43:06,568 --> 00:43:07,902
+No way, José!
+
+631
+00:43:09,986 --> 00:43:11,194
+What's the problem?
+
+632
+00:43:11,319 --> 00:43:14,570
+I had to sit next to Aunt Edna
+last time. She smells like mothballs!
+
+633
+00:43:15,237 --> 00:43:16,320
+It's her turn.
+
+634
+00:43:16,655 --> 00:43:20,823
+For your information, Rusty slept
+in his underpants last night!
+
+635
+00:43:21,906 --> 00:43:22,989
+Easy kids! Stop it!
+
+636
+00:43:23,405 --> 00:43:25,573
+Everyone into the car,
+we leave in two minutes.
+
+637
+00:43:27,241 --> 00:43:30,742
+Or perhaps you don't want to see the
+second-largest ball of twine on earth.
+
+638
+00:43:30,826 --> 00:43:33,367
+Which is only four short hours away.
+
+639
+00:43:39,994 --> 00:43:41,286
+Sweetheart, do you hear that rattle?
+
+640
+00:43:42,328 --> 00:43:43,662
+Where is it coming from?
+
+641
+00:43:43,870 --> 00:43:45,080
+Beats the heck out of me.
+
+642
+00:43:45,162 --> 00:43:47,997
+I've been looking for it since we left.
+It's driving me crazy!
+
+643
+00:43:49,539 --> 00:43:51,498
+Dad, look behind you.
+
+644
+00:43:54,206 --> 00:43:55,541
+Now what have we done?
+
+645
+00:43:55,791 --> 00:43:56,999
+Will you hold my purse?
+
+646
+00:43:57,290 --> 00:43:58,375
+Just hold my purse!
+
+647
+00:44:19,297 --> 00:44:20,965
+Hello, officer, what's the problem?
+
+648
+00:44:24,049 --> 00:44:25,716
+Get out of the car!
+
+649
+00:44:32,927 --> 00:44:35,093
+I don't think I was speeding.
+Was I weaving or something?
+
+650
+00:44:35,176 --> 00:44:36,636
+Shut up, sir!
+
+651
+00:44:39,012 --> 00:44:42,054
+If I wasn't in uniform, I'd split your
+skull with the butt of this revolver...
+
+652
+00:44:42,262 --> 00:44:44,430
+...faster than you could
+say, "police brutality. "
+
+653
+00:44:45,513 --> 00:44:48,222
+Officer, whatever it is I've done,
+I'm sure I can explain.
+
+654
+00:44:53,016 --> 00:44:54,933
+Explain this, you son of a bitch.
+
+655
+00:44:55,766 --> 00:44:56,767
+Oh, my God!
+
+656
+00:44:58,934 --> 00:45:02,978
+Do you know what the penalty
+for animal cruelty is in this state?
+
+657
+00:45:03,436 --> 00:45:04,269
+No, sir.
+
+658
+00:45:07,270 --> 00:45:08,895
+It's probably pretty stiff!
+
+659
+00:45:09,687 --> 00:45:11,980
+You can't think I'd do this on purpose?
+
+660
+00:45:13,355 --> 00:45:15,814
+I tied him to the rear bumper
+when I was packing the car.
+
+661
+00:45:16,439 --> 00:45:18,189
+It was very confusing,
+I must've forgotten.
+
+662
+00:45:20,649 --> 00:45:22,441
+I'm sorry. I feel terrible.
+
+663
+00:45:23,650 --> 00:45:25,650
+How do you think that little dog feels?
+
+664
+00:45:31,152 --> 00:45:33,820
+I'm sorry, it really was an accident.
+
+665
+00:45:37,237 --> 00:45:38,821
+I guess I can buy that, sir.
+
+666
+00:45:39,738 --> 00:45:40,947
+But it is a shame.
+
+667
+00:45:42,155 --> 00:45:44,156
+I had a dog like that when I was a kid.
+
+668
+00:45:47,406 --> 00:45:48,574
+Poor little guy.
+
+669
+00:45:48,824 --> 00:45:51,116
+He probably kept up with you
+for a mile or so.
+
+670
+00:45:52,992 --> 00:45:53,992
+Tough little mutt.
+
+671
+00:46:04,829 --> 00:46:07,328
+I was afraid you would
+get pulled over, Clark.
+
+672
+00:46:07,704 --> 00:46:11,038
+You've been exceeding the speed
+limit for thousands of miles!
+
+673
+00:46:11,371 --> 00:46:12,205
+Dad wasn't speeding.
+
+674
+00:46:12,372 --> 00:46:14,205
+The officer stopped us
+because Dad...
+
+675
+00:46:14,331 --> 00:46:15,665
+He was speeding, Rusty!
+
+676
+00:46:16,123 --> 00:46:17,123
+No, he wasn't, Mom.
+
+677
+00:46:17,540 --> 00:46:19,708
+Listen to your mother!
+I was speeding.
+
+678
+00:46:20,207 --> 00:46:21,333
+I was driving like a maniac.
+
+679
+00:46:21,624 --> 00:46:24,125
+We can all be grateful
+that this man stopped us!
+
+680
+00:46:24,417 --> 00:46:26,001
+- You see, kids, a car...
+- Here's the leash, sir.
+
+681
+00:46:26,126 --> 00:46:28,878
+I'm going back to get the rest
+of the carcass off the road.
+
+682
+00:46:28,961 --> 00:46:29,961
+Thank you, officer.
+
+683
+00:46:30,794 --> 00:46:31,961
+Have a nice day.
+
+684
+00:46:45,799 --> 00:46:47,090
+Is this your idea of a good restaurant?
+
+685
+00:46:48,632 --> 00:46:49,717
+Dog killer!
+
+686
+00:46:50,966 --> 00:46:52,718
+I'm sure the food is just fine.
+
+687
+00:46:53,967 --> 00:46:55,217
+I'll take that.
+
+688
+00:46:56,302 --> 00:46:57,302
+Thank you.
+
+689
+00:46:57,677 --> 00:46:59,010
+Oh, kids!
+
+690
+00:47:03,512 --> 00:47:04,179
+Waitress!
+
+691
+00:47:28,603 --> 00:47:32,687
+"I've had some lonely nights
+
+692
+00:47:33,897 --> 00:47:36,688
+"And I'll admit I cried sometimes
+
+693
+00:47:37,898 --> 00:47:40,690
+"Cause you were out of my life
+
+694
+00:47:41,148 --> 00:47:43,732
+"But then you called my name
+
+695
+00:47:44,858 --> 00:47:47,441
+"And you came back again
+
+696
+00:47:47,567 --> 00:47:50,317
+"I feel so inspired
+
+697
+00:47:50,400 --> 00:47:53,151
+"Kissing your lips of fire
+
+698
+00:47:53,860 --> 00:47:55,903
+"Little boy sweet, little boy sweet
+
+699
+00:47:57,402 --> 00:47:58,737
+"Sweet little boy of mine"
+
+700
+00:48:14,491 --> 00:48:15,825
+What happened?
+
+701
+00:48:17,659 --> 00:48:19,701
+What happened to your hair?
+
+702
+00:48:20,326 --> 00:48:21,576
+You're sweating!
+
+703
+00:48:21,993 --> 00:48:23,077
+Are you blushing?
+
+704
+00:48:23,244 --> 00:48:25,035
+Don't be silly.
+
+705
+00:48:25,328 --> 00:48:26,745
+Are you all right, Clark?
+
+706
+00:48:26,994 --> 00:48:28,995
+Of course, I'm fine!
+I'm having a ball!
+
+707
+00:48:36,373 --> 00:48:39,540
+Come on, honey, look at the mountains,
+breathe the air!
+
+708
+00:48:42,040 --> 00:48:43,625
+Put on a happy face for me.
+
+709
+00:48:49,167 --> 00:48:51,835
+I guess there's not much
+more that can happen to us.
+
+710
+00:48:53,044 --> 00:48:54,836
+I think the worst is behind us.
+
+711
+00:49:03,631 --> 00:49:05,714
+Clark, I need my vanity case.
+
+712
+00:49:06,297 --> 00:49:07,715
+We have to go back and look for it.
+
+713
+00:49:08,549 --> 00:49:10,049
+All my credit cards are in it.
+
+714
+00:49:10,550 --> 00:49:13,717
+Honey, number one: I've already
+called the bank and reported the loss.
+
+715
+00:49:14,384 --> 00:49:16,968
+We'll never find it when
+we don't know where it fell off.
+
+716
+00:49:17,552 --> 00:49:19,009
+And three: I've got my credit cards.
+
+717
+00:49:19,176 --> 00:49:21,219
+And we've still got plenty of cash, okay?
+
+718
+00:49:21,636 --> 00:49:24,220
+No, we don't.
+You gave $500 to Eddie.
+
+719
+00:49:24,554 --> 00:49:28,263
+And everything has cost twice
+as much as you figured out.
+
+720
+00:49:28,388 --> 00:49:30,639
+Honey, there's nothing in that luggage
+that can't be replaced.
+
+721
+00:49:30,972 --> 00:49:32,639
+Except for your diaphragm.
+
+722
+00:49:33,138 --> 00:49:35,014
+We can cash a check down the road.
+
+723
+00:49:35,640 --> 00:49:37,182
+Don't you trust me?
+
+724
+00:49:37,890 --> 00:49:40,432
+As long as you don't tie me
+to the rear bumper.
+
+725
+00:49:44,059 --> 00:49:45,184
+That hurt.
+
+726
+00:49:46,643 --> 00:49:48,352
+Clark, I think we're lost.
+
+727
+00:49:48,811 --> 00:49:49,977
+We're not lost!
+
+728
+00:49:50,143 --> 00:49:52,103
+Ellen, please, let me do the driving.
+
+729
+00:49:52,478 --> 00:49:56,396
+I don't think you'll find
+the Grand Canyon on this road.
+
+730
+00:49:56,729 --> 00:49:59,355
+Jesus, it's only the biggest
+goddamn hole in the world!
+
+731
+00:49:59,480 --> 00:50:00,730
+Clark, watch your language!
+
+732
+00:50:01,565 --> 00:50:03,147
+Make that the second largest.
+
+733
+00:50:03,648 --> 00:50:06,440
+Dad, I haven't seen a car for an hour!
+
+734
+00:50:06,607 --> 00:50:09,108
+Shut up, Audrey!
+Dad knows where he's going.
+
+735
+00:50:09,233 --> 00:50:09,858
+Thank you.
+
+736
+00:50:10,567 --> 00:50:11,526
+You're lost!
+
+737
+00:50:13,484 --> 00:50:15,193
+Ma, I saw some detour signs!
+
+738
+00:50:15,569 --> 00:50:16,193
+I didn't see any.
+
+739
+00:50:16,569 --> 00:50:19,570
+I saw them when you and Mom
+were trying to fold the map.
+
+740
+00:50:20,570 --> 00:50:22,487
+When they close a road
+they put up big signs.
+
+741
+00:50:22,612 --> 00:50:23,571
+Like this one.
+
+742
+00:50:45,535 --> 00:50:47,077
+I think I broke my nose!
+
+743
+00:50:47,286 --> 00:50:48,619
+I stabbed my brain.
+
+744
+00:50:48,786 --> 00:50:50,245
+I just got my period.
+
+745
+00:50:51,453 --> 00:50:52,537
+I'm going to check under the hood.
+
+746
+00:51:06,040 --> 00:51:08,542
+Audrey, gather up all the clothes,
+and put them in a pile.
+
+747
+00:51:08,875 --> 00:51:11,876
+Rusty, find the first aid kit,
+then bring the suitcases here.
+
+748
+00:51:12,209 --> 00:51:14,043
+Where can I go to the bathroom?
+
+749
+00:51:14,960 --> 00:51:16,628
+Find a bush, Audrey!
+
+750
+00:51:19,086 --> 00:51:21,629
+Dad, you must've jumped
+the car about 50 yards!
+
+751
+00:51:22,171 --> 00:51:24,297
+It's nothing to be proud of, Rusty.
+
+752
+00:51:25,589 --> 00:51:26,630
+Fifty yards.
+
+753
+00:51:27,922 --> 00:51:30,632
+Ellen, get me out of here!
+
+754
+00:51:32,007 --> 00:51:34,508
+Stay in the car!
+It's hot and dangerous out here!
+
+755
+00:51:34,592 --> 00:51:37,091
+Don't you tell me what to do!
+I'll do what I want!
+
+756
+00:51:37,925 --> 00:51:40,342
+I should never have come
+on this trip with you!
+
+757
+00:51:40,509 --> 00:51:41,843
+I should have taken an airplane!
+
+758
+00:51:42,343 --> 00:51:45,927
+And he, he shouldn't even have
+a license to drive an automobile.
+
+759
+00:51:46,344 --> 00:51:48,304
+He should be behind bars!
+
+760
+00:51:50,012 --> 00:51:52,472
+Sit down, and shut up!
+
+761
+00:51:59,515 --> 00:52:01,849
+Move out of that seat,
+and I'll split your lip!
+
+762
+00:52:10,268 --> 00:52:11,519
+Rusty, come up here!
+
+763
+00:52:14,895 --> 00:52:17,853
+I am going to have to hike down
+the road to find a service station.
+
+764
+00:52:17,936 --> 00:52:20,146
+I want you to stay here
+and take care of things.
+
+765
+00:52:21,396 --> 00:52:22,355
+Will you be okay?
+
+766
+00:52:22,564 --> 00:52:23,481
+Oh, sure.
+
+767
+00:52:25,981 --> 00:52:28,982
+I haven't had a chance
+to talk to you, man to man.
+
+768
+00:52:29,732 --> 00:52:31,399
+I've only been a man a few days, Dad.
+
+769
+00:52:34,233 --> 00:52:36,068
+You're growing up so fast.
+
+770
+00:52:37,651 --> 00:52:39,402
+I have spent the past 15 years...
+
+771
+00:52:39,444 --> 00:52:42,445
+...developing newer and better
+food additives.
+
+772
+00:52:43,819 --> 00:52:45,361
+I guess I missed a lot.
+
+773
+00:52:47,904 --> 00:52:50,238
+At first, I didn't want
+to take this vacation.
+
+774
+00:52:51,489 --> 00:52:52,739
+Now I'm glad I did.
+
+775
+00:52:53,573 --> 00:52:56,407
+It has given me a chance
+to spend more time with you and...
+
+776
+00:52:57,240 --> 00:52:57,865
+Audrey.
+
+777
+00:52:58,115 --> 00:52:59,115
+Audrey. Yeah.
+
+778
+00:53:01,824 --> 00:53:03,326
+It's been fun for me, too, Dad.
+
+779
+00:53:04,909 --> 00:53:06,159
+Except for Aunt Edna.
+
+780
+00:53:07,243 --> 00:53:09,410
+She doesn't mean to be
+a pain in the rump.
+
+781
+00:53:09,619 --> 00:53:11,078
+It's just the way she is.
+
+782
+00:53:11,702 --> 00:53:13,329
+Let's not let it spoil our fun, okay?
+
+783
+00:53:13,454 --> 00:53:14,412
+I won't.
+
+784
+00:53:15,037 --> 00:53:17,580
+Maybe she would be nicer
+if she had a family of her own.
+
+785
+00:53:18,372 --> 00:53:21,872
+Instead of always having to latch
+onto someone else's.
+
+786
+00:53:24,374 --> 00:53:26,207
+You're a pretty bright little guy.
+
+787
+00:53:26,540 --> 00:53:27,791
+Excuse me... man.
+
+788
+00:53:33,626 --> 00:53:34,251
+It's okay.
+
+789
+00:53:36,709 --> 00:53:37,960
+Do you know what I want to do?
+
+790
+00:53:40,544 --> 00:53:42,711
+When I was your age,
+my dad shared a beer with me.
+
+791
+00:53:42,878 --> 00:53:45,129
+And I thought it was
+the best thing ever.
+
+792
+00:53:57,715 --> 00:54:00,467
+When I was a boy, just about
+every summer we'd take a vacation.
+
+793
+00:54:02,218 --> 00:54:05,718
+In 18 years, we never had fun.
+
+794
+00:54:09,095 --> 00:54:10,678
+Now I have my own family.
+
+795
+00:54:10,844 --> 00:54:12,304
+And we're on our own vacation.
+
+796
+00:54:12,513 --> 00:54:13,429
+You know what?
+
+797
+00:54:14,179 --> 00:54:15,013
+What, Dad?
+
+798
+00:54:16,097 --> 00:54:17,597
+We're going to have fun.
+
+799
+00:54:22,848 --> 00:54:23,848
+We're going to have fun.
+
+800
+00:54:26,808 --> 00:54:28,392
+Don't let your mother smell
+that beer on your breath.
+
+801
+00:54:28,558 --> 00:54:30,059
+She'll take it out on me.
+
+802
+00:54:31,725 --> 00:54:34,435
+I better get moving if I want
+to get us out of here by dark.
+
+803
+00:54:38,019 --> 00:54:39,479
+Good talk, son.
+
+804
+00:54:39,687 --> 00:54:40,645
+Good talk, Dad.
+
+805
+00:54:42,020 --> 00:54:42,688
+Clark?
+
+806
+00:54:48,689 --> 00:54:52,065
+I just had a good talk with Rusty.
+You'll be in good hands here, honey.
+
+807
+00:54:54,108 --> 00:54:55,191
+Where are you going?!
+
+808
+00:54:55,941 --> 00:54:58,817
+There must be a phone or a gas station
+around here, honey.
+
+809
+00:55:00,443 --> 00:55:02,944
+All right, but if you're
+not back in an hour...
+
+810
+00:55:03,652 --> 00:55:06,487
+I'll be fine. You'll be fine.
+I'm sure this happens all the time.
+
+811
+00:55:06,653 --> 00:55:08,570
+A patrol car will be by any minute.
+
+812
+00:55:10,488 --> 00:55:11,821
+"Over the river and through the woods
+
+813
+00:55:11,988 --> 00:55:13,655
+"To Grandmother's house we go
+
+814
+00:55:15,155 --> 00:55:16,489
+"A thousand bottles of beer on the wall
+
+815
+00:55:21,157 --> 00:55:22,449
+"Four bottles of beer
+
+816
+00:55:23,324 --> 00:55:25,033
+"If one of those bottles
+should happen to fall...
+
+817
+00:55:25,658 --> 00:55:28,493
+"I love a parade
+
+818
+00:55:29,076 --> 00:55:32,077
+"The trampling of feet,
+I love the beat I hear of a drum
+
+819
+00:55:33,327 --> 00:55:35,661
+"I love a parade"
+
+820
+00:55:45,248 --> 00:55:49,873
+We pass a goddamn gas station
+every 100 yards for 1,000 miles!
+
+821
+00:55:50,499 --> 00:55:53,000
+But when you really need one,
+you end up walking your ass off.
+
+822
+00:55:53,166 --> 00:55:54,667
+This is no way to run a desert!
+
+823
+00:55:56,334 --> 00:55:57,625
+Jesus! I'm going to die!
+
+824
+00:55:59,502 --> 00:56:00,585
+What an asshole!
+
+825
+00:56:06,837 --> 00:56:08,171
+Taxi. Taxi!
+
+826
+00:56:10,005 --> 00:56:11,005
+I'm dead.
+
+827
+00:56:15,798 --> 00:56:17,007
+I'm dying. I'm dead. I'm finished.
+
+828
+00:56:20,716 --> 00:56:22,009
+Hot! Hot!
+
+829
+00:56:50,475 --> 00:56:52,434
+I'm not sure of his
+exact height and weight.
+
+830
+00:56:52,809 --> 00:56:54,559
+All I know is the man was
+a saint with children...
+
+831
+00:56:54,726 --> 00:56:56,394
+...and a genius with food additives...
+
+832
+00:56:57,060 --> 00:56:57,852
+...and...
+
+833
+00:56:58,060 --> 00:56:59,019
+Clark!
+
+834
+00:56:59,185 --> 00:56:59,811
+Ellen!
+
+835
+00:57:03,687 --> 00:57:04,354
+Russ!
+
+836
+00:57:06,771 --> 00:57:07,439
+Audrey?
+
+837
+00:57:07,855 --> 00:57:08,688
+Audrey!
+
+838
+00:57:12,189 --> 00:57:13,524
+Are you all right?
+
+839
+00:57:13,857 --> 00:57:14,648
+I'm fine!
+
+840
+00:57:14,857 --> 00:57:16,232
+What happened to you?
+How did you get here?
+
+841
+00:57:16,357 --> 00:57:19,691
+Well these two nice Indians and
+a man on a camel called a tow truck.
+
+842
+00:57:19,858 --> 00:57:20,817
+Daddy's back!
+
+843
+00:57:23,526 --> 00:57:24,610
+Kids, are you thirsty?
+
+844
+00:57:24,902 --> 00:57:26,903
+- Yeah, I bet you are too!
+- You said it!
+
+845
+00:57:49,201 --> 00:57:50,159
+What do I owe you?
+
+846
+00:57:51,118 --> 00:57:54,285
+I never heard of no one so stupid
+as you driving off that road.
+
+847
+00:57:55,077 --> 00:57:56,911
+You must have manure for brains.
+
+848
+00:57:57,912 --> 00:57:59,828
+Yes, well, I'm from out of town.
+
+849
+00:58:00,661 --> 00:58:01,662
+What's the bill?
+
+850
+00:58:06,830 --> 00:58:08,165
+Come on. How much?
+
+851
+00:58:08,248 --> 00:58:09,373
+How much do you have?
+
+852
+00:58:09,915 --> 00:58:11,332
+No, I'm asking how much the repairs are.
+
+853
+00:58:12,582 --> 00:58:14,208
+I'm asking you, how much do you have.
+
+854
+00:58:17,000 --> 00:58:17,708
+You're crazy.
+
+855
+00:58:19,168 --> 00:58:20,667
+I don't have time to play around.
+
+856
+00:58:20,834 --> 00:58:21,835
+How much is it?
+
+857
+00:58:22,502 --> 00:58:23,835
+All of it, boy.
+
+858
+00:58:25,836 --> 00:58:27,961
+What does your sheriff think
+of your business practices?
+
+859
+00:58:50,593 --> 00:58:52,427
+Audrey, how much
+baby-sitting money do you have?
+
+860
+00:58:53,511 --> 00:58:54,469
+How come?
+
+861
+00:58:55,011 --> 00:58:56,011
+How much?
+
+862
+00:58:56,095 --> 00:58:57,179
+What's the matter?
+
+863
+00:58:57,678 --> 00:59:01,138
+I just spent $500
+on four bald tires and a tow!
+
+864
+00:59:01,971 --> 00:59:03,056
+How much do you have?
+
+865
+00:59:04,555 --> 00:59:05,223
+$35.
+
+866
+00:59:06,056 --> 00:59:07,390
+She has $40, Dad.
+
+867
+00:59:07,723 --> 00:59:10,350
+How would you know? Unless you went
+in my purse, you rotten sneak.
+
+868
+00:59:10,557 --> 00:59:13,016
+Have you been going through
+her private property?
+
+869
+00:59:13,475 --> 00:59:15,558
+I don't give a frog's fat ass
+who went through what.
+
+870
+00:59:15,892 --> 00:59:17,227
+We need money!
+
+871
+00:59:18,643 --> 00:59:19,684
+Edna, how much do you have?
+
+872
+00:59:20,477 --> 00:59:21,811
+She's asleep, Clark!
+
+873
+00:59:23,061 --> 00:59:25,062
+Russ, do you want to look
+through Edna's purse?
+
+874
+00:59:25,478 --> 00:59:26,145
+Clark!
+
+875
+00:59:32,563 --> 00:59:33,397
+Unzip it.
+
+876
+00:59:38,149 --> 00:59:39,233
+She has 11 cents, Dad.
+
+877
+00:59:39,732 --> 00:59:40,817
+Terrific.
+
+878
+00:59:41,150 --> 00:59:42,566
+The motel will cash your check.
+
+879
+00:59:43,650 --> 00:59:45,526
+They better. We're going to
+run out of gas.
+
+880
+00:59:50,194 --> 00:59:53,153
+I'm sorry, sir.
+I can't accept this credit card.
+
+881
+00:59:54,195 --> 00:59:54,821
+Why not?
+
+882
+00:59:55,196 --> 00:59:56,987
+The computer says
+it's has been reported lost.
+
+883
+00:59:58,030 --> 01:00:01,656
+My wife lost her credit
+cards in Colorado and I reported it.
+
+884
+01:00:01,864 --> 01:00:04,824
+The computer is probably reporting that
+I lost mine also, which I haven't.
+
+885
+01:00:05,074 --> 01:00:07,907
+Well, you'll have to straighten that out
+with your bank.
+
+886
+01:00:08,783 --> 01:00:10,033
+Will you accept a personal check?
+
+887
+01:00:10,408 --> 01:00:11,575
+For what amount?
+
+888
+01:00:11,784 --> 01:00:12,575
+$300.
+
+889
+01:00:13,076 --> 01:00:14,159
+I can't do that, sir.
+
+890
+01:00:14,243 --> 01:00:16,785
+Look, I've lost all my cash and
+we're on our way to California.
+
+891
+01:00:17,035 --> 01:00:17,993
+Walley World?
+
+892
+01:00:18,370 --> 01:00:19,702
+Yeah! Walley World!
+
+893
+01:00:20,370 --> 01:00:23,037
+And I'm sort of stuck between
+a rock and a hard place.
+
+894
+01:00:23,371 --> 01:00:24,578
+You know I'd really appreciate it.
+
+895
+01:00:25,205 --> 01:00:27,330
+We require a major credit card.
+
+896
+01:00:29,997 --> 01:00:32,665
+I have $6.13 to my name...
+
+897
+01:00:32,748 --> 01:00:34,915
+...so I can see we're going to have
+to work something out.
+
+898
+01:00:35,290 --> 01:00:37,749
+I've already told you that
+I can't accept a check...
+
+899
+01:00:37,833 --> 01:00:39,417
+...without a major credit card.
+
+900
+01:00:39,875 --> 01:00:44,543
+I'll give you a check for $1,000.
+All you have to give me is $300 in cash.
+
+901
+01:00:44,876 --> 01:00:50,087
+You can then keep $700 for doing nothing
+more than acting like a total creep.
+
+902
+01:00:51,586 --> 01:00:53,213
+The only thing I can do...
+
+903
+01:00:53,255 --> 01:00:56,256
+...is have you stay here
+until the check clears.
+
+904
+01:00:56,588 --> 01:00:58,131
+Ten working days!
+
+905
+01:01:25,930 --> 01:01:28,639
+Let's go, come on!
+Where is Edna?
+
+906
+01:01:28,764 --> 01:01:29,639
+In the car!
+
+907
+01:01:29,973 --> 01:01:31,224
+Good! Come on, get in the car.
+
+908
+01:01:31,598 --> 01:01:33,224
+Don't you want to look
+at the Grand Canyon?
+
+909
+01:01:35,766 --> 01:01:36,891
+Great, let's go.
+
+910
+01:01:47,895 --> 01:01:48,895
+Rusty, wake up!
+
+911
+01:01:52,396 --> 01:01:54,689
+Get out those sandwiches
+I got at the gas station.
+
+912
+01:01:55,148 --> 01:01:58,481
+I'm so hungry, I could eat
+a sandwich from a gas station.
+
+913
+01:01:59,690 --> 01:02:01,024
+There's one for everyone.
+
+914
+01:02:01,649 --> 01:02:05,525
+Audrey, wake Aunt Edna. It's time
+for her to eat and take her pill.
+
+915
+01:02:05,900 --> 01:02:07,192
+Please, get off of me!
+
+916
+01:02:08,401 --> 01:02:10,693
+Mom, tell Audrey to stop pushing
+Aunt Edna on me.
+
+917
+01:02:10,901 --> 01:02:13,028
+I'm sick of her lying
+on me all the time!
+
+918
+01:02:13,819 --> 01:02:14,777
+Be quiet!
+
+919
+01:02:15,903 --> 01:02:16,862
+Auntie?
+
+920
+01:02:16,903 --> 01:02:20,654
+Honey, it's only a few hours to Phoenix!
+Let her be, she's fine!
+
+921
+01:02:21,030 --> 01:02:22,114
+She's not fine!
+
+922
+01:02:23,156 --> 01:02:24,447
+She's fine! Don't be silly!
+
+923
+01:02:25,364 --> 01:02:27,531
+She's not fine, Clark!
+
+924
+01:02:27,740 --> 01:02:28,824
+She's dead!
+
+925
+01:02:37,035 --> 01:02:39,202
+She breathed on me!
+A dead person breathed on me!
+
+926
+01:02:39,368 --> 01:02:41,202
+Her hand touched me!
+She's stiff already!
+
+927
+01:02:53,456 --> 01:02:54,748
+Goddamn it, anyway!
+
+928
+01:03:04,709 --> 01:03:07,376
+She must have passed away
+somewhere near Flagstaff.
+
+929
+01:03:09,710 --> 01:03:11,170
+What are we going to do, Clark?
+
+930
+01:03:14,712 --> 01:03:16,046
+Well, we could leave her here...
+
+931
+01:03:16,129 --> 01:03:18,379
+...and the first phone we pass,
+we'd call your cousin, Normie...
+
+932
+01:03:18,463 --> 01:03:20,131
+...and he can come and get her, I guess.
+
+933
+01:03:20,214 --> 01:03:21,672
+That's the meanest, coldest...
+
+934
+01:03:22,256 --> 01:03:23,965
+What do you want me to do,
+call Federal Express?
+
+935
+01:03:24,215 --> 01:03:27,091
+Mom, we don't have to ride
+with a dead person, do we?
+
+936
+01:03:27,175 --> 01:03:28,175
+Please say we don't!
+
+937
+01:03:28,466 --> 01:03:30,759
+Come on, Mom. It'd be real easy
+for Cousin Normie to find her.
+
+938
+01:03:30,926 --> 01:03:32,634
+All he'd have to do is
+look for the buzzards.
+
+939
+01:03:33,550 --> 01:03:36,218
+Hell! Then we'll drive her
+to Cousin Normie's.
+
+940
+01:03:37,093 --> 01:03:40,637
+I just didn't want to get caught up in
+a funeral, inquests and all that crap.
+
+941
+01:03:41,095 --> 01:03:45,763
+You're the most self-centered,
+egotistical, manipulative...
+
+942
+01:03:46,138 --> 01:03:48,139
+Don't say anything you'll regret, Ellen!
+
+943
+01:03:49,139 --> 01:03:51,140
+I'm being practical.
+If we drove straight through...
+
+944
+01:03:51,182 --> 01:03:52,890
+...we'd have three days
+at Walley World at best.
+
+945
+01:03:53,140 --> 01:03:54,140
+Three.
+
+946
+01:03:57,099 --> 01:03:58,850
+She can't weight more than 100 pounds.
+
+947
+01:03:59,975 --> 01:04:02,684
+Oh, no!
+You can't put her up on that roof!
+
+948
+01:04:02,935 --> 01:04:03,893
+Yes, he can!
+
+949
+01:04:05,061 --> 01:04:08,145
+Do you want me to strap her to the hood?
+What's the difference? She'll be fine.
+
+950
+01:04:08,436 --> 01:04:10,645
+It's not as if it's going to rain
+or something.
+
+951
+01:04:37,694 --> 01:04:39,071
+This is terrible!
+
+952
+01:04:41,362 --> 01:04:43,947
+What a nightmare!
+
+953
+01:04:59,576 --> 01:05:01,826
+Don't just blurt it out
+about Edna dying!
+
+954
+01:05:02,077 --> 01:05:04,078
+How about if I ask him
+to play a guessing game?
+
+955
+01:05:12,871 --> 01:05:14,872
+Oh, no, he isn't even home.
+
+956
+01:05:14,997 --> 01:05:16,957
+Maybe the neighbors know where he is.
+
+957
+01:05:17,206 --> 01:05:18,915
+The moron knows we're coming,
+and he isn't home.
+
+958
+01:05:18,998 --> 01:05:21,041
+Normie's always been flighty.
+
+959
+01:05:21,166 --> 01:05:22,083
+He's always been a jag-off.
+
+960
+01:05:22,207 --> 01:05:23,500
+Will you watch your mouth?
+
+961
+01:05:23,833 --> 01:05:24,583
+There's a note.
+
+962
+01:05:26,708 --> 01:05:28,584
+"Have gone to Flagstaff.
+Be back on Monday. "
+
+963
+01:05:30,752 --> 01:05:31,919
+What a worm!
+
+964
+01:05:53,550 --> 01:05:54,509
+It's locked!
+
+965
+01:05:59,718 --> 01:06:00,844
+Okay, let's go!
+
+966
+01:06:02,219 --> 01:06:04,261
+We can't leave her on the patio!
+
+967
+01:06:05,262 --> 01:06:08,221
+Would you rather I slipped her in the
+night deposit box at the funeral home?!
+
+968
+01:06:08,263 --> 01:06:09,179
+Come on!
+
+969
+01:06:09,263 --> 01:06:10,930
+It's raining all over her!
+
+970
+01:06:11,722 --> 01:06:13,389
+She can't catch a cold now, Mom!
+
+971
+01:06:15,057 --> 01:06:17,598
+Clark? We have to at least
+say something.
+
+972
+01:06:18,223 --> 01:06:20,182
+Okay, bow your heads, bow your heads.
+
+973
+01:06:21,266 --> 01:06:22,101
+Oh, God...
+
+974
+01:06:24,142 --> 01:06:26,977
+Ease our suffering in this,
+our moment of great despair!
+
+975
+01:06:27,434 --> 01:06:31,978
+Admit this good and decent woman
+into Thine arms and the flock...
+
+976
+01:06:32,311 --> 01:06:34,270
+...in Thine heavenly area up there.
+
+977
+01:06:36,187 --> 01:06:39,981
+And Moab he laideth down
+behind the land of the Canaanites.
+
+978
+01:06:40,480 --> 01:06:43,273
+And, yea,
+though the Hindus speak of karma...
+
+979
+01:06:43,815 --> 01:06:44,481
+Clark!
+
+980
+01:06:44,815 --> 01:06:47,691
+I implore you, give her a break.
+
+981
+01:06:47,983 --> 01:06:48,691
+Clark!
+
+982
+01:06:55,192 --> 01:06:58,235
+Clark, this is a serious matter!
+I'll do it myself!
+
+983
+01:06:58,485 --> 01:07:01,445
+Honey, I'm not an ordained minister!
+I'm doing my best, okay?
+
+984
+01:07:02,946 --> 01:07:06,488
+Lord, we love this woman
+with all our hearts!
+
+985
+01:07:06,697 --> 01:07:08,113
+Let's not overdo it, Mom!
+
+986
+01:07:08,488 --> 01:07:09,196
+Shut up!
+
+987
+01:07:09,781 --> 01:07:12,073
+We know she deserves
+better than this...
+
+988
+01:07:12,489 --> 01:07:16,449
+...but my husband wants his
+beloved family to get to Walley World...
+
+989
+01:07:16,490 --> 01:07:17,992
+...to have their vacation!
+
+990
+01:07:18,491 --> 01:07:21,492
+I hope you understand!
+Have mercy on his soul!
+
+991
+01:07:21,701 --> 01:07:22,993
+Amen! Let's go!
+
+992
+01:07:23,952 --> 01:07:26,911
+I hope you children have learned
+something about life and death!
+
+993
+01:07:27,369 --> 01:07:29,536
+Yeah! Don't die unless someone is home!
+
+994
+01:07:32,245 --> 01:07:33,495
+I think Normie will understand...
+
+995
+01:07:33,537 --> 01:07:35,496
+...when he sees the note
+we pinned on Edna's sleeve.
+
+996
+01:07:35,663 --> 01:07:39,831
+Sure! You left his dead mother
+tied to a lawn chair in his backyard!
+
+997
+01:07:39,998 --> 01:07:41,040
+I'm sure he won't mind!
+
+998
+01:07:42,165 --> 01:07:43,498
+It's all over and done with!
+
+999
+01:07:43,999 --> 01:07:46,666
+We'll find a motel and start fresh
+in the morning.
+
+1000
+01:07:47,876 --> 01:07:50,584
+I don't want to be in the car anymore.
+I want to go home!
+
+1001
+01:07:50,667 --> 01:07:52,334
+I don't want to go to Walley World!
+
+1002
+01:07:52,376 --> 01:07:56,044
+Clark? Under the circumstances,
+I would rather we just go home.
+
+1003
+01:07:56,335 --> 01:08:01,296
+In retrospect, driving across country,
+has been one disaster after another!
+
+1004
+01:08:01,504 --> 01:08:03,379
+Yeah, it's been a real drag, Dad!
+
+1005
+01:08:04,379 --> 01:08:06,255
+Maybe we can try it some other time.
+
+1006
+01:08:06,756 --> 01:08:08,590
+Walley World's overrated anyway.
+
+1007
+01:08:09,715 --> 01:08:10,673
+What do you think?
+
+1008
+01:08:14,507 --> 01:08:16,508
+I think you're all fucked in the head.
+
+1009
+01:08:16,675 --> 01:08:20,384
+We're ten hours from the fucking
+fun park and you want to bail out.
+
+1010
+01:08:20,551 --> 01:08:23,135
+Well, I'll tell you something.
+This is no longer a vacation!
+
+1011
+01:08:23,510 --> 01:08:24,677
+It's a quest!
+
+1012
+01:08:24,927 --> 01:08:25,928
+It's a quest for fun.
+
+1013
+01:08:26,720 --> 01:08:28,763
+I'm going to have fun and
+you're going to have fun.
+
+1014
+01:08:28,888 --> 01:08:30,679
+We're all going to have
+so much fucking fun...
+
+1015
+01:08:30,763 --> 01:08:33,722
+...we'll need plastic surgery
+to remove our goddamn smiles.
+
+1016
+01:08:34,055 --> 01:08:37,015
+You'll be whistling zippity-doo-dah
+out of your assholes!
+
+1017
+01:08:39,057 --> 01:08:41,515
+I have to be crazy.
+I'm on a pilgrimage to see a moose.
+
+1018
+01:08:42,223 --> 01:08:45,768
+Praise Marty Moose! Holy shit!
+
+1019
+01:08:47,100 --> 01:08:48,768
+Dad, do you want
+an aspirin or something?
+
+1020
+01:08:49,727 --> 01:08:50,393
+Don't touch!
+
+1021
+01:09:05,564 --> 01:09:07,315
+The next time you have
+one of your outbursts...
+
+1022
+01:09:07,398 --> 01:09:10,274
+...I'd appreciate it if you'd have
+some consideration for your kids.
+
+1023
+01:09:10,733 --> 01:09:11,608
+What are you talking about?
+
+1024
+01:09:11,733 --> 01:09:12,775
+You don't know?
+
+1025
+01:09:13,567 --> 01:09:15,692
+All I know is I'm trying to treat
+my family to a little fun!
+
+1026
+01:09:16,735 --> 01:09:19,109
+Spare me, Clark!
+I know your brand of family fun.
+
+1027
+01:09:19,276 --> 01:09:20,986
+Tomorrow you'll probably
+kill the desk clerk...
+
+1028
+01:09:21,069 --> 01:09:24,111
+...hold up a McDonald's, and drive us
+a thousand miles out of the way...
+
+1029
+01:09:24,195 --> 01:09:25,987
+...to see the world's largest
+ball of mud!
+
+1030
+01:09:27,112 --> 01:09:28,321
+You know what your problem is?
+
+1031
+01:09:30,572 --> 01:09:32,655
+You have an uncanny knack
+for looking at the dark side of things.
+
+1032
+01:09:32,739 --> 01:09:33,823
+That's your problem.
+
+1033
+01:09:35,865 --> 01:09:37,908
+You wouldn't know a good time
+if it came up and bit you!
+
+1034
+01:09:38,366 --> 01:09:39,491
+Where are you going?
+
+1035
+01:09:39,616 --> 01:09:40,617
+What do you care?
+
+1036
+01:11:12,393 --> 01:11:13,602
+Are you waiting for someone?
+
+1037
+01:11:15,644 --> 01:11:17,895
+No! Do you mind if I sit down?
+
+1038
+01:11:20,604 --> 01:11:21,937
+Fancy seeing you here.
+
+1039
+01:11:23,229 --> 01:11:25,897
+Having a nice little family vacation?
+
+1040
+01:11:31,274 --> 01:11:32,857
+It would appear so, wouldn't it?
+
+1041
+01:11:34,400 --> 01:11:38,484
+No, the truth of it is,
+and this is highly confidential...
+
+1042
+01:11:38,567 --> 01:11:39,526
+...I own this motel.
+
+1043
+01:11:41,527 --> 01:11:43,068
+I own the whole chain, nationwide.
+
+1044
+01:11:43,402 --> 01:11:44,861
+Twenty-two hundred units.
+
+1045
+01:11:46,695 --> 01:11:49,903
+Yeah, once a year,
+I travel across the country, incognito.
+
+1046
+01:11:50,404 --> 01:11:52,446
+Check things out,
+and see how the operation is running.
+
+1047
+01:11:53,113 --> 01:11:55,573
+I thought you were going to say
+you worked for the CIA.
+
+1048
+01:11:58,574 --> 01:11:59,490
+That's an old bit, isn't it?
+
+1049
+01:12:00,240 --> 01:12:00,865
+Really.
+
+1050
+01:12:02,616 --> 01:12:06,617
+No, I'm not with the CIA.
+I was, but that was a long time ago.
+
+1051
+01:12:07,325 --> 01:12:08,827
+I don't like to talk about it.
+
+1052
+01:12:10,285 --> 01:12:13,744
+No, I'm mainly interested
+in my motels now...
+
+1053
+01:12:13,828 --> 01:12:14,911
+And my airline.
+
+1054
+01:12:14,953 --> 01:12:15,953
+That's great.
+
+1055
+01:12:16,453 --> 01:12:18,203
+I'm just trying to have a little fun.
+
+1056
+01:12:19,288 --> 01:12:21,413
+It's a shame you're married.
+
+1057
+01:12:21,496 --> 01:12:23,497
+I'm in the mood for some fun.
+
+1058
+01:12:24,122 --> 01:12:27,790
+Married?
+You mean those people I'm with?
+
+1059
+01:12:28,290 --> 01:12:30,541
+That's my brother's family.
+
+1060
+01:12:30,791 --> 01:12:32,250
+My brother's ring.
+
+1061
+01:12:32,333 --> 01:12:34,916
+I usually borrow them on these
+little inspection tours of mine.
+
+1062
+01:12:36,793 --> 01:12:40,502
+It helps to complete the disguise.
+It's fun for them.
+
+1063
+01:12:41,168 --> 01:12:44,044
+It's a good disguise.
+I like the station wagon effect.
+
+1064
+01:12:44,837 --> 01:12:47,004
+Yeah? Well, that's a big part of it.
+
+1065
+01:12:47,796 --> 01:12:52,422
+In order to be convincing, you have
+to look and act like an ordinary jerk.
+
+1066
+01:12:54,673 --> 01:12:58,048
+You know, stop at all the stupid sites
+and look like a fool.
+
+1067
+01:12:59,550 --> 01:13:01,300
+Basically, be yourself?
+
+1068
+01:13:02,133 --> 01:13:03,092
+Yeah!
+
+1069
+01:13:04,259 --> 01:13:05,259
+You like the disguise?
+
+1070
+01:13:11,344 --> 01:13:13,804
+My credo is, if you have
+to have a credo...
+
+1071
+01:13:15,012 --> 01:13:16,971
+...you know, "Go for it," pretty much.
+
+1072
+01:13:18,013 --> 01:13:21,472
+You only go around this crazy
+merry-go-round once! You know?
+
+1073
+01:13:22,181 --> 01:13:22,889
+I agree.
+
+1074
+01:13:23,347 --> 01:13:23,973
+Yeah.
+
+1075
+01:13:29,849 --> 01:13:30,726
+That's my credo!
+
+1076
+01:13:35,685 --> 01:13:38,686
+You don't have to have a credo, but...
+
+1077
+01:13:38,769 --> 01:13:40,269
+"If the shoe fits, wear it. "
+
+1078
+01:13:40,352 --> 01:13:42,978
+"A penny saved... "
+"Pennies from heaven... "
+
+1079
+01:13:44,104 --> 01:13:45,146
+My favorite credo...
+
+1080
+01:13:52,190 --> 01:13:54,899
+...you know "A penny saved, and... "
+
+1081
+01:13:54,982 --> 01:13:56,024
+Thank you.
+
+1082
+01:14:01,776 --> 01:14:03,359
+This feels great!
+
+1083
+01:14:05,652 --> 01:14:06,611
+Well...
+
+1084
+01:14:07,486 --> 01:14:09,069
+...are you going to go for it?
+
+1085
+01:14:09,944 --> 01:14:11,445
+Uh... here?
+
+1086
+01:14:11,820 --> 01:14:13,279
+To start with, yes.
+
+1087
+01:14:14,154 --> 01:14:16,780
+Why not? Don't you swim?
+
+1088
+01:14:19,156 --> 01:14:23,157
+Sure, I took third in the state finals
+in my senior year.
+
+1089
+01:14:27,241 --> 01:14:29,867
+Yeah, I'm really at ease in the water.
+
+1090
+01:14:33,243 --> 01:14:35,202
+I'm proficient in many strokes
+and I dive.
+
+1091
+01:14:35,243 --> 01:14:37,745
+As a matter of fact,
+I could've been in the Olympics.
+
+1092
+01:14:40,162 --> 01:14:43,163
+Yeah. I'll be right there.
+
+1093
+01:14:44,163 --> 01:14:48,872
+Yeah. This is crazy, this is crazy,
+this is crazy!
+
+1094
+01:14:51,790 --> 01:14:52,625
+How's the water?
+
+1095
+01:14:52,791 --> 01:14:53,874
+Exhilarating!
+
+1096
+01:14:55,082 --> 01:14:56,917
+I'm in deep, I'm in deep!
+
+1097
+01:15:02,460 --> 01:15:05,794
+It's cold! Jesus! Fuck!
+
+1098
+01:15:08,378 --> 01:15:09,378
+Clark?
+
+1099
+01:15:09,962 --> 01:15:10,921
+Cold!
+
+1100
+01:15:21,882 --> 01:15:22,882
+Clark...?
+
+1101
+01:15:23,966 --> 01:15:25,008
+Hi, honey.
+
+1102
+01:15:25,133 --> 01:15:26,467
+What are you doing?
+
+1103
+01:15:26,717 --> 01:15:27,842
+Swimming!
+
+1104
+01:15:28,009 --> 01:15:30,344
+Yeah, my back was killing me.
+
+1105
+01:15:32,260 --> 01:15:35,136
+And I thought I'd get a swim
+and loosen up the muscles.
+
+1106
+01:15:35,512 --> 01:15:37,845
+Why go to the car and get
+the bathing suit? Jump right in.
+
+1107
+01:15:39,471 --> 01:15:40,513
+It's exhilarating.
+
+1108
+01:15:41,180 --> 01:15:42,971
+Guess what, honey?
+This person here was...
+
+1109
+01:15:43,180 --> 01:15:44,473
+...here!
+
+1110
+01:15:45,640 --> 01:15:47,098
+I didn't see this person, so...
+
+1111
+01:15:48,015 --> 01:15:51,433
+...I screamed, that's why I yelled.
+I was so surprised.
+
+1112
+01:15:51,891 --> 01:15:53,350
+You can imagine, can't you, honey?
+
+1113
+01:15:58,268 --> 01:15:59,268
+Honey?!
+
+1114
+01:16:12,689 --> 01:16:13,648
+Will you excuse me?
+
+1115
+01:16:14,523 --> 01:16:15,731
+You have to go.
+
+1116
+01:16:17,065 --> 01:16:19,024
+Well, I'd stay if I weren't married,
+but I am.
+
+1117
+01:16:20,024 --> 01:16:20,982
+I know.
+
+1118
+01:16:22,192 --> 01:16:23,733
+I hope I didn't spoil your evening.
+
+1119
+01:16:24,067 --> 01:16:25,818
+No, it's been interesting.
+
+1120
+01:16:27,527 --> 01:16:29,361
+Well, enjoy the rest of your trip.
+
+1121
+01:16:29,735 --> 01:16:30,735
+You, too.
+
+1122
+01:16:40,030 --> 01:16:41,406
+I can't believe this.
+
+1123
+01:16:43,073 --> 01:16:45,907
+I am so humiliated.
+
+1124
+01:16:48,366 --> 01:16:50,575
+Cut it out. You don't even know
+how to inhale.
+
+1125
+01:16:50,908 --> 01:16:52,075
+So?!
+
+1126
+01:16:52,701 --> 01:16:53,660
+Maybe I don't want to.
+
+1127
+01:16:54,909 --> 01:16:56,077
+You're such a dork.
+
+1128
+01:16:58,244 --> 01:17:02,703
+How can he do this to Mom?
+They'll probably get a divorce.
+
+1129
+01:17:03,954 --> 01:17:05,079
+I better have a talk with him.
+
+1130
+01:17:12,415 --> 01:17:13,457
+What are you doing up?
+
+1131
+01:17:14,624 --> 01:17:16,207
+You woke the whole motel up, Dad.
+
+1132
+01:17:19,791 --> 01:17:20,668
+I was...
+
+1133
+01:17:20,750 --> 01:17:21,584
+...swimming.
+
+1134
+01:17:21,626 --> 01:17:22,584
+Yeah, I saw you.
+
+1135
+01:17:24,918 --> 01:17:26,168
+Russ, come here a minute.
+
+1136
+01:17:30,962 --> 01:17:33,712
+You know I wouldn't
+do anything to hurt your Mom.
+
+1137
+01:17:35,255 --> 01:17:36,879
+It's been a long drive.
+
+1138
+01:17:40,297 --> 01:17:43,632
+I work very hard for you,
+Audrey and your mom.
+
+1139
+01:17:46,633 --> 01:17:50,134
+I guess when you get older
+you get these feelings...
+
+1140
+01:17:51,718 --> 01:17:54,760
+...and these feelings make you do
+things you wouldn't normally do.
+
+1141
+01:17:56,302 --> 01:17:57,594
+Like swimming naked with girls?
+
+1142
+01:17:57,677 --> 01:18:00,012
+Yeah! Like swimming naked with girls.
+
+1143
+01:18:00,095 --> 01:18:02,762
+Well, not with girls.
+You think I was swimming with girls?
+
+1144
+01:18:03,138 --> 01:18:04,430
+I saw just one girl.
+
+1145
+01:18:06,014 --> 01:18:07,638
+Who, that girl?
+
+1146
+01:18:07,805 --> 01:18:10,015
+Oh, no, that's a waitress.
+No, I was just ordering in.
+
+1147
+01:18:10,639 --> 01:18:11,849
+She's a pool waitress.
+
+1148
+01:18:13,558 --> 01:18:16,641
+I was ordering some fish
+for you, Audrey and Mom.
+
+1149
+01:18:16,683 --> 01:18:17,808
+She took your order?
+
+1150
+01:18:17,975 --> 01:18:19,684
+She took my order, yeah.
+
+1151
+01:18:20,518 --> 01:18:21,476
+Swimming waitress.
+
+1152
+01:18:22,685 --> 01:18:24,352
+You understand, don't you, Russ?
+
+1153
+01:18:24,477 --> 01:18:25,936
+Sure, I understand.
+
+1154
+01:18:28,020 --> 01:18:29,854
+Do you think Mom will buy it?
+
+1155
+01:18:32,021 --> 01:18:35,856
+Good talk, son. Go to bed, Russ.
+
+1156
+01:18:37,315 --> 01:18:37,939
+Goodnight.
+
+1157
+01:18:42,691 --> 01:18:43,400
+Ellen?
+
+1158
+01:18:47,942 --> 01:18:48,984
+Ellen?
+
+1159
+01:18:49,776 --> 01:18:50,818
+Honey?
+
+1160
+01:18:53,736 --> 01:18:54,570
+Are you mad?
+
+1161
+01:18:56,279 --> 01:18:57,237
+No.
+
+1162
+01:18:59,530 --> 01:19:00,738
+Do you like that girl?
+
+1163
+01:19:02,572 --> 01:19:04,072
+Is that what you want?
+
+1164
+01:19:04,739 --> 01:19:05,697
+Oh, no.
+
+1165
+01:19:08,240 --> 01:19:09,866
+How could I like a girl like that?
+
+1166
+01:19:10,907 --> 01:19:11,949
+She's ugly.
+
+1167
+01:19:13,242 --> 01:19:14,200
+I love you.
+
+1168
+01:19:17,743 --> 01:19:19,368
+I'm sorry about everything.
+
+1169
+01:19:20,702 --> 01:19:22,910
+I got angry because
+you were right and I knew it.
+
+1170
+01:19:23,077 --> 01:19:24,287
+I was hurt, honey.
+
+1171
+01:19:25,037 --> 01:19:27,579
+I'm sorry, too.
+It's not all your fault.
+
+1172
+01:19:28,204 --> 01:19:29,996
+I know you've been trying.
+
+1173
+01:19:30,204 --> 01:19:31,331
+I'm going to try, too.
+
+1174
+01:19:34,040 --> 01:19:35,248
+I know how to have fun.
+
+1175
+01:19:37,040 --> 01:19:38,041
+And I'm going to prove it.
+
+1176
+01:19:39,749 --> 01:19:42,542
+Come on. Come on! Come on!
+
+1177
+01:19:42,875 --> 01:19:44,709
+Honey, you don't have
+to prove anything to me.
+
+1178
+01:19:46,251 --> 01:19:47,585
+I want us to have some fun together.
+
+1179
+01:19:49,877 --> 01:19:51,878
+- Come on!
+- The water's very...
+
+1180
+01:20:26,430 --> 01:20:27,388
+We must be getting close.
+
+1181
+01:20:28,805 --> 01:20:31,097
+We're almost there.
+Everybody just take it easy.
+
+1182
+01:20:37,183 --> 01:20:40,351
+I know we're getting close.
+What is that? What is that?
+
+1183
+01:20:41,100 --> 01:20:42,601
+There it is!
+
+1184
+01:20:42,726 --> 01:20:45,185
+Walley World, next three exits!
+
+1185
+01:20:49,019 --> 01:20:50,603
+We made it dammit! We made it!
+
+1186
+01:20:52,479 --> 01:20:55,021
+The Griswolds are
+one hell of a family, huh?
+
+1187
+01:20:58,980 --> 01:21:00,148
+Don't get too much sun, now.
+
+1188
+01:21:07,025 --> 01:21:08,359
+It's beautiful!
+
+1189
+01:21:08,983 --> 01:21:10,318
+It's just beautiful!
+
+1190
+01:21:12,859 --> 01:21:13,985
+Oh, darling!
+
+1191
+01:21:17,320 --> 01:21:21,029
+- We made it!
+- You did it, Clark. Sparky...
+
+1192
+01:21:39,117 --> 01:21:40,117
+We're the first ones here!
+
+1193
+01:21:44,370 --> 01:21:45,328
+We're the first ones here!
+
+1194
+01:21:46,370 --> 01:21:48,204
+But we're so far away, Clark.
+
+1195
+01:21:50,204 --> 01:21:52,163
+And, at the end of the day,
+when the lot's all full...
+
+1196
+01:21:52,330 --> 01:21:53,413
+...and everybody's fighting
+to get out of here...
+
+1197
+01:21:53,538 --> 01:21:55,664
+...we'll be the first ones
+to get out, too!
+
+1198
+01:21:57,122 --> 01:21:57,790
+Why?
+
+1199
+01:21:58,540 --> 01:22:00,706
+Because we're the Griswolds!
+
+1200
+01:22:03,791 --> 01:22:04,625
+Come on, I'll race you!
+
+1201
+01:23:16,646 --> 01:23:17,646
+Sorry, folks.
+
+1202
+01:23:17,771 --> 01:23:18,980
+We're closed for 2 weeks...
+
+1203
+01:23:19,063 --> 01:23:22,480
+...to clean and repair
+America's favorite family fun park!
+
+1204
+01:23:30,108 --> 01:23:31,775
+Clark! What are you doing?
+
+1205
+01:23:32,442 --> 01:23:33,818
+We watch his program.
+
+1206
+01:23:34,443 --> 01:23:35,985
+We buy his toys.
+We go to his movies!
+
+1207
+01:23:36,152 --> 01:23:37,068
+He owes us!
+
+1208
+01:23:37,569 --> 01:23:38,986
+Doesn't he owe us, huh?
+
+1209
+01:23:39,736 --> 01:23:41,070
+He owes the Griswolds, right?!
+
+1210
+01:23:41,403 --> 01:23:42,737
+Fucking right, he owes us!
+
+1211
+01:23:43,154 --> 01:23:44,612
+Clark, you're scaring me!
+
+1212
+01:23:44,988 --> 01:23:46,071
+Don't be scared!
+
+1213
+01:23:46,238 --> 01:23:48,905
+I just think someone owes us
+an explanation, that's all!
+
+1214
+01:23:49,488 --> 01:23:51,157
+Come on...
+
+1215
+01:23:52,406 --> 01:23:53,406
+Clark, now just a minute!
+
+1216
+01:24:12,537 --> 01:24:14,495
+Honey, will you check
+the mileage, please?
+
+1217
+01:24:15,330 --> 01:24:16,330
+Where are you going?
+
+1218
+01:24:16,538 --> 01:24:17,538
+I'll be right back...
+
+1219
+01:24:18,038 --> 01:24:19,248
+I'm just going to get
+some sporting goods.
+
+1220
+01:24:32,127 --> 01:24:33,626
+Clark, will you listen to me?
+
+1221
+01:24:34,127 --> 01:24:35,461
+Let's just find a hotel.
+
+1222
+01:24:35,794 --> 01:24:37,461
+I'll have my parents wire us money.
+
+1223
+01:24:37,627 --> 01:24:39,628
+We'll fly home and forget
+this vacation ever happened.
+
+1224
+01:24:40,462 --> 01:24:44,130
+Relax. I told you I'm not angry
+anymore, I'm in complete control.
+
+1225
+01:24:44,463 --> 01:24:46,630
+They can't be repairing
+every ride at the same time!
+
+1226
+01:24:47,048 --> 01:24:49,381
+I think they owe us an explanation
+and a little fun.
+
+1227
+01:24:49,965 --> 01:24:50,965
+Whatever happens, just trust me.
+
+1228
+01:24:51,215 --> 01:24:52,215
+Will you just trust me?
+
+1229
+01:24:59,134 --> 01:25:00,676
+Sorry folks, the park's closed.
+
+1230
+01:25:00,843 --> 01:25:02,426
+The moose outside should have told you.
+
+1231
+01:25:03,303 --> 01:25:05,136
+Yes, we're here to see Mr. Roy Walley.
+
+1232
+01:25:05,385 --> 01:25:06,553
+What is your name, sir?
+
+1233
+01:25:06,636 --> 01:25:07,636
+Clark W. Griswold.
+
+1234
+01:25:11,221 --> 01:25:12,637
+What is this regarding, Mr. Griswold?
+
+1235
+01:25:12,888 --> 01:25:16,513
+It's a public... business...
+summer inspection...
+
+1236
+01:25:16,555 --> 01:25:17,556
+Personal matter.
+
+1237
+01:25:22,266 --> 01:25:25,975
+Well, nobody notified
+this office of anything!
+
+1238
+01:25:27,434 --> 01:25:28,392
+Well, I'm notifying you.
+
+1239
+01:25:29,185 --> 01:25:30,852
+I'll need more than that, sir.
+
+1240
+01:25:35,770 --> 01:25:37,896
+Have you lost your mind?
+Where did you get that?
+
+1241
+01:25:38,354 --> 01:25:39,354
+At the sporting goods store.
+
+1242
+01:25:39,479 --> 01:25:40,313
+You listen to me, fat ass.
+
+1243
+01:25:40,395 --> 01:25:42,396
+You do what I say and there won't be
+any problems, okay?
+
+1244
+01:25:43,355 --> 01:25:47,690
+We drove 2,460 miles, just for
+a little Roy Walley entertainment.
+
+1245
+01:25:47,774 --> 01:25:49,899
+The Moose says you're closed.
+I say you're open.
+
+1246
+01:25:50,274 --> 01:25:52,483
+We're not really violent people.
+
+1247
+01:25:52,566 --> 01:25:53,900
+This is our first gun.
+
+1248
+01:25:54,192 --> 01:25:55,193
+No, it isn't.
+
+1249
+01:25:57,068 --> 01:25:58,069
+What's going on here?
+
+1250
+01:25:58,318 --> 01:25:59,485
+You! Freeze! Freeze!
+
+1251
+01:26:00,360 --> 01:26:01,694
+Sit! Sit!
+
+1252
+01:26:03,028 --> 01:26:04,862
+Lie down! Let's go, lie down!
+
+1253
+01:26:06,695 --> 01:26:07,695
+Roll over!
+
+1254
+01:26:08,780 --> 01:26:09,655
+Stay!
+
+1255
+01:26:12,364 --> 01:26:15,032
+Okay! Let's ride! Let's ride!
+Come on!
+
+1256
+01:26:16,323 --> 01:26:17,282
+Stay!
+
+1257
+01:26:23,617 --> 01:26:24,617
+This is scary isn't it?
+
+1258
+01:26:24,784 --> 01:26:25,993
+You boys and girls make sure...
+
+1259
+01:26:26,035 --> 01:26:28,077
+...you keep your hands on
+the handlebars at all times.
+
+1260
+01:26:28,409 --> 01:26:29,911
+We don't want any accidents!
+
+1261
+01:26:30,078 --> 01:26:31,078
+Is that a real gun, Mom?
+
+1262
+01:26:31,244 --> 01:26:34,453
+I don't know.
+But when this is all over...
+
+1263
+01:26:35,204 --> 01:26:37,704
+...your father may be going away
+for a little while.
+
+1264
+01:26:37,871 --> 01:26:39,122
+Boy, I sure am bushed!
+
+1265
+01:26:39,206 --> 01:26:40,206
+Have you had enough yet, sir?
+
+1266
+01:26:41,580 --> 01:26:42,581
+What do you mean "bushed"?
+
+1267
+01:26:43,831 --> 01:26:45,539
+Where are the big rides?
+The big ones?
+
+1268
+01:26:52,541 --> 01:26:53,626
+Let's go. Get in the front.
+
+1269
+01:26:53,709 --> 01:26:54,709
+Come on.
+
+1270
+01:26:59,586 --> 01:27:01,419
+Has your father ever
+killed anyone before?
+
+1271
+01:27:02,336 --> 01:27:03,295
+Just a dog.
+
+1272
+01:27:03,629 --> 01:27:04,963
+Oh, and my Aunt Edna.
+
+1273
+01:27:05,088 --> 01:27:06,922
+Hey! You can't prove that, Rusty.
+
+1274
+01:27:10,339 --> 01:27:12,006
+Rusty? May I call you Rusty?
+
+1275
+01:27:13,173 --> 01:27:15,298
+I had a bad experience
+on this ride once before.
+
+1276
+01:27:16,007 --> 01:27:16,967
+What happened?
+
+1277
+01:27:17,716 --> 01:27:18,675
+I threw up.
+
+1278
+01:27:34,263 --> 01:27:35,222
+Now, don't do that again!
+
+1279
+01:29:14,126 --> 01:29:15,542
+Goodie, goodie, goodie!
+The Loop-D-Loop!
+
+1280
+01:29:15,667 --> 01:29:17,376
+Come on, get in there.
+Let's go, huh, kids?
+
+1281
+01:29:17,543 --> 01:29:18,501
+Please, don't push!
+
+1282
+01:29:18,543 --> 01:29:20,586
+Come on, Audrey.
+Isn't this fun, honey?
+
+1283
+01:29:24,004 --> 01:29:25,420
+That's not a real gun, is it, Clark?
+
+1284
+01:29:26,670 --> 01:29:28,296
+What? Are you kidding?!
+This is a Magnum P.I.!
+
+1285
+01:29:28,671 --> 01:29:29,629
+It's a BB-gun!
+
+1286
+01:29:30,422 --> 01:29:32,172
+Don't try me.
+I could put your eye out with this.
+
+1287
+01:29:32,672 --> 01:29:34,007
+You couldn't even break skin with that.
+
+1288
+01:29:34,339 --> 01:29:35,965
+It could! It could break the skin.
+
+1289
+01:29:36,339 --> 01:29:39,174
+It could put a lodge under the skin
+and cause a bad infection.
+
+1290
+01:29:39,257 --> 01:29:40,758
+That's an old wives' tale, Clark!
+
+1291
+01:29:40,842 --> 01:29:41,800
+I'm telling.
+
+1292
+01:29:45,426 --> 01:29:47,093
+See, I told you! I warned you!
+
+1293
+01:29:47,342 --> 01:29:48,886
+If you wrecked the pants,
+you'll pay for them!
+
+1294
+01:29:48,969 --> 01:29:49,969
+Yeah, I'll pay for 'em.
+
+1295
+01:31:04,491 --> 01:31:05,157
+Freeze!
+
+1296
+01:31:09,617 --> 01:31:10,367
+Don't shoot!
+
+1297
+01:31:14,702 --> 01:31:16,036
+Hands behind your heads!
+
+1298
+01:31:16,703 --> 01:31:17,661
+Spread your legs!
+
+1299
+01:31:18,953 --> 01:31:20,412
+Move up against the wall!
+
+1300
+01:31:20,621 --> 01:31:21,954
+You two, over there!
+
+1301
+01:31:25,371 --> 01:31:26,288
+It's just a BB-gun!
+
+1302
+01:31:26,705 --> 01:31:28,040
+You are all under arrest.
+
+1303
+01:31:28,873 --> 01:31:30,206
+You have the right to remain silent.
+
+1304
+01:31:31,707 --> 01:31:33,373
+Watch your hands, mister!
+
+1305
+01:31:40,710 --> 01:31:41,585
+How many are there?
+
+1306
+01:31:41,710 --> 01:31:42,710
+A lot of them?
+
+1307
+01:31:44,419 --> 01:31:46,419
+Whatever they want...
+We'll pay 'em! We'll pay 'em!
+
+1308
+01:31:46,503 --> 01:31:47,377
+Tell me, what is going on?
+
+1309
+01:31:47,879 --> 01:31:49,712
+Everything's under control, sir.
+They are terrorists!
+
+1310
+01:31:49,837 --> 01:31:50,462
+Where?
+
+1311
+01:31:51,213 --> 01:31:51,880
+Them?
+
+1312
+01:31:53,713 --> 01:31:55,048
+He treated me like a dog!
+
+1313
+01:31:55,380 --> 01:31:56,714
+He humiliated me!
+
+1314
+01:31:57,339 --> 01:31:58,215
+What did he do with your dog?
+
+1315
+01:31:58,298 --> 01:32:00,048
+He kidnapped me, Mr. Wally,
+but I gotta tell you...
+
+1316
+01:32:00,131 --> 01:32:01,299
+...I had a great time on your rides.
+
+1317
+01:32:01,383 --> 01:32:02,925
+It was the most fantastic
+experience I've ever had!
+
+1318
+01:32:03,008 --> 01:32:04,967
+I like the part where you go
+really way up high...
+
+1319
+01:32:05,009 --> 01:32:07,509
+I'm glad you liked it.
+Now, what's happening?
+
+1320
+01:32:07,717 --> 01:32:08,802
+That is Roy Walley, honey!
+
+1321
+01:32:10,093 --> 01:32:12,594
+I'm Russ Lasky. I met you
+at the summer picnic last year.
+
+1322
+01:32:13,803 --> 01:32:14,511
+I don't remember.
+
+1323
+01:32:14,552 --> 01:32:15,720
+They kidnapped one of my men.
+
+1324
+01:32:15,845 --> 01:32:16,804
+I was the one who got sick.
+
+1325
+01:32:17,053 --> 01:32:19,054
+Anyway Mr. Wally,
+I went on all the rides...
+
+1326
+01:32:19,137 --> 01:32:21,931
+...I didn't get sick this time.
+Normally I get sick on all your rides...
+
+1327
+01:32:22,014 --> 01:32:22,639
+Quiet!
+
+1328
+01:32:25,723 --> 01:32:27,723
+Mr. Walley... Roy?
+
+1329
+01:32:29,265 --> 01:32:31,391
+I think I can make
+some sense out of this.
+
+1330
+01:32:31,766 --> 01:32:33,433
+Well, someone had better explain!
+
+1331
+01:32:34,600 --> 01:32:36,267
+Or there will be a lot
+of explaining to do!
+
+1332
+01:32:37,267 --> 01:32:38,768
+I'm Clark W. Griswold.
+
+1333
+01:32:40,852 --> 01:32:42,310
+This is my wife, Ellen.
+
+1334
+01:32:43,061 --> 01:32:46,562
+Hi. We're big fans of yours.
+We watch your show all the time.
+
+1335
+01:32:48,062 --> 01:32:50,063
+These are my children, Audrey and Rusty.
+
+1336
+01:32:50,522 --> 01:32:51,355
+Nice family.
+
+1337
+01:32:54,606 --> 01:32:56,524
+We're from Chicago, Roy.
+"The Windy City. "
+
+1338
+01:32:56,774 --> 01:32:58,273
+I've been there many times.
+
+1339
+01:32:58,691 --> 01:33:02,775
+We just spent two weeks
+of living hell, driving out here.
+
+1340
+01:33:04,734 --> 01:33:07,110
+We lost a dear member
+of the family on the way.
+
+1341
+01:33:09,485 --> 01:33:12,027
+But, the important thing,
+Roy, is that...
+
+1342
+01:33:12,069 --> 01:33:14,153
+...we could have gone anywhere
+we wanted to this summer.
+
+1343
+01:33:14,237 --> 01:33:15,445
+Anywhere in the world.
+
+1344
+01:33:15,821 --> 01:33:17,154
+But when I asked my kids...
+
+1345
+01:33:18,655 --> 01:33:21,656
+Kids, remember when I asked you
+where you wanted to go on vacation?
+
+1346
+01:33:22,155 --> 01:33:23,114
+What did you say?
+
+1347
+01:33:23,239 --> 01:33:23,865
+Hawaii?
+
+1348
+01:33:24,824 --> 01:33:25,657
+Shut up, Russ.
+
+1349
+01:33:25,824 --> 01:33:26,824
+Audrey, you remember?
+
+1350
+01:33:27,991 --> 01:33:28,991
+Walley World, Dad?
+
+1351
+01:33:29,658 --> 01:33:32,075
+"Walley World, Dad! "
+Roy Walley World.
+
+1352
+01:33:33,827 --> 01:33:35,660
+Do you have any children, Mr. Walley?
+
+1353
+01:33:35,827 --> 01:33:37,411
+Are you kidding? I have seven.
+
+1354
+01:33:37,577 --> 01:33:38,244
+I thought so.
+
+1355
+01:33:38,828 --> 01:33:40,369
+Seven, did you hear that, honey?
+
+1356
+01:33:40,912 --> 01:33:41,870
+You look so young!
+
+1357
+01:33:45,496 --> 01:33:47,162
+Did you ever drive them across country?
+
+1358
+01:33:48,747 --> 01:33:50,414
+I took the whole clan
+to Florida one year.
+
+1359
+01:33:50,747 --> 01:33:52,915
+The worst two weeks
+I ever had in my life.
+
+1360
+01:33:53,331 --> 01:33:55,499
+The smell from the backseat
+was too unbearable.
+
+1361
+01:33:56,582 --> 01:33:57,541
+I know that smell.
+
+1362
+01:34:02,376 --> 01:34:05,544
+Imagine how your kids would
+have felt if Florida had been closed.
+
+1363
+01:34:05,960 --> 01:34:07,419
+They don't close Florida.
+
+1364
+01:34:07,544 --> 01:34:10,044
+I know they don't close
+the state of Florida.
+
+1365
+01:34:11,546 --> 01:34:13,754
+When we got here,
+to Roy Walley World...
+
+1366
+01:34:14,170 --> 01:34:15,880
+...and it was closed down...
+
+1367
+01:34:16,547 --> 01:34:18,715
+If you had seen the look
+on my kids faces.
+
+1368
+01:34:18,964 --> 01:34:20,298
+I guess I went a little haywire.
+
+1369
+01:34:20,464 --> 01:34:22,257
+You went a lot haywire,
+if you ask me!
+
+1370
+01:34:22,382 --> 01:34:23,382
+I'm very sorry, sir.
+
+1371
+01:34:23,882 --> 01:34:25,383
+I'm sorry to all these people.
+
+1372
+01:34:25,717 --> 01:34:27,216
+I didn't mean any harm.
+
+1373
+01:34:27,966 --> 01:34:29,718
+I want you to ask yourself one thing.
+
+1374
+01:34:31,967 --> 01:34:33,176
+If you were me...
+
+1375
+01:34:33,343 --> 01:34:35,511
+...wouldn't you have done
+the same thing for your children?
+
+1376
+01:34:36,511 --> 01:34:37,511
+No.
+
+1377
+01:34:38,219 --> 01:34:41,053
+Mr. Walley, do you want me to take
+them downtown and book them?
+
+1378
+01:34:45,388 --> 01:34:47,180
+No... no.
+
+1379
+01:34:47,306 --> 01:34:50,056
+Forget it, officer.
+I'm not going to press any charges.
+
+1380
+01:34:56,142 --> 01:34:57,933
+What did I tell ya?
+Did I say trust me?
+

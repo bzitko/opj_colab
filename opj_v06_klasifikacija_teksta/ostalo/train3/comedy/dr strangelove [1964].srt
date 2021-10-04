@@ -1,0 +1,4130 @@
+1
+00:00:02,799 --> 00:00:06,586
+<i>Ratno zrakoplovstvo SAD-a tvrdi</i>
+
+2
+00:00:06,720 --> 00:00:12,851
+<i>da bi sigurnosne mjere spriječile
+događaje prikazane u ovome filmu.</i>
+
+3
+00:00:13,093 --> 00:00:20,107
+<i>Nijedan od likova ne prikazuje
+stvarnu osobu, živu ili mrtvu.</i>
+
+4
+00:00:41,709 --> 00:00:47,797
+<i>Duže od godinu dana među
+visokim zapadnim dužnosnicima</i>
+
+5
+00:00:47,965 --> 00:00:53,684
+<i>kružila je glasina da Sovjetski
+Savez radi na "konačnom oružju",</i>
+
+6
+00:00:53,812 --> 00:00:55,597
+<i>oružju sudnjega dana.</i>
+
+7
+00:00:55,765 --> 00:00:59,559
+<i>Obavještajni izvori otkrili su
+da na tome tajnom projektu</i>
+
+8
+00:00:59,727 --> 00:01:05,774
+<i>rade u maglovitoj pustoši
+arktičkih vrhova Žohovljevih otoka.</i>
+
+9
+00:01:05,942 --> 00:01:11,154
+<i>Što konstruiraju i zašto to čine
+na tako zabačenome mjestu...</i>
+
+10
+00:01:11,322 --> 00:01:13,615
+<i>nitko nije znao.</i>
+
+11
+00:01:43,452 --> 00:01:49,521
+DR. STRANGELOVE
+ILI: KAKO SAM NAUČIO PRESTATI
+BRINUTI SE I ZAVOLJETI BOMBU
+
+12
+00:03:43,891 --> 00:03:47,268
+General Ripper.
+- Ovdje brigadir Mandrake.
+
+13
+00:03:47,728 --> 00:03:52,438
+Ovdje gen. Ripper. <i>- Izvolite.</i>
+- Prepoznaješ li moj glas?
+
+14
+00:03:52,606 --> 00:03:56,152
+Prepoznajem. Zašto
+pitate? - Što misliš zašto?
+
+15
+00:03:56,362 --> 00:03:59,823
+Ne znam. Maloprije
+smo se čuli telefonom.
+
+16
+00:03:59,990 --> 00:04:06,561
+Misliš da bih te to pitao
+da nije važno? - Ne mislim.
+
+17
+00:04:06,729 --> 00:04:08,998
+<i>Nemojmo skretati s teme.</i>
+
+18
+00:04:09,667 --> 00:04:12,460
+Je li pukovnija na
+mjestima za pripremu?
+
+19
+00:04:12,628 --> 00:04:18,925
+Jest. Upravo su mi potvrdili.
+- Odlično. Dobro me slušaj.
+
+20
+00:04:19,093 --> 00:04:24,264
+Baza je pod najvišim stupnjem
+uzbune. Želim da to javiš svima.
+
+21
+00:04:24,432 --> 00:04:27,642
+Sjajna ideja. Tako
+vojnici ostaju budni.
+
+22
+00:04:27,810 --> 00:04:29,978
+Bojim se da ovo nije vježba.
+
+23
+00:04:31,313 --> 00:04:32,939
+Nije vježba?
+
+24
+00:04:34,358 --> 00:04:39,154
+Ne bih ti trebao reći, ali dobar
+si časnik i zaslužuješ znati.
+
+25
+00:04:39,321 --> 00:04:41,281
+Čini se da je počeo rat.
+
+26
+00:04:42,116 --> 00:04:47,203
+Dovraga! S Rusima?
+<i>- Samo su mi to rekli.</i>
+
+27
+00:04:47,413 --> 00:04:52,167
+Moram hermetički
+zatvoriti bazu i to kanim.
+
+28
+00:04:52,918 --> 00:04:58,715
+Želim da pukovniji preneseš
+plan R - R kao Robert.
+
+29
+00:04:58,883 --> 00:05:02,177
+<i>R kao Robert.</i>
+- Zar je tako loše?
+
+30
+00:05:02,344 --> 00:05:06,848
+Izgleda prilično gadno.
+<i>- Jasno.</i> R kao Robert.
+
+31
+00:05:07,016 --> 00:05:10,226
+Posljednje i možda najvažnije:
+
+32
+00:05:10,436 --> 00:05:14,355
+Odmah zaplijenite
+sve privatne radije.
+
+33
+00:05:14,523 --> 00:05:18,193
+Njima bi mogli davati
+upute saboterima.
+
+34
+00:05:18,360 --> 00:05:25,575
+Vojna policija ima popis
+vlasnika i zaplijenite ih sve.
+
+35
+00:05:25,743 --> 00:05:28,036
+Kad to učinite, podnesite prijavak.
+
+36
+00:05:55,105 --> 00:05:57,732
+<i>Za slučaj iznenadnog
+nuklearnog napada</i>
+
+37
+00:05:57,900 --> 00:06:05,406
+<i>SAD danonoćno u zraku
+drži flotu bombardera B-52.</i>
+
+38
+00:06:05,783 --> 00:06:10,411
+<i>Svaki od njih nosi nuklearne
+bombe od ukupno 50 megatona,</i>
+
+39
+00:06:10,871 --> 00:06:16,042
+<i>šesnaest puta jače
+od svih bombi i granata</i>
+
+40
+00:06:16,210 --> 00:06:19,963
+<i>upotrijebljenih s obje
+strane u II. svjetskom ratu.</i>
+
+41
+00:06:20,130 --> 00:06:25,885
+<i>Raspoređeni su od Perzijskog
+zaljeva pa do Arktičkog oceana,</i>
+
+42
+00:06:26,053 --> 00:06:29,097
+<i>ali svi imaju nešto zajedničko.</i>
+
+43
+00:06:29,265 --> 00:06:33,142
+<i>Svi se nalaze dva sata leta
+od svojih meta u Rusiji.</i>
+
+44
+00:07:37,656 --> 00:07:38,992
+KOMUNIKACIJSKI KODOVI
+
+45
+00:07:47,028 --> 00:07:49,916
+<i>Napad pukovnije po planu R</i>
+
+46
+00:07:53,015 --> 00:07:55,975
+Bojniče Kong,
+mislit ćete da je suludo,
+
+47
+00:07:56,143 --> 00:08:02,729
+ali dobio sam poruku iz baze
+da napadnemo po planu R.
+
+48
+00:08:03,256 --> 00:08:04,817
+R kao Romeo.
+
+49
+00:08:07,905 --> 00:08:13,868
+Goldy, rekao si <i>napad
+po planu R</i>? - Jesam.
+
+50
+00:08:17,581 --> 00:08:23,878
+Koliko sam vam puta rekao da
+ne želim <i>zafrkanciju u avionu?</i>
+
+51
+00:08:24,046 --> 00:08:26,714
+Ne zafrkavam se.
+Dobio sam kôd za to.
+
+52
+00:08:26,882 --> 00:08:29,884
+Bio sam na izložbi, pikniku <i>i rodeu,</i>
+
+53
+00:08:30,052 --> 00:08:33,388
+<i>ali to je najveća
+glupost koju sam ikada čuo.</i>
+
+54
+00:08:33,555 --> 00:08:37,934
+Siguran si da je to današnji
+kôd? - Da, siguran sam.
+
+55
+00:08:38,102 --> 00:08:43,064
+Sigurno je neka
+pogreška. Dolazim.
+
+56
+00:09:17,307 --> 00:09:22,687
+Traži da ti to potvrde
+iz baze. - Na zapovijed.
+
+57
+00:09:43,584 --> 00:09:50,506
+Da nije nekakva kušnja lojalnosti
+da vide tko je spreman napasti?
+
+58
+00:09:50,716 --> 00:09:54,302
+Dosad nitko nije dobio
+zapovijed za napad.
+
+59
+00:09:54,470 --> 00:10:01,976
+Stari Ripper ne bi slao Plan R da
+Rusi nisu raznijeli naše gradove.
+
+60
+00:10:03,353 --> 00:10:05,813
+Baza potvrđuje zapovijed.
+
+61
+00:10:10,486 --> 00:10:13,529
+Pa, dečki, to je to.
+
+62
+00:10:13,864 --> 00:10:17,617
+Nuklearni rat s Rusima.
+
+63
+00:10:32,466 --> 00:10:37,345
+Dečki, nisam tip za govorancije.
+
+64
+00:10:38,388 --> 00:10:43,726
+Ali slutim da se kod
+kuće događa nešto važno.
+
+65
+00:10:43,894 --> 00:10:51,234
+Mislim i da dobro znam kakvi
+vam se osjećaji <i>motaju po glavi.</i>
+
+66
+00:10:51,401 --> 00:10:59,033
+<i>Ne biste bili ljudi da se</i>
+ne bojite nuklearnoga rata.
+
+67
+00:10:59,493 --> 00:11:04,539
+<i>Sjetite se da ljudi kod
+kuće računaju na vas,</i>
+
+68
+00:11:04,706 --> 00:11:07,208
+<i>a mi ih nećemo iznevjeriti!</i>
+
+69
+00:11:08,335 --> 00:11:10,670
+I još jedna stvar...
+
+70
+00:11:11,547 --> 00:11:16,175
+Bude li ovo upola važno
+kao što mislim da jest,
+
+71
+00:11:16,343 --> 00:11:24,058
+sve vas čekaju promaknuća
+i pohvale kad sve ovo prođe.
+
+72
+00:11:24,226 --> 00:11:30,898
+To vrijedi za sve vas, bez
+obzira na rasu i vjeroispovijest.
+
+73
+00:11:31,066 --> 00:11:34,735
+A sad se požurimo
+jer moramo letjeti.
+
+74
+00:11:48,417 --> 00:11:52,628
+Buck, da se ja javim? <i>- Morat ćeš.</i>
+
+75
+00:12:00,262 --> 00:12:04,765
+Da, general Turgidson je
+ovdje, ali ne može do telefona.
+
+76
+00:12:04,933 --> 00:12:07,143
+Njegova tajnica, gđica Scott.
+
+77
+00:12:08,312 --> 00:12:12,773
+Freddy, kako si? Dobro, a ti?
+
+78
+00:12:12,941 --> 00:12:17,069
+Odrađujemo zaostalu papirologiju.
+
+79
+00:12:17,654 --> 00:12:24,744
+Sad je zauzet i ne
+može do telefona.
+
+80
+00:12:24,912 --> 00:12:30,082
+Generale, zove vas brigadir
+Puntridge. <i>- Neka nazove poslije.</i>
+
+81
+00:12:30,250 --> 00:12:34,837
+Možeš li ga nazvati poslije?
+
+82
+00:12:35,005 --> 00:12:36,839
+Kaže da je hitno.
+
+83
+00:12:37,007 --> 00:12:40,259
+<i>Neka ti kaže što je.</i>
+
+84
+00:12:40,427 --> 00:12:46,641
+General je na zahodu.
+Možeš li meni reći što je?
+
+85
+00:12:47,851 --> 00:12:55,191
+Samo malo. Presreli su poruku
+iz zrakoplovne baze Burpelson.
+
+86
+00:12:56,526 --> 00:13:01,656
+Bila je za 843. bombardersku
+pukovniju u pripravnosti.
+
+87
+00:13:03,408 --> 00:13:06,827
+Dekodirali su je kao
+<i>napad pukovnije po planu R</i>.
+
+88
+00:13:06,995 --> 00:13:14,293
+<i>Neka nazove onoga...
+zapovjednika baze Rippera.</i>
+
+89
+00:13:14,461 --> 00:13:18,965
+General predlaže da nazoveš
+zapovjednika baze Rippera.
+
+90
+00:13:20,050 --> 00:13:25,888
+Sve su veze prekinute.
+<i>- Glupost! Neka osobno nazove.</i>
+
+91
+00:13:26,056 --> 00:13:30,476
+General pita možeš
+li ga osobno nazvati.
+
+92
+00:13:31,061 --> 00:13:35,648
+Shvaćam. Pokušao je
+više puta, ali ništa ne radi.
+
+93
+00:13:35,816 --> 00:13:39,193
+Čak ni normalne linije.
+
+94
+00:13:45,826 --> 00:13:48,661
+Frede, Buck je. Kakvo je stanje?
+
+95
+00:13:53,083 --> 00:13:56,085
+Siguran si da je Plan R?
+
+96
+00:13:58,213 --> 00:14:02,925
+Kako izgleda na ploči?
+Nema nikakvih prijetnji?
+
+97
+00:14:05,095 --> 00:14:07,596
+Ne sviđa mi se to, Frede.
+
+98
+00:14:08,598 --> 00:14:11,058
+Znaš što?
+
+99
+00:14:11,226 --> 00:14:17,064
+Zovi Elma i Charlieja, uzbuni sve
+i budi kraj telefona. Javit ću ti.
+
+100
+00:14:17,232 --> 00:14:19,400
+Što je? - Ništa.
+
+101
+00:14:20,986 --> 00:14:24,238
+Gdje su mi hlače?
+- Na podu. Kamo ideš?
+
+102
+00:14:24,406 --> 00:14:26,073
+Nikamo.
+
+103
+00:14:26,241 --> 00:14:30,870
+Malo bih odšetao do Ratne
+sobe da vidim što se događa.
+
+104
+00:14:31,038 --> 00:14:34,749
+Tri su sata ujutro. - Ratno
+zrakoplovstvo nikad ne spava.
+
+105
+00:14:34,916 --> 00:14:38,794
+Ni meni se ne spava.
+
+106
+00:14:41,465 --> 00:14:46,385
+Znam kako je to. Znaš što trebaš?
+
+107
+00:14:47,429 --> 00:14:49,307
+Započni odbrojavati,
+
+108
+00:14:49,475 --> 00:14:55,019
+a stari Buckie vratit će
+se dok kažeš <i>polijetanje</i>!
+
+109
+00:14:56,271 --> 00:15:01,317
+<i>Tipična komunjara nimalo ne
+cijeni ljudski život, čak ni svoj.</i>
+
+110
+00:15:01,526 --> 00:15:07,406
+<i>Zato morate biti krajnje budni.</i>
+
+111
+00:15:07,574 --> 00:15:11,619
+<i>Neprijatelj može doći
+pojedinačno</i> ili u velikom broju.
+
+112
+00:15:11,787 --> 00:15:14,455
+Može doći i u našim odorama.
+
+113
+00:15:15,290 --> 00:15:17,833
+<i>Ali kako god došao,
+moramo ga zaustaviti.</i>
+
+114
+00:15:18,001 --> 00:15:21,754
+<i>Ne smijemo
+dopustiti da uđe u bazu.</i>
+
+115
+00:15:22,297 --> 00:15:26,133
+<i>Dat ću vam tri jednostavna pravila.</i>
+
+116
+00:15:26,301 --> 00:15:30,679
+<i>Prvo, ne vjerujte nikomu,
+bez obzira na odoru i čin,</i>
+
+117
+00:15:30,847 --> 00:15:33,307
+<i>ako ga osobno ne poznajete.</i>
+
+118
+00:15:33,475 --> 00:15:36,185
+<i>Drugo,</i> na sve i svakoga
+
+119
+00:15:36,353 --> 00:15:41,190
+tko priđe na 200 m
+od ograde trebate pucati.
+
+120
+00:15:41,358 --> 00:15:46,862
+Treće, <i>ako niste sigurni, prvo
+pucajte, a poslije provjeravajte.</i>
+
+121
+00:15:47,072 --> 00:15:50,324
+<i>Bolje nekoliko slučajnih žrtava</i>
+
+122
+00:15:50,492 --> 00:15:54,537
+<i>nego da cijela baza
+padne zbog neopreznosti.</i>
+
+123
+00:15:54,704 --> 00:15:59,291
+<i>Svaka promjena ovih pravila
+mora doći od mene osobno.</i>
+
+124
+00:15:59,876 --> 00:16:04,670
+<i>Na kraju bih želio reći</i>
+
+125
+00:16:05,238 --> 00:16:10,678
+<i>da sam u ove dvije godine
+koliko sam vaš zapovjednik</i>
+
+126
+00:16:10,846 --> 00:16:17,643
+<i>uvijek od vas očekivao najbolje,
+a vi ste mi to uvijek i davali.</i>
+
+127
+00:16:17,811 --> 00:16:24,984
+<i>Nacija računa na nas
+i nećemo ih iznevjeriti.</i>
+
+128
+00:16:25,152 --> 00:16:27,194
+<i>Sretno svima!</i>
+
+129
+00:16:57,767 --> 00:17:00,394
+Izvolite plan napada.
+
+130
+00:17:27,756 --> 00:17:30,216
+Ovo je plan napada.
+
+131
+00:17:30,383 --> 00:17:35,763
+<i>Kako neprijatelj ne bi mogao
+pratiti i podmetati poruke,</i>
+
+132
+00:17:35,931 --> 00:17:40,935
+<i>CRM114 treba biti spojen
+sa svim sklopovima prijamnika.</i>
+
+133
+00:17:41,102 --> 00:17:46,941
+<i>Izvanredni prefiks treba
+biti postavljen na CRM-u.</i>
+
+134
+00:17:47,108 --> 00:17:51,612
+<i>To će blokirati sve poruke
+osim onih s kodnim prefiksom.</i>
+
+135
+00:17:53,240 --> 00:17:55,324
+Pripremi se za
+postavljanje prefiksa.
+
+136
+00:17:55,492 --> 00:18:00,454
+Spreman za postavljanje
+prefiksa. - Postavi prefiks.
+
+137
+00:18:09,506 --> 00:18:12,591
+Prefiks postavljen. - Fiksiraj prefiks.
+
+138
+00:18:15,262 --> 00:18:20,266
+Fiksiran. - Prebaci sve prijamnike
+na CRM-ove diskriminatore.
+
+139
+00:18:21,810 --> 00:18:24,645
+Sve prebačeno na
+CRMove diskriminatore.
+
+140
+00:18:24,813 --> 00:18:27,356
+<i>Provjeri sklopove
+za samouništenje.</i>
+
+141
+00:18:29,943 --> 00:18:31,860
+Sklopovi za
+samouništenje provjereni.
+
+142
+00:18:37,284 --> 00:18:41,620
+Glavna meta:
+nuklearna baza u Laputi.
+
+143
+00:18:41,788 --> 00:18:48,043
+Oznaka mete: Y-G-T-3-6-0.
+
+144
+00:18:48,211 --> 00:18:54,216
+Bomba od 30 megatona za
+<i>detonaciju u zraku na 3.000 m.</i>
+
+145
+00:18:54,384 --> 00:18:58,804
+<i>Ako ta zakaže, bacit
+ćemo drugu od 20 megatona.</i>
+
+146
+00:18:58,972 --> 00:19:01,515
+<i>Ako ne, idemo
+prema sekundarnoj meti:</i>
+
+147
+00:19:01,683 --> 00:19:05,644
+<i>raketnoj bazi 12 km
+istočno od Boršova.</i>
+
+148
+00:19:05,812 --> 00:19:12,192
+<i>Oznaka mete: N-B-X</i>-1-0-8.
+
+149
+00:19:12,360 --> 00:19:17,656
+Detonacija u zraku na
+3.000, ne, na 3.600 m.
+
+150
+00:19:28,918 --> 00:19:32,755
+Oprostite, ali iskrsnulo
+je nešto zanimljivo.
+
+151
+00:19:32,922 --> 00:19:35,758
+Slušajte. Glazba na
+civilnim frekvencijama.
+
+152
+00:19:37,218 --> 00:19:41,555
+Mislim da Pentagon samo
+provjerava našu spremnost.
+
+153
+00:19:41,723 --> 00:19:46,894
+Idu predaleko. Ruski radari
+ulovit će ih za 20-ak minuta.
+
+154
+00:19:47,062 --> 00:19:50,564
+Na svim je postajama glazba.
+
+155
+00:19:51,900 --> 00:19:56,904
+Mandrake? - Da? - Naredio
+sam da zaplijenite sve radije.
+
+156
+00:19:57,072 --> 00:20:01,283
+Jeste. Zapljenjivao sam
+ovaj i slučajno ga uključio.
+
+157
+00:20:01,451 --> 00:20:05,079
+Pomislio sam da bi naši
+momci na ruskim radarima
+
+158
+00:20:05,246 --> 00:20:09,583
+mogli izazvati incident
+pa sam vam došao reći.
+
+159
+00:20:09,751 --> 00:20:13,712
+Brigadiru, program
+razmjene časnika
+
+160
+00:20:13,880 --> 00:20:17,424
+ne daje vam pravo da
+osporavate moje zapovijedi.
+
+161
+00:20:17,592 --> 00:20:21,720
+Znam, ali mislio sam
+da bi vam bilo drago.
+
+162
+00:20:21,888 --> 00:20:28,644
+Napokon, ne želimo izazvati
+nuklearni rat ako baš ne moramo.
+
+163
+00:20:29,646 --> 00:20:34,441
+Sjednite i isključite to.
+
+164
+00:20:34,609 --> 00:20:39,446
+A naši avioni? Morali
+bismo ih odmah opozvati.
+
+165
+00:20:39,614 --> 00:20:45,994
+Avioni neće biti opozvani.
+Zapovijed je izdana i stoji.
+
+166
+00:20:47,414 --> 00:20:53,752
+Oprostite, ali to mi se
+čini donekle čudnim.
+
+167
+00:20:53,920 --> 00:21:00,175
+Da Rusi doista napadaju, ne
+bismo slušali civilne postaje.
+
+168
+00:21:00,385 --> 00:21:03,137
+Siguran si u to?
+- Posve sam siguran.
+
+169
+00:21:03,304 --> 00:21:09,143
+A što ako je tako?
+- I dalje vas ne pratim.
+
+170
+00:21:10,687 --> 00:21:12,980
+Ako nas Rusi ne napadaju,
+
+171
+00:21:13,148 --> 00:21:18,318
+onda su vaše zapovijedi
+pukovniji da napadne...
+
+172
+00:21:24,993 --> 00:21:30,205
+Rekao bih da negdje
+nešto nije kako treba.
+
+173
+00:21:31,332 --> 00:21:36,545
+Opustite se, natočite mi čašu
+čistog alkohola s kišnicom,
+
+174
+00:21:36,713 --> 00:21:39,214
+a sebi što god želite.
+
+175
+00:21:47,974 --> 00:21:55,355
+Generale Ripper, kao
+časnik RAF-a dužan sam
+
+176
+00:21:55,523 --> 00:22:00,068
+po vlastitoj ovlasti poslati kôd
+za opoziv i vratiti pukovniju.
+
+177
+00:22:00,236 --> 00:22:02,237
+Ispričavam se.
+
+178
+00:22:10,872 --> 00:22:15,709
+Moram tražiti ključ i kôd za
+opoziv. Jesu li vam pri ruci?
+
+179
+00:22:15,877 --> 00:22:20,881
+Rekao sam da se smirite.
+Nitko ništa ne može učiniti.
+
+180
+00:22:21,049 --> 00:22:26,678
+Samo ja znam troslovni kôd.
+- Onda inzistiram da mi ga date.
+
+181
+00:22:35,188 --> 00:22:39,191
+Znači li to da kolegi
+časniku prijetite pištoljem?
+
+182
+00:22:40,443 --> 00:22:45,531
+Mandrake,
+vjerojatno nisi ni pomislio
+
+183
+00:22:45,698 --> 00:22:49,201
+da dok mi ovdje ugodno ćaskamo
+
+184
+00:22:49,369 --> 00:22:54,121
+predsjednik i
+Združeni stožer odlučuju
+
+185
+00:22:54,289 --> 00:22:56,416
+u Ratnoj sobi u Pentagonu.
+
+186
+00:22:57,502 --> 00:23:03,048
+Kada shvate da ne
+mogu opozvati pukovniju,
+
+187
+00:23:03,216 --> 00:23:06,552
+moći će samo jedno:
+
+188
+00:23:07,428 --> 00:23:09,429
+Napasti svim snagama.
+
+189
+00:23:11,724 --> 00:23:17,145
+Mandrake, sjećaš li se što
+je Clemenceau rekao o ratu?
+
+190
+00:23:17,438 --> 00:23:20,148
+Mislim da ne.
+
+191
+00:23:21,818 --> 00:23:24,820
+Rekao je da je rat prevažan da
+bismo ga prepustili generalima.
+
+192
+00:23:25,947 --> 00:23:32,494
+Kad je to rekao, prije 50 g.,
+možda je i imao pravo.
+
+193
+00:23:32,662 --> 00:23:38,458
+Ali danas je rat prevažan da
+bismo ga prepustili političarima.
+
+194
+00:23:38,626 --> 00:23:43,005
+Nemaju ni vremena, ni znanja,
+
+195
+00:23:43,172 --> 00:23:46,174
+ni sklonosti za
+strateška promišljanja.
+
+196
+00:23:49,846 --> 00:23:55,307
+Ne mogu više dopuštati
+komunističku infiltraciju,
+
+197
+00:23:55,474 --> 00:24:01,106
+komunističku indokrinaciju,
+komunističku subverziju
+
+198
+00:24:01,774 --> 00:24:08,488
+i međunarodnu komunističku
+urotu da crpe i onečišćuju
+
+199
+00:24:08,656 --> 00:24:11,992
+sve naše dragocjene
+tjelesne tekućine.
+
+200
+00:24:18,166 --> 00:24:22,294
+Svi su ovdje? - G. predsjedniče,
+državni je tajnik u Vijetnamu,
+
+201
+00:24:22,462 --> 00:24:26,214
+ministar obrane u Laosu,
+a potpredsjednik u Meksiku.
+
+202
+00:24:26,382 --> 00:24:31,219
+Možemo ih dobiti,
+a svi su doministri ovdje.
+
+203
+00:24:31,387 --> 00:24:38,518
+Generale Turgidson, što se
+događa? - G. predsjedniče...
+
+204
+00:24:38,686 --> 00:24:42,230
+Prije otprilike 35 min
+
+205
+00:24:42,398 --> 00:24:48,820
+general Jack Ripper, zapovjednik
+zrakoplovne baze Burpelson,
+
+206
+00:24:48,988 --> 00:24:54,368
+naredio je svojim bombarderima
+<i>B-52</i> koji su tada bili u zraku
+
+207
+00:24:54,535 --> 00:24:58,538
+u sklopu posebne vježbe koja
+se zove <i>Operacija Dropkick</i>...
+
+208
+00:24:58,748 --> 00:25:06,838
+Čini se da im je naredio da
+napadnu svoje mete u Rusiji.
+
+209
+00:25:08,006 --> 00:25:14,721
+Avioni nose nuklearno oružje
+prosječne snage od 40 megatona.
+
+210
+00:25:14,889 --> 00:25:19,351
+Na karti Rusije
+vidite položaj aviona.
+
+211
+00:25:20,645 --> 00:25:27,943
+Trokuti su glavne mete,
+a kvadrati sekundarne mete.
+
+212
+00:25:28,111 --> 00:25:33,407
+Ući će u polje
+ruskih radara za 25 min.
+
+213
+00:25:35,451 --> 00:25:38,704
+Generale, ne razumijem.
+
+214
+00:25:38,871 --> 00:25:44,251
+Mislio sam da sam samo ja
+ovlašten narediti nuklearni udar.
+
+215
+00:25:45,420 --> 00:25:49,423
+Tako je. Samo ste vi
+ovlašteni da to naredite.
+
+216
+00:25:49,590 --> 00:25:53,802
+Ne volim prosuđivati prije
+nego što znamo sve činjenice,
+
+217
+00:25:53,970 --> 00:25:57,472
+ali čini se da je gen. Ripper
+prekoračio svoje ovlasti.
+
+218
+00:25:57,682 --> 00:26:02,436
+Čini se. I preko mjere
+koja mi se činila mogućom.
+
+219
+00:26:02,603 --> 00:26:08,108
+Možda zaboravljate
+odredbe Plana R. - Plana R?
+
+220
+00:26:09,485 --> 00:26:15,115
+To je plan za izvanredne
+prilike u kojem niži časnik
+
+221
+00:26:15,283 --> 00:26:18,827
+smije narediti nuklearnu odmazdu
+poslije iznenadna napada...
+
+222
+00:26:18,995 --> 00:26:22,414
+ako je redoviti
+zapovjedni lanac prekinut.
+
+223
+00:26:22,582 --> 00:26:25,459
+Vi ste ga odobrili, sjećate se.
+
+224
+00:26:26,961 --> 00:26:30,130
+Kad je senator
+Beaufort dignuo graju
+
+225
+00:26:30,298 --> 00:26:33,800
+da naš plan za odvraćanje
+napada nije vjerodostojan.
+
+226
+00:26:33,968 --> 00:26:38,597
+Plan R je trebao biti neka
+vrsta sigurnosne odmazde.
+
+227
+00:26:38,765 --> 00:26:43,977
+Sigurnosne? - Ovdje je
+zakazao ljudski čimbenik,
+
+228
+00:26:44,145 --> 00:26:50,025
+ali trebalo je odvratiti Ruse od
+iznenadna napada na Washington
+
+229
+00:26:50,193 --> 00:26:56,364
+poslije kojeg bi se izvukli jer
+mi više nemamo zapovjedni lanac.
+
+230
+00:26:56,532 --> 00:27:02,037
+Onda će se avioni vratiti sami
+kada dođu do mjesta za pripremu.
+
+231
+00:27:02,288 --> 00:27:08,668
+Neće. Bili su na mjestu za
+pripremu kad su im naredili napad.
+
+232
+00:27:08,836 --> 00:27:15,550
+Kad krenu dalje od toga mjesta,
+ne staju dok ne dođu do mete.
+
+233
+00:27:15,760 --> 00:27:19,846
+Zašto im niste javili
+i poništili zapovijed?
+
+234
+00:27:20,139 --> 00:27:25,143
+Ne možemo se
+javiti avionima. - Zašto?
+
+235
+00:27:25,853 --> 00:27:31,858
+Možda se sjećate te odredbe plana.
+
+236
+00:27:32,026 --> 00:27:36,530
+Kada dobiju zapovijed za napad,
+
+237
+00:27:36,697 --> 00:27:39,908
+s normalnih
+radiouređaja u avionu
+
+238
+00:27:40,076 --> 00:27:45,413
+prebacuju se na uređaj
+koji se zove CRM114.
+
+239
+00:27:45,581 --> 00:27:50,085
+Kako im neprijatelj ne bi izdao
+lažne ili zbunjujuće zapovijedi,
+
+240
+00:27:50,294 --> 00:27:54,089
+CRM114 je konstruiran
+tako da ne prima ništa
+
+241
+00:27:54,298 --> 00:27:59,719
+osim poruka koje imaju
+točni troslovni prefiks.
+
+242
+00:27:59,887 --> 00:28:05,100
+Želite reći da niste u
+stanju opozvati avione?
+
+243
+00:28:05,309 --> 00:28:11,106
+Otprilike. Provjeravamo
+sve moguće kombinacije.
+
+244
+00:28:11,315 --> 00:28:16,403
+Ali budući da postoji
+17.000 permutacija,
+
+245
+00:28:16,571 --> 00:28:20,073
+trajat će oko dva i pol dana.
+
+246
+00:28:20,241 --> 00:28:24,509
+Kad će ih opaziti ruski
+radari? - Za oko 18 min.
+
+247
+00:28:24,677 --> 00:28:31,418
+U vezi ste s gen. Ripperom?
+- Ne. Prekinuo je sve veze.
+
+248
+00:28:31,586 --> 00:28:33,854
+Odakle vam onda informacije?
+
+249
+00:28:34,022 --> 00:28:39,426
+General je nazvao stožer
+nakon što je izdao zapovijed.
+
+250
+00:28:39,594 --> 00:28:45,056
+Imam djelomičan prijepis
+razgovora. - Pročitajte ga.
+
+251
+00:28:46,851 --> 00:28:52,407
+Službujući časnik tražio je od
+generala da potvrdi zapovijed.
+
+252
+00:28:52,574 --> 00:28:58,153
+Rekao je: <i>Da, gospodo. Krenuli
+su i nitko ih ne može vratiti.</i>
+
+253
+00:28:58,571 --> 00:29:03,783
+<i>Za dobrobit države predlažem
+da pošaljete i ostale za njima.</i>
+
+254
+00:29:03,951 --> 00:29:08,788
+<i>Inače će nas odmazda
+crvenih potpuno uništiti.</i>
+
+255
+00:29:08,956 --> 00:29:14,169
+<i>Moji dečki dat će vam
+najbolju prednost - 1.400 megatona.</i>
+
+256
+00:29:14,337 --> 00:29:17,797
+<i>A sad ih ne možete zaustaviti.</i>
+
+257
+00:29:17,965 --> 00:29:20,759
+<i>Zato krenimo. Nema drugog izbora.</i>
+
+258
+00:29:20,927 --> 00:29:25,680
+<i>Ako Bog da, pobijedit ćemo
+u miru, slobodi od straha</i>
+
+259
+00:29:25,848 --> 00:29:30,542
+<i>te pravom zdravlju
+kroz čistoću i esenciju</i>
+
+260
+00:29:30,710 --> 00:29:34,648
+<i>naših prirodnih... tekućina.</i>
+
+261
+00:29:35,650 --> 00:29:37,651
+<i>Bog vas blagoslovio.</i>
+
+262
+00:29:39,612 --> 00:29:41,363
+A zatim je poklopio.
+
+263
+00:29:42,323 --> 00:29:47,825
+Nastojimo otkriti značenje onoga
+na kraju. - Nemate što otkriti.
+
+264
+00:29:47,993 --> 00:29:55,377
+Čovjek je očito psihotičan.
+- Nemojmo suditi dok ne znamo sve.
+
+265
+00:29:55,544 --> 00:30:00,048
+Kad ste uveli testove pouzdanosti
+
+266
+00:30:00,216 --> 00:30:05,053
+uvjeravali ste me da se
+takvo što ne može dogoditi.
+
+267
+00:30:06,138 --> 00:30:12,852
+Nije pošteno osuđivati cijeli
+program zbog jedne pogreške.
+
+268
+00:30:13,020 --> 00:30:17,065
+Želim razgovarati s generalom
+Ripperom. - To je nemoguće.
+
+269
+00:30:17,441 --> 00:30:24,739
+Sve me manje zanima
+što vi smatrate mogućim.
+
+270
+00:30:25,908 --> 00:30:30,912
+Generale Faceman, imamo li
+koju postrojbu blizu Burpelsona?
+
+271
+00:30:31,080 --> 00:30:33,164
+Provjerit ću.
+
+272
+00:30:41,007 --> 00:30:44,217
+Zar ne znaš gdje sam?
+
+273
+00:30:46,387 --> 00:30:51,891
+Dušo, ne mogu sad.
+Predsjednik me treba.
+
+274
+00:30:52,059 --> 00:30:55,603
+Jasno da bi Bucky
+radije bio s tobom.
+
+275
+00:30:56,731 --> 00:30:59,774
+Jasno da nije samo tjelesno.
+
+276
+00:30:59,984 --> 00:31:02,360
+Duboko te poštujem
+kao ljudsko biće.
+
+277
+00:31:02,528 --> 00:31:05,572
+Jednoga dana bit
+ćeš Buckova supruga.
+
+278
+00:31:06,741 --> 00:31:12,620
+Spavaj dalje. Buckie
+će se vratiti čim uzmogne.
+
+279
+00:31:15,788 --> 00:31:17,417
+I ne zaboravi se pomoliti.
+
+280
+00:31:24,425 --> 00:31:28,261
+Čini se da je 23.
+zračno-desantna divizija
+
+281
+00:31:28,429 --> 00:31:31,139
+11 km od njih u Alvaradu.
+
+282
+00:31:31,307 --> 00:31:39,647
+Neka uđu u bazu, nađu generala
+Rippera i spoje ga sa mnom.
+
+283
+00:31:39,815 --> 00:31:42,817
+G. predsjedniče,
+ako smijem savjetovati...
+
+284
+00:31:42,985 --> 00:31:50,241
+Pri najvišem stupnju uzbune
+baza je zatvorena i brani je posada.
+
+285
+00:31:50,409 --> 00:31:54,746
+Svatko tko pokuša ući
+imat će teške gubitke.
+
+286
+00:31:54,914 --> 00:31:58,666
+Uza sve dužno poštovanje
+prema vašoj obrani,
+
+287
+00:31:58,834 --> 00:32:01,753
+moji ih dečki lako mogu pomesti.
+
+288
+00:32:02,671 --> 00:32:07,467
+G. predsjedniče, htio bih reći
+nekoliko stvari, ako smijem.
+
+289
+00:32:08,469 --> 00:32:09,928
+Recite, generale.
+
+290
+00:32:11,430 --> 00:32:16,017
+Prvo, naša nada za
+opoziv 843. pukovnije
+
+291
+00:32:16,185 --> 00:32:20,355
+brzo se spušta na
+jako nisku vjerojatnost.
+
+292
+00:32:20,564 --> 00:32:26,528
+Drugo, za 15 min Rusi
+će vidjeti avione na radaru.
+
+293
+00:32:26,695 --> 00:32:32,659
+Treće, kad ih vide, poludjet
+će i udariti svime što imaju.
+
+294
+00:32:32,827 --> 00:32:39,958
+Četvrto, ako ih prije toga ne
+onesposobimo za odmazdu,
+
+295
+00:32:40,126 --> 00:32:42,669
+bit ćemo gotovo potpuno uništeni.
+
+296
+00:32:46,465 --> 00:32:51,386
+Peto, ali ako...
+
+297
+00:32:53,222 --> 00:32:58,143
+odmah naredimo potpuni napad
+na sve zrakoplovne i raketne baze
+
+298
+00:32:58,310 --> 00:33:01,688
+mogli bismo ih
+uloviti spuštenih gaća!
+
+299
+00:33:01,856 --> 00:33:04,023
+Ionako imamo pet
+puta više projektila.
+
+300
+00:33:04,191 --> 00:33:10,864
+Možemo udariti triput po svakoj
+meti, a i dalje sačuvati pričuvu.
+
+301
+00:33:11,031 --> 00:33:15,994
+Šesto, neslužbeno istraživanje
+koje smo proveli o ovome
+
+302
+00:33:16,162 --> 00:33:20,999
+pokazalo je da bismo uništili
+90% njihovih nuklearnih snaga.
+
+303
+00:33:21,167 --> 00:33:26,881
+Pobijedili bismo i imali samo
+skromne i prihvatljive gubitke
+
+304
+00:33:27,048 --> 00:33:30,925
+od ostatka koji bi bio
+teško oštećen i nekoordiniran.
+
+305
+00:33:31,135 --> 00:33:34,262
+Ova država
+odlučno se drži politike
+
+306
+00:33:34,430 --> 00:33:36,723
+da nikada neće prva
+udariti nuklearnim oružjem.
+
+307
+00:33:36,891 --> 00:33:41,519
+General Ripper već
+je pogazio tu politiku.
+
+308
+00:33:41,687 --> 00:33:46,065
+To nije bila naša odluka i
+još postoje druge mogućnosti.
+
+309
+00:33:47,067 --> 00:33:48,776
+G. predsjedniče...
+
+310
+00:33:49,737 --> 00:33:55,074
+uskoro će doći trenutak istine
+za nas kao ljude i našu državu.
+
+311
+00:33:55,242 --> 00:33:57,785
+Istina nije uvijek ugodna.
+
+312
+00:33:57,953 --> 00:34:03,249
+Ali sada moramo donijeti odluku,
+izabrati između dva nesretna,
+
+313
+00:34:03,417 --> 00:34:06,794
+ali različita poslijeratna svijeta,
+
+314
+00:34:06,962 --> 00:34:11,633
+jednoga s 20 mil. žrtava
+i drugoga s 150 mil. žrtava.
+
+315
+00:34:11,800 --> 00:34:14,719
+Govorite o masovnom
+pokolju, ne o ratu.
+
+316
+00:34:14,887 --> 00:34:18,389
+Ne kažem da bismo
+prošli neogrebeni,
+
+317
+00:34:18,557 --> 00:34:23,102
+ali kažem da ne bi bilo
+više od 10-20 mil. žrtava.
+
+318
+00:34:23,270 --> 00:34:25,146
+Ovisno kako se zalomi.
+
+319
+00:34:25,314 --> 00:34:29,234
+Neću postati najveći masovni
+ubojica od Adolfa Hitlera.
+
+320
+00:34:29,401 --> 00:34:35,281
+Više se brinite za američki narod,
+a manje za mjesto u povijesti.
+
+321
+00:34:35,449 --> 00:34:38,409
+Čuo sam dovoljno od vas.
+
+322
+00:34:40,996 --> 00:34:45,498
+Veleposlanik čeka gore.
+- Fino. Je li bilo problema?
+
+323
+00:34:45,626 --> 00:34:47,588
+Poludio je zbog vojne policije.
+
+324
+00:34:47,714 --> 00:34:51,339
+To zacijelo nije
+pomoglo. Neka ga dovedu.
+
+325
+00:34:51,507 --> 00:34:56,219
+Govorite o ruskome
+veleposlaniku? - Da.
+
+326
+00:34:58,305 --> 00:35:03,643
+Ruskoga veleposlanika
+pustit ćete u Ratnu sobu?
+
+327
+00:35:03,811 --> 00:35:06,646
+Tako je. Ja sam
+naredio da ga dovedu.
+
+328
+00:35:09,525 --> 00:35:15,196
+Jeste li svjesni kakvo je
+to narušavanje sigurnosti?
+
+329
+00:35:15,364 --> 00:35:19,492
+Vidjet će sve.
+Vidjet će veliku ploču.
+
+330
+00:35:20,452 --> 00:35:25,039
+To i želim. Baš
+sam ga zato pozvao.
+
+331
+00:35:26,625 --> 00:35:30,503
+Stainese, zovi predsjednika
+Kisova na crveni telefon.
+
+332
+00:35:38,012 --> 00:35:41,514
+Provjera sadržaja
+pribora za preživljavanje.
+
+333
+00:35:41,682 --> 00:35:46,394
+U priboru ćete naći
+jedan pištolj kalibra 45,
+
+334
+00:35:46,562 --> 00:35:52,483
+dvije kutije <i>streljiva,
+suhe obroke za četiri dana,</i>
+
+335
+00:35:52,901 --> 00:35:59,283
+kutiju s lijekovima u kojoj
+su antibiotici, morfij, vitamini,
+
+336
+00:35:59,401 --> 00:36:04,162
+stimulansi, <i>tablete
+za spavanje, sedativi...</i>
+
+337
+00:36:04,580 --> 00:36:09,042
+<i>jednu knjižicu u kojoj
+su ruske fraze i Biblija,</i>
+
+338
+00:36:09,501 --> 00:36:12,045
+<i>stotinu dolara u rubljama,</i>
+
+339
+00:36:12,212 --> 00:36:14,380
+<i>stotinu dolara u zlatu,</i>
+
+340
+00:36:14,590 --> 00:36:16,758
+<i>devet kutija guma za žvakanje,</i>
+
+341
+00:36:16,925 --> 00:36:20,618
+jednu kutija kondoma, tri ruža,
+
+342
+00:36:20,786 --> 00:36:23,097
+tri para najlonskih čarapa...
+
+343
+00:36:23,307 --> 00:36:28,102
+S time bi se čovjek
+dobro zabavio u Vegasu.
+
+344
+00:36:33,567 --> 00:36:38,613
+Nemate svježe ribe? - Nemamo.
+- Jesu li jaja svježa? - Jesu.
+
+345
+00:36:38,781 --> 00:36:42,617
+Onda ću poširana jaja.
+I donesite mi kubanske cigare.
+
+346
+00:36:42,826 --> 00:36:46,120
+Samo to? - Da. - Odmah.
+
+347
+00:36:46,288 --> 00:36:49,415
+Probajte jamajčanske
+cigare, dobre su.
+
+348
+00:36:49,583 --> 00:36:52,919
+Ne želim podupirati
+imperijalističke marionete.
+
+349
+00:36:53,087 --> 00:36:55,588
+Samo komunističke, ha?
+
+350
+00:36:59,134 --> 00:37:02,762
+Dopustit ćete da ta šugava
+komunjara bljuje po nama?
+
+351
+00:37:02,930 --> 00:37:06,938
+Ne možemo dobiti
+predsjednika Kisova.
+
+352
+00:37:07,048 --> 00:37:10,770
+Ne znaju gdje je i neće
+se vratiti još dva sata.
+
+353
+00:37:10,979 --> 00:37:15,775
+Nazovite B86543 u Moskvi.
+Preko ureda ga nećete naći.
+
+354
+00:37:15,943 --> 00:37:19,737
+On je čovjek od naroda, ali je
+i muškarac, ako me razumijete.
+
+355
+00:37:21,905 --> 00:37:29,122
+Što ste rekli? - Da je Kisov
+perverzni ateist! - Prosvjedujem!
+
+356
+00:37:30,289 --> 00:37:33,167
+Mislim da zovu taj broj.
+
+357
+00:37:43,846 --> 00:37:46,931
+Ne smijete se ovdje
+tući! Ovo je Ratna soba!
+
+358
+00:37:47,099 --> 00:37:49,809
+Zahtijevam objašnjenje!
+
+359
+00:37:49,977 --> 00:37:55,147
+Budala mi je pokušala
+podmetnuti kameru.
+
+360
+00:37:55,314 --> 00:38:01,404
+Pogledajte! Šugava komunjara
+ovime je snimala veliku ploču!
+
+361
+00:38:01,655 --> 00:38:07,994
+G. veleposlaniče! - Pokušao
+mi je podmetnuti tu kameru.
+
+362
+00:38:08,162 --> 00:38:10,872
+Laže! Vidio sam
+ga vlastitim očima!
+
+363
+00:38:11,039 --> 00:38:15,168
+Nikada nisam čuo za takvo
+ponašanje u Ratnoj sobi.
+
+364
+00:38:15,335 --> 00:38:18,671
+Mislim da će sada doći.
+
+365
+00:38:45,824 --> 00:38:47,700
+Komunjare su zbilja dobre.
+
+366
+00:38:49,536 --> 00:38:52,246
+Ti kamioni izgledaju baš kao naši.
+
+367
+00:38:52,456 --> 00:38:57,710
+Tko zna odakle im? - Valjda su
+kupili višak od Kopnene vojske.
+
+368
+00:39:00,380 --> 00:39:04,467
+Dobro. Pucajte na 200 m.
+
+369
+00:40:01,650 --> 00:40:05,319
+Reci mu gdje si i da ćeš se
+umiješati ako kažem neistinu,
+
+370
+00:40:05,487 --> 00:40:08,656
+ali ništa više od toga.
+
+371
+00:40:09,324 --> 00:40:13,494
+Aleksej, molim te.
+
+372
+00:40:13,787 --> 00:40:18,541
+Nemam telefon. - Daj mu telefon.
+
+373
+00:40:20,982 --> 00:40:24,019
+(Druže predsjedniče?
+Ovdje Desadeski.)
+
+374
+00:40:24,883 --> 00:40:27,389
+(Ja sam s predsjednikom
+Muffleyem u Pentagonu.)
+
+375
+00:40:27,526 --> 00:40:30,922
+(Htio je da vam kažem
+ako izgovori neku neistinu.)
+
+376
+00:40:36,229 --> 00:40:37,889
+(Trebam ga prekinuti.)
+
+377
+00:40:42,285 --> 00:40:44,623
+(Da, jasno, druže predsjedniče.)
+
+378
+00:40:45,819 --> 00:40:50,197
+Učinio sam što ste tražili.
+Pazite, mislim da je pijan.
+
+379
+00:40:53,201 --> 00:40:57,622
+Halo? Zdravo, Dimitrij.
+
+380
+00:40:57,789 --> 00:41:03,377
+Ne čujem te baš najbolje.
+Možeš li malo stišati glazbu?
+
+381
+00:41:03,587 --> 00:41:05,379
+Sad je puno bolje.
+
+382
+00:41:09,551 --> 00:41:12,303
+Dobro je, sad te čujem, Dimitrij.
+
+383
+00:41:12,471 --> 00:41:15,848
+Jasno i glasno i dobro čujem.
+
+384
+00:41:16,016 --> 00:41:20,353
+I ti mene dobro čuješ? Fino.
+
+385
+00:41:20,520 --> 00:41:24,357
+Onda obojica dobro
+čujemo jedan drugoga.
+
+386
+00:41:24,524 --> 00:41:28,694
+Dobro. Dobro je
+što smo i ti i ja dobro.
+
+387
+00:41:28,862 --> 00:41:32,073
+Slažem se. Sjajno je kad si dobro.
+
+388
+00:41:32,991 --> 00:41:35,076
+E, sad, Dimitrij...
+
+389
+00:41:35,243 --> 00:41:40,873
+Sjećaš se da smo
+razgovarali o mogućnosti
+
+390
+00:41:41,041 --> 00:41:43,709
+da nešto pođe po zlu s bombom.
+
+391
+00:41:45,087 --> 00:41:47,046
+S bombom.
+
+392
+00:41:48,090 --> 00:41:50,841
+Hidrogenskom bombom.
+
+393
+00:41:51,009 --> 00:41:58,182
+Dogodilo se... da je
+zapovjednik jedne naše baze...
+
+394
+00:41:58,350 --> 00:42:01,435
+Malo je poblesavio.
+
+395
+00:42:01,645 --> 00:42:04,605
+Znaš, samo je malo poblesavio.
+
+396
+00:42:04,773 --> 00:42:11,276
+I učinio je nešto šašavo.
+Reći ću ti što je učinio.
+
+397
+00:42:11,444 --> 00:42:13,781
+Naredio je svojim avionima...
+
+398
+00:42:15,283 --> 00:42:17,910
+da napadnu tvoju državu.
+
+399
+00:42:18,078 --> 00:42:20,413
+Dopusti da završim.
+
+400
+00:42:21,415 --> 00:42:26,585
+Dopusti da završim.
+Što misliš kako je meni?
+
+401
+00:42:26,753 --> 00:42:29,588
+Možeš li zamisliti kako je meni?
+
+402
+00:42:31,133 --> 00:42:35,428
+A zašto sam te nazvao?
+Samo da ti se malo javim?
+
+403
+00:42:36,471 --> 00:42:41,434
+Jasno da volim razgovarati s
+tobom! I rado bih ti se javio.
+
+404
+00:42:41,601 --> 00:42:43,644
+Ne sad, ali bilo kad.
+
+405
+00:42:43,812 --> 00:42:47,773
+Sad zovem da ti javim da
+se dogodilo nešto grozno.
+
+406
+00:42:47,941 --> 00:42:50,818
+Jasno da je ovo
+prijateljski poziv.
+
+407
+00:42:50,986 --> 00:42:55,281
+Da nije prijateljski,
+ne bih te ni zvao.
+
+408
+00:42:57,576 --> 00:43:02,288
+Neće stići do meta
+bar još sat vremena.
+
+409
+00:43:02,456 --> 00:43:10,504
+Siguran sam. Sve sam to prošao
+s veleposlanikom. Nije varka.
+
+410
+00:43:10,672 --> 00:43:15,968
+Dat ćemo vam popis meta,
+
+411
+00:43:16,136 --> 00:43:19,305
+planove letova i
+obrambene sustave aviona.
+
+412
+00:43:19,473 --> 00:43:24,310
+Da. Ako ih ne
+uspijemo opozvati...
+
+413
+00:43:24,478 --> 00:43:27,104
+onda ćemo...
+
+414
+00:43:28,482 --> 00:43:32,818
+Morat ćemo vam
+pomoći da ih uništite.
+
+415
+00:43:32,986 --> 00:43:35,821
+Znam da su to naši dečki.
+
+416
+00:43:35,989 --> 00:43:38,491
+Koga da nazovemo?
+
+417
+00:43:40,327 --> 00:43:45,456
+Koga? Narodnu... Nisam čuo.
+
+418
+00:43:45,832 --> 00:43:49,835
+Glavni stožer Narodne
+protuzračne obrane?
+
+419
+00:43:50,003 --> 00:43:54,465
+Gdje je to? U Omsku? Dobro.
+
+420
+00:43:56,885 --> 00:43:59,762
+Ti ćeš ih prvi nazvati?
+
+421
+00:44:01,056 --> 00:44:04,183
+Imaš li možda broj kod sebe?
+
+422
+00:44:05,894 --> 00:44:09,063
+Shvaćam, da pitamo
+informacije u Omsku.
+
+423
+00:44:10,857 --> 00:44:15,194
+I meni je žao. Strašno mi je žao.
+
+424
+00:44:15,362 --> 00:44:19,198
+Dobro, tebi je više
+žao. Ali i meni je žao.
+
+425
+00:44:21,493 --> 00:44:25,704
+Žao mi je koliko i tebi. Nemoj
+govoriti da je tebi više žao.
+
+426
+00:44:25,872 --> 00:44:28,749
+Sposoban sam za
+žaljenje koliko i ti.
+
+427
+00:44:28,917 --> 00:44:32,294
+Obojici je žao. Dobro.
+
+428
+00:44:33,547 --> 00:44:37,800
+Ovdje je. Želi razgovarati
+s tobom. Samo malo.
+
+429
+00:44:39,592 --> 00:44:42,385
+(Druže predsjedniče?
+Ovdje Desadeski.)
+
+430
+00:44:49,355 --> 00:44:52,392
+(Što?) - Što?
+
+431
+00:44:52,566 --> 00:44:57,757
+(Već su ga uključili?
+Ne, nemoguće.)
+
+432
+00:45:00,226 --> 00:45:01,582
+(Budale!)
+
+433
+00:45:05,267 --> 00:45:06,414
+(Zbogom.)
+
+434
+00:45:10,417 --> 00:45:13,544
+Što? Što je?
+
+435
+00:45:13,712 --> 00:45:16,714
+Budale. Lude budale.
+
+436
+00:45:17,924 --> 00:45:22,595
+Što se dogodilo?
+- Stroj sudnjega dana.
+
+437
+00:45:22,762 --> 00:45:25,264
+Što je stroj sudnjega dana?
+
+438
+00:45:25,432 --> 00:45:30,728
+Uređaj koji će uništiti sve
+ljude i životinje na planetu.
+
+439
+00:45:30,896 --> 00:45:33,105
+Sve ljude i životinje?
+
+440
+00:45:47,662 --> 00:45:50,289
+Mandrake.... - Da, Jack?
+
+441
+00:45:51,374 --> 00:45:54,919
+Jesi li ikada vidio
+komunjaru da pije vodu?
+
+442
+00:45:55,086 --> 00:45:59,632
+Ne, moram reći da nisam, Jack.
+
+443
+00:46:00,800 --> 00:46:05,638
+Votka. To oni piju,
+zar ne? Nikada vodu.
+
+444
+00:46:05,805 --> 00:46:10,100
+Da, mislim da oni to piju.
+
+445
+00:46:10,268 --> 00:46:16,106
+Komunjara nikada neće piti
+vodu bez dobroga razloga.
+
+446
+00:46:17,150 --> 00:46:19,777
+Da...
+
+447
+00:46:19,945 --> 00:46:25,950
+Nije mi baš jasno na što ciljaš.
+
+448
+00:46:26,117 --> 00:46:29,828
+Voda. Na to ciljam.
+
+449
+00:46:30,830 --> 00:46:34,333
+Voda je izvor svega života.
+
+450
+00:46:35,835 --> 00:46:39,380
+Sedam desetina površine
+planeta nalazi se pod vodom.
+
+451
+00:46:39,547 --> 00:46:45,886
+Znaš li da je 70% tebe voda?
+
+452
+00:46:46,054 --> 00:46:52,643
+Bože... - A kao ljudska bića
+trebamo svježu čistu vodu
+
+453
+00:46:52,811 --> 00:46:56,313
+da nadoknadimo svoje
+dragocjene tjelesne tekućine.
+
+454
+00:46:56,481 --> 00:46:59,191
+Počinješ li shvaćati? - Da...
+
+455
+00:47:06,533 --> 00:47:10,704
+Zar se nikada nisi
+pitao zašto pijem
+
+456
+00:47:10,871 --> 00:47:16,208
+samo destiliranu vodu ili
+kišnicu i samo čisti alkohol?
+
+457
+00:47:16,376 --> 00:47:19,586
+Da, zanimalo me to.
+
+458
+00:47:20,714 --> 00:47:25,426
+Jesi li čuo za fluoridiranje vode?
+
+459
+00:47:25,760 --> 00:47:29,555
+Da, čuo sam za to.
+
+460
+00:47:29,723 --> 00:47:34,727
+Znaš li što je to? - Ne, ne znam.
+
+461
+00:47:34,894 --> 00:47:38,731
+Je li ti jasno da je fluoridiranje
+
+462
+00:47:38,898 --> 00:47:45,237
+najčudovišnija i najopasnija
+komunistička urota dosad?
+
+463
+00:47:51,244 --> 00:47:53,787
+Nisi jedini koji to može, vojniče!
+
+464
+00:47:58,084 --> 00:48:00,794
+Dobro gađaš, vojniče!
+
+465
+00:48:25,278 --> 00:48:29,323
+Mandrake, dođi
+ovamo! - Mene zoveš?
+
+466
+00:48:29,532 --> 00:48:31,950
+Dođi i pomozi mi s redenikom.
+
+467
+00:48:34,954 --> 00:48:40,793
+Nemam previše iskustva
+s takvim strojnicama.
+
+468
+00:48:40,960 --> 00:48:44,463
+Samo sam stiskao
+gumb u svom <i>Spitfireu</i>.
+
+469
+00:48:44,631 --> 00:48:48,509
+Pomozi mi u ime
+Njezina Veličanstva.
+
+470
+00:48:48,676 --> 00:48:52,180
+Rado bih došao,
+
+471
+00:48:52,348 --> 00:48:56,141
+ali otišla mi je žica u nozi.
+
+472
+00:48:57,185 --> 00:49:00,770
+Što? - Žica. Nisam ti to rekao.
+
+473
+00:49:00,938 --> 00:49:05,109
+Noga mi je kljakava.
+Otišla. Raznijeli su je.
+
+474
+00:49:07,112 --> 00:49:10,781
+Dolazi! Napadaju nas
+crveni mundiri. Hajde!
+
+475
+00:49:11,866 --> 00:49:15,994
+Detonacija će izazvati
+takve radioaktivne padaline
+
+476
+00:49:16,162 --> 00:49:21,166
+da će površina Zemlje
+biti mrtva kao Mjesečeva.
+
+477
+00:49:21,334 --> 00:49:28,465
+To je suludo! Opasnost
+prestaje poslije dva tjedna!
+
+478
+00:49:28,633 --> 00:49:32,302
+Očito niste čuli za kobalt-torij G.
+
+479
+00:49:32,470 --> 00:49:37,683
+Što s njim? - Vrijeme
+poluraspada mu je 93 g.
+
+480
+00:49:37,851 --> 00:49:43,313
+Ako 50 H-bombi
+obložite kobalt-torijem G,
+
+481
+00:49:43,481 --> 00:49:48,026
+njihova detonacija stvorit
+će pokrov sudnjega dana.
+
+482
+00:49:48,194 --> 00:49:54,867
+Radioaktivni oblak koji
+će omotavati Zemlju 93 g.
+
+483
+00:49:55,034 --> 00:49:58,579
+Kakva hrpa komunjarskih sranja!
+
+484
+00:49:59,664 --> 00:50:02,040
+Nešto mi nije jasno.
+
+485
+00:50:02,542 --> 00:50:06,044
+Prijeti li predsjednik
+da će to detonirati?
+
+486
+00:50:06,212 --> 00:50:11,884
+Nitko normalan ne bi to učinio.
+Uređaj se aktivira automatski.
+
+487
+00:50:12,051 --> 00:50:13,927
+Sigurno ga možete
+deaktivirati. - Ne.
+
+488
+00:50:14,095 --> 00:50:19,266
+Eksplodira ako ga itko
+pokuša deaktivirati. - Automatski?
+
+489
+00:50:19,434 --> 00:50:21,935
+Komunjarska varka!
+Tratimo vrijeme!
+
+490
+00:50:22,103 --> 00:50:27,272
+Razbit će nas! - Ali
+to je potpuno ludilo.
+
+491
+00:50:27,440 --> 00:50:31,612
+Zašto biste to konstruirali?
+- Neki su od nas bili protiv.
+
+492
+00:50:31,779 --> 00:50:38,619
+Ne možemo pratiti utrku u
+naoružanju, svemiru i miru.
+
+493
+00:50:39,078 --> 00:50:43,916
+A narod traži više
+najlonki i perilica.
+
+494
+00:50:44,083 --> 00:50:49,796
+Uređaj stoji samo koji postotak
+godišnjeg proračuna za obranu.
+
+495
+00:50:49,964 --> 00:50:54,758
+Ali prevagnulo je što smo
+čuli da i vi radite na tome
+
+496
+00:50:54,926 --> 00:50:56,386
+pa smo se bojali jaza u
+uređajima sudnjega dana.
+
+497
+00:50:56,554 --> 00:50:59,806
+Koješta! Nisam
+odobrio ništa slično.
+
+498
+00:50:59,974 --> 00:51:02,726
+Pročitali smo u
+<i>New York Timesu</i>.
+
+499
+00:51:03,645 --> 00:51:06,980
+Dr. Strangelove, radimo
+li na ičemu sličnome?
+
+500
+00:51:07,190 --> 00:51:09,983
+Samo trenutak, g. predsjedniče.
+
+501
+00:51:12,403 --> 00:51:19,826
+U skladu sa svojim ovlastima
+u području razvoja naoružanja,
+
+502
+00:51:19,994 --> 00:51:26,583
+lani sam naručio studiju toga
+projekta od korporacije <i>Bland</i>.
+
+503
+00:51:26,751 --> 00:51:30,503
+Prema rezultatima
+studije zaključio sam
+
+504
+00:51:30,671 --> 00:51:35,175
+da to nije praktično
+rješenje za odvraćanje
+
+505
+00:51:35,343 --> 00:51:39,304
+iz razloga koji
+su sada i preočiti.
+
+506
+00:51:39,472 --> 00:51:42,808
+Znači da je moguće
+da su to konstruirali?
+
+507
+00:51:46,813 --> 00:51:48,817
+G. predsjedniče,
+
+508
+00:51:48,985 --> 00:51:56,280
+potrebnu tehnologiju ima
+čak i najmanja nuklearna sila.
+
+509
+00:51:56,447 --> 00:52:01,159
+Treba samo imati <i>volju</i> za to.
+
+510
+00:52:01,369 --> 00:52:04,871
+Ali kako je moguće da
+se aktivira automatski,
+
+511
+00:52:05,039 --> 00:52:07,499
+a nemoguće ga je deaktivirati?
+
+512
+00:52:07,667 --> 00:52:13,672
+To nije samo moguće,
+nego je i ključno.
+
+513
+00:52:13,840 --> 00:52:18,176
+Taj stroj zato i postoji.
+
+514
+00:52:18,344 --> 00:52:22,473
+Odvraćanje je vještina stvaranja
+
+515
+00:52:22,641 --> 00:52:26,143
+<i>straha</i> od napada u neprijatelju.
+
+516
+00:52:26,311 --> 00:52:31,148
+Automatsko i
+neopozivo odlučivanje
+
+517
+00:52:31,316 --> 00:52:35,068
+u koje se ljudi ne mogu miješati
+
+518
+00:52:35,278 --> 00:52:39,156
+čini stroj sudnjega dana užasnim,
+
+519
+00:52:39,324 --> 00:52:44,578
+jednostavnim te posve
+vjerodostojnim i uvjerljivim.
+
+520
+00:52:44,746 --> 00:52:47,748
+Da bar i mi imamo takav stroj.
+
+521
+00:52:47,915 --> 00:52:52,169
+Ali kako je moguće da
+se aktivira automatski?
+
+522
+00:52:52,337 --> 00:52:56,048
+To je vrlo jednostavno.
+
+523
+00:52:56,215 --> 00:53:02,054
+Ako želite samo zakopati bombu,
+niste ograničeni veličinom.
+
+524
+00:53:02,221 --> 00:53:08,268
+Poslije ih spoje s golemim
+kompleksom računala.
+
+525
+00:53:08,436 --> 00:53:13,232
+Zatim se točno
+određen i jasno definiran
+
+526
+00:53:13,400 --> 00:53:17,778
+skup uvjeta za detoniranje bombe
+
+527
+00:53:17,945 --> 00:53:23,907
+programira u memoriju računala.
+
+528
+00:53:24,075 --> 00:53:29,206
+Strangelove? Kakvo
+je to ime? Nije švapsko.
+
+529
+00:53:29,374 --> 00:53:31,583
+Promijenio ga je kad
+je dobio državljanstvo.
+
+530
+00:53:31,751 --> 00:53:34,294
+Bilo je Merkwürdigliebe.
+
+531
+00:53:35,862 --> 00:53:39,132
+Švabo je Švabo ma kako se zvao.
+
+532
+00:53:41,052 --> 00:53:48,975
+Stroj sudnjega dana gubi smisao.
+
+533
+00:53:49,143 --> 00:53:51,228
+Zašto niste svima rekli?
+
+534
+00:53:51,396 --> 00:53:55,649
+Trebali smo objaviti na
+kongresu u ponedjeljak.
+
+535
+00:53:55,858 --> 00:53:59,111
+Znate da predsjednik
+voli iznenađenja.
+
+536
+00:54:47,660 --> 00:54:49,870
+Prati me, Mandrake.
+
+537
+00:54:54,876 --> 00:54:57,711
+Sad mi dodaj redenik.
+
+538
+00:55:27,575 --> 00:55:32,579
+Zar ne bi bilo bolje da
+smo dalje od stakla koje leti?
+
+539
+00:55:32,747 --> 00:55:34,831
+Ne, ovdje je dobro.
+
+540
+00:55:36,083 --> 00:55:43,715
+Jesi li znao da osim
+vode kane fluoridirati sol,
+
+541
+00:55:43,883 --> 00:55:48,845
+brašno, sokove, juhe,
+šećer, mlijeko, sladoled?
+
+542
+00:55:49,013 --> 00:55:52,933
+Sladoled! Dječji sladoled. - Zaboga.
+
+543
+00:55:53,100 --> 00:55:55,227
+Znaš li kad su počeli fluoridirati?
+
+544
+00:55:56,604 --> 00:56:00,732
+Ne, ne znam. - 1946. g.
+
+545
+00:56:00,900 --> 00:56:07,906
+1946. Kako se to uklapa u
+poslijeratnu komunjarsku urotu?
+
+546
+00:56:08,074 --> 00:56:11,284
+Očito je, zar ne?
+
+547
+00:56:11,452 --> 00:56:16,915
+Strana tvar ulazi u naše
+dragocjene tjelesne tekućine.
+
+548
+00:56:17,083 --> 00:56:20,252
+A čovjek toga i nije svjestan.
+
+549
+00:56:20,419 --> 00:56:23,046
+I nema izbora.
+
+550
+00:56:24,090 --> 00:56:27,425
+Tako to rade okorjele komunjare.
+
+551
+00:56:28,803 --> 00:56:31,972
+Reci mi, Jack...
+
+552
+00:56:32,139 --> 00:56:37,644
+Kad si postao...
+počeo raditi na toj teoriji?
+
+553
+00:56:38,771 --> 00:56:47,487
+Prvi sam put postao
+svjestan tijekom vođenja ljubavi.
+
+554
+00:56:48,447 --> 00:56:55,287
+Poslije sam osjetio
+iscrpljenost i prazninu.
+
+555
+00:56:55,955 --> 00:56:59,958
+Srećom, ispravno sam
+protumačio te osjećaje.
+
+556
+00:57:00,626 --> 00:57:02,252
+Gubitak esencije.
+
+557
+00:57:04,130 --> 00:57:07,507
+Uvjeravam te da
+se nije ponovilo.
+
+558
+00:57:07,675 --> 00:57:14,598
+Žene osjećaju moju moć
+i traže životnu esenciju.
+
+559
+00:57:15,266 --> 00:57:18,518
+Ne izbjegavam žene.
+
+560
+00:57:18,686 --> 00:57:21,479
+Ali ne dajem im svoju esenciju.
+
+561
+00:57:21,939 --> 00:57:24,482
+Da...
+
+562
+00:57:37,163 --> 00:57:41,269
+Prekinite paljbu! Predajemo se!
+
+563
+00:58:00,561 --> 00:58:04,564
+Dečki su se valjda
+predali. - Što možemo?
+
+564
+00:58:04,732 --> 00:58:09,986
+Molim te, opozovimo
+avione dok još stignemo.
+
+565
+00:58:12,114 --> 00:58:15,367
+Ti su mi dečki kao djeca.
+
+566
+00:58:16,535 --> 00:58:20,246
+A sad su me
+iznevjerili. - Ne, nisu.
+
+567
+00:58:20,414 --> 00:58:23,166
+Sigurno su dali sve od sebe.
+
+568
+00:58:23,334 --> 00:58:28,546
+I sigurno su svi izginuli
+misleći na tebe. Svi do jednoga.
+
+569
+00:58:29,090 --> 00:58:33,718
+Možda je dio vode
+pokvaren. Nikad se ne zna...
+
+570
+00:58:33,886 --> 00:58:39,557
+Pogledaj me. Izgledam
+li ti pokvareno? Gledaj.
+
+571
+00:58:39,725 --> 00:58:43,728
+A ja pijem puno vode.
+Ljubitelj sam vode.
+
+572
+00:58:43,896 --> 00:58:50,107
+A kunem ti se da u mojim
+tekućinama nema ništa loše.
+
+573
+00:58:50,274 --> 00:58:52,070
+Baš ništa.
+
+574
+00:58:52,238 --> 00:58:54,406
+Jesi li bio ratni zarobljenik?
+
+575
+00:58:54,573 --> 00:58:58,118
+Vrijeme istječe...
+
+576
+00:58:58,285 --> 00:59:03,456
+Molim? - Jesi li bio ratni
+zarobljenik? - Da, jesam.
+
+577
+00:59:03,624 --> 00:59:06,626
+Jesu li te mučili?
+
+578
+00:59:06,794 --> 00:59:11,613
+Jesu, Japanci. Nije bilo ugodno.
+
+579
+00:59:11,781 --> 00:59:17,470
+Što je bilo? - Ne znam.
+Teško mi je razmišljati ovako...
+
+580
+00:59:17,680 --> 00:59:23,268
+Morao sam raditi na pruzi.
+
+581
+00:59:23,436 --> 00:59:27,731
+Polagao sam tračnice
+za japanske vlakove.
+
+582
+00:59:27,898 --> 00:59:31,109
+Jesi li progovorio
+kad su te mučili?
+
+583
+00:59:32,820 --> 00:59:39,117
+Ne... Mislim da to i nisu željeli.
+
+584
+00:59:39,285 --> 00:59:42,287
+Samo su se tako zabavljali, svinje.
+
+585
+00:59:42,455 --> 00:59:45,957
+A rade tako dobre fotoaparate.
+
+586
+00:59:47,835 --> 00:59:53,465
+Ovi vani dobro će me
+obrađivati da im dam kôd.
+
+587
+00:59:56,302 --> 00:59:59,846
+Mislim da imaš pravo, Jack.
+
+588
+01:00:00,806 --> 01:00:03,683
+Ne znam mogu li
+izdržati mučenje.
+
+589
+01:00:03,851 --> 01:00:07,020
+Nitko nikada ne izdrži.
+
+590
+01:00:07,229 --> 01:00:14,194
+Predlažem da meni daš kôd,
+a ako ti vragovi pokušaju silom,
+
+591
+01:00:14,361 --> 01:00:17,822
+zajedno ćemo se boriti,
+kao maloprije na podu.
+
+592
+01:00:17,990 --> 01:00:21,159
+Ti sa strojnicom,
+a ja s redenikom.
+
+593
+01:00:21,327 --> 01:00:24,287
+<i>Dodaj ga</i>, rekao si.
+A ja sam ga dodavao.
+
+594
+01:00:24,455 --> 01:00:30,168
+Znaš, Mandrake, ja
+vjerujem u život poslije ovoga.
+
+595
+01:00:31,670 --> 01:00:35,048
+I znam da ću morati
+odgovarati zbog ovoga.
+
+596
+01:00:36,884 --> 01:00:41,846
+Mislim da ću moći.
+- Jasno da možeš.
+
+597
+01:00:42,014 --> 01:00:46,182
+I ja sam vjernik.
+Vjerujem u sve te stvari.
+
+598
+01:00:46,350 --> 01:00:51,022
+Nadam se da...
+Ispala ti je strojnica.
+
+599
+01:00:51,190 --> 01:00:54,692
+Daj to meni.
+
+600
+01:00:54,860 --> 01:00:59,030
+Nadam se da ćeš mi dati kôd.
+
+601
+01:00:59,198 --> 01:01:05,328
+Ideš se malo oprati i počešljati?
+Sjajna ideja. To uvijek pomogne.
+
+602
+01:01:05,496 --> 01:01:11,042
+Trebamo samo malo
+vode na vratu i kôd.
+
+603
+01:01:11,210 --> 01:01:17,549
+Što ako pokušam pogađati
+kôd? Pokušat ću pogoditi...
+
+604
+01:01:34,567 --> 01:01:38,945
+Kopilot zove navigatora.
+Imam podatke o gorivu.
+
+605
+01:01:39,113 --> 01:01:42,031
+Imamo ukupno 109.000.
+
+606
+01:01:42,199 --> 01:01:47,787
+79.000 u glavnima i
+30.000 u pomoćnima.
+
+607
+01:01:47,955 --> 01:01:53,334
+To je otprilike za
+7 h i 15 min leta.
+
+608
+01:01:54,545 --> 01:01:59,132
+<i>Imam neidentificiran
+signal na radaru.</i>
+
+609
+01:02:00,551 --> 01:02:03,136
+<i>Udaljenost: 100 km.</i>
+
+610
+01:02:04,305 --> 01:02:07,432
+<i>Približna brzina: 3 Ma.</i>
+
+611
+01:02:07,600 --> 01:02:09,976
+<i>Izgleda kao da je
+projektil koji nas prati.</i>
+
+612
+01:02:12,438 --> 01:02:16,608
+Sigurno je projektil. <i>Manevar
+za izbjegavanje udesno.</i>
+
+613
+01:02:22,865 --> 01:02:25,783
+<i>I dalje se približava.</i>
+
+614
+01:02:26,619 --> 01:02:30,496
+<i>Udaljenost: 50 km.
+Nastavite manevre za izbjegavanje.</i>
+
+615
+01:02:30,664 --> 01:02:37,003
+<i>VCM na presretanje.</i>
+- VCM namješten.
+
+616
+01:02:37,171 --> 01:02:43,676
+<i>I dalje nas prati i približava se.
+65 km. Nastavite izbjegavanje.</i>
+
+617
+01:02:46,972 --> 01:02:50,808
+<i>Elektroničko kodiranje
+navođenja na plavo.</i>
+
+618
+01:02:50,976 --> 01:02:56,439
+<i>I dalje nas prati i približava
+se. Udaljenost: 50 km.</i>
+
+619
+01:02:58,692 --> 01:03:02,946
+<i>I dalje se približava.
+Nastavite izbjegavanje.</i>
+
+620
+01:03:10,496 --> 01:03:16,334
+<i>Udaljenost: 30 km.
+I dalje se približava i prati nas.</i>
+
+621
+01:03:16,502 --> 01:03:21,339
+Maksimalno skeniranje.
+- Namješteno je na maksimum.
+
+622
+01:03:21,507 --> 01:03:28,346
+<i>Udaljenost: 15 km. Skreće
+s kursa. Nastavite izbjegavanje.</i>
+
+623
+01:03:28,514 --> 01:03:31,683
+<i>Jače skreće. Udaljenost: 13 km.</i>
+
+624
+01:03:31,850 --> 01:03:35,687
+<i>Još jače skreće. 10 km.</i>
+
+625
+01:03:35,854 --> 01:03:38,523
+<i>I dalje skreće. 7 km.</i>
+
+626
+01:03:44,321 --> 01:03:49,867
+<i>Udaljenost: 3 km. I dalje skreće.
+Kilometar i pol. Eksplodirao je...</i>
+
+627
+01:03:56,542 --> 01:03:58,584
+Zatvori dovod. - Zatvoren.
+
+628
+01:04:02,047 --> 01:04:03,464
+Motori na najveću snagu.
+
+629
+01:04:11,890 --> 01:04:14,183
+Prebaci na napajanje za nuždu.
+
+630
+01:04:23,485 --> 01:04:24,902
+Zapelo je!
+
+631
+01:04:28,449 --> 01:04:30,408
+Napajanje za nuždu!
+
+632
+01:04:32,411 --> 01:04:35,246
+Aparati za gašenje.
+
+633
+01:04:41,962 --> 01:04:47,592
+Prebaci sklopke.
+- Prebačene. - Gasi crpke.
+
+634
+01:04:59,313 --> 01:05:01,314
+Punom snagom 3, 4 i 6.
+
+635
+01:05:13,827 --> 01:05:16,412
+Punu snagu! - Primljeno.
+
+636
+01:05:28,634 --> 01:05:32,303
+Mir na Zemlji. <i>Peace on Earth</i>.
+
+637
+01:05:32,649 --> 01:05:38,017
+<i>Peace on Earth. POE.</i>
+
+638
+01:05:38,185 --> 01:05:45,858
+<i>Purity of Essence</i>.
+Čistoća esencije.
+
+639
+01:05:55,786 --> 01:05:59,706
+Ruke uvis. - Koji vam je
+vrag da pucate u vrata?
+
+640
+01:05:59,874 --> 01:06:06,337
+Tko ste vi? - Rekao sam ruke
+uvis. Kakvo ti je to odijelo?
+
+641
+01:06:06,505 --> 01:06:10,883
+Kako mislite, odijelo?
+Ovo je odora RAF-a.
+
+642
+01:06:11,093 --> 01:06:15,346
+Ja sam brigadir Lionel Mandrake.
+Zamjenik generala Rippera.
+
+643
+01:06:15,514 --> 01:06:19,851
+Gdje je general Ripper?
+- Mrtav je. U kupaonici.
+
+644
+01:06:20,561 --> 01:06:23,646
+Gdje je kupaonica?
+- Vrata pokraj vas.
+
+645
+01:06:32,990 --> 01:06:38,077
+Ne znam što izvodite, ali
+mislim da znam kôd za opoziv.
+
+646
+01:06:38,245 --> 01:06:44,375
+Moram se odmah javiti stožeru.
+- Ruke uvis i ne spuštaj ih.
+
+647
+01:06:44,543 --> 01:06:48,504
+Imaš li svjedoke?
+- O čemu vi to? Ubio se.
+
+648
+01:06:48,672 --> 01:06:53,756
+Dok se brijao? - Slušajte,
+pukovniče "Bat" Guano,
+
+649
+01:06:53,924 --> 01:06:56,012
+ako se doista tako zovete...
+
+650
+01:06:56,180 --> 01:07:03,060
+Mislim, nadam se i molim
+da znam koji je kôd za opoziv.
+
+651
+01:07:03,228 --> 01:07:07,508
+Neka varijacija <i>mir na
+zemlji</i> ili <i>čistoća esencije</i>.
+
+652
+01:07:07,676 --> 01:07:13,070
+EOP ili OPE. Jedno od toga.
+- Ruke uvis. I počni hodati.
+
+653
+01:07:13,530 --> 01:07:19,785
+Zar ne znate da je Ripper
+poludio i poslao avione na Sovjete?
+
+654
+01:07:19,953 --> 01:07:23,414
+O čemu vi to? - Reći ću vam.
+
+655
+01:07:23,582 --> 01:07:29,629
+Uzet ću telefon koji je spojen
+sa stožerom i nadam se...
+
+656
+01:07:30,714 --> 01:07:37,678
+Dovraga! Raznio ga je neki od
+vaših vojnika u ovom okršaju.
+
+657
+01:07:40,474 --> 01:07:47,688
+Gubim previše vremena na tebe.
+Imam puno ranjenih vani. Hodaj.
+
+658
+01:08:10,003 --> 01:08:13,673
+Otišli su svi radiouređaji,
+uključujući CRM114.
+
+659
+01:08:13,840 --> 01:08:17,009
+Mehanizam za
+samouništenje također.
+
+660
+01:08:21,640 --> 01:08:24,809
+Vatra je ugašena.
+Napajanje za nuždu spojeno.
+
+661
+01:08:24,977 --> 01:08:30,147
+Čini se da sve radi. Javit
+ću. - Primljeno. Navigatore?
+
+662
+01:08:30,315 --> 01:08:35,486
+Gubitak goriva
+otprilike je 162/min.
+
+663
+01:08:35,654 --> 01:08:40,831
+Imat ćemo dovoljno da
+uništimo glavnu i sekundarnu metu.
+
+664
+01:08:40,980 --> 01:08:46,831
+Ali nećemo se moći vratiti
+do baze ili neutralne države.
+
+665
+01:08:46,999 --> 01:08:50,145
+<i>Imamo dovoljno da iskočimo</i>
+
+666
+01:08:50,263 --> 01:08:55,965
+<i>kod meteorološkog
+broda TD na 003-691.</i>
+
+667
+01:09:00,762 --> 01:09:06,726
+Otišla su tri motora i
+izrešetani smo posvuda.
+
+668
+01:09:06,893 --> 01:09:09,145
+Radio ne radi, curi nam gorivo,
+
+669
+01:09:09,313 --> 01:09:12,565
+a da letimo niže,
+bili bismo saonice.
+
+670
+01:09:12,774 --> 01:09:15,651
+Ali imamo jednu prednost.
+
+671
+01:09:15,819 --> 01:09:20,823
+Rusi nas mogu pogoditi,
+ali ne vide nas na radaru.
+
+672
+01:09:32,044 --> 01:09:36,422
+Na drugu stranu. - Kamo
+me vodite? - Na glavni ulaz.
+
+673
+01:09:38,425 --> 01:09:41,927
+Morate mi reći što vi
+mislite da se ovdje događa.
+
+674
+01:09:42,095 --> 01:09:46,724
+Želiš znati što ja mislim? - Da.
+- Mislim da si nekakav <i>preverznjak</i>.
+
+675
+01:09:46,892 --> 01:09:52,518
+General je doznao za tvoju
+<i>preverziju</i> i da kuješ pobunu.
+
+676
+01:09:52,686 --> 01:09:54,065
+Sad hodaj!
+
+677
+01:09:54,524 --> 01:09:57,610
+Ne znam ništa o avionima
+koji napadaju Rusiju.
+
+678
+01:09:57,819 --> 01:10:03,739
+Trebao sam generala spojiti
+s predsjednikom. - Samo malo.
+
+679
+01:10:03,907 --> 01:10:08,746
+Spomenuli ste
+predsjednika. - Što s njim?
+
+680
+01:10:08,914 --> 01:10:14,585
+Predsjednik želi razgovarati s
+generalom, a general je mrtav.
+
+681
+01:10:14,753 --> 01:10:19,965
+Ja sam generalov zamjenik
+pa želi razgovarati sa mnom.
+
+682
+01:10:20,133 --> 01:10:23,803
+Ondje je telefon
+i linija možda radi.
+
+683
+01:10:23,970 --> 01:10:29,600
+Želiš razgovarati s predsjednikom
+SAD-a? - Ne želim to. Moram.
+
+684
+01:10:29,768 --> 01:10:37,441
+Ako se ne prestanete glupirati,
+istražni sud tako će vas razbiti
+
+685
+01:10:37,609 --> 01:10:41,612
+da ćete biti sretni ako
+dobijete odoru čistača zahoda.
+
+686
+01:10:45,450 --> 01:10:50,871
+Dobro. Pokušaj dobiti
+predsjednika SAD-a.
+
+687
+01:10:52,791 --> 01:10:56,252
+Na prvu <i>preverziju</i>
+pucam ti u glavu.
+
+688
+01:11:09,474 --> 01:11:14,353
+Ovdje brigadir Mandrake iz
+zrakoplovne baze Burpelson.
+
+689
+01:11:14,521 --> 01:11:22,445
+Situacija je hitna i želim da me
+spojite s predsjednikom SAD-a.
+
+690
+01:11:22,988 --> 01:11:26,157
+Burpelson 39180.
+
+691
+01:11:27,367 --> 01:11:32,371
+Ne šalim se. Predsjednik SAD-a.
+
+692
+01:11:32,539 --> 01:11:38,919
+Nemam dovoljno sitnoga.
+Možete li prebaciti troškove?
+
+693
+01:11:50,849 --> 01:11:56,187
+Samo malo. Ne žele
+prihvatiti poziv. Imate li 55 c?
+
+694
+01:11:56,354 --> 01:12:00,524
+Ne misliš valjda da u borbu
+idem sa sitnišem u džepu?
+
+695
+01:12:04,946 --> 01:12:08,365
+Može li ovo biti obični
+međugradski poziv?
+
+696
+01:12:08,533 --> 01:12:11,202
+Kako vi to zovete...
+
+697
+01:12:11,369 --> 01:12:14,330
+Postaja s postajom.
+
+698
+01:12:18,418 --> 01:12:21,921
+Dovraga. I dalje mi fali 20 c.
+
+699
+01:12:23,757 --> 01:12:27,176
+Samo malo. Odmah ću doći.
+
+700
+01:12:27,344 --> 01:12:31,388
+Pukovniče, pucajte u
+onaj aparat s <i>Coca-Colom</i>.
+
+701
+01:12:31,556 --> 01:12:33,557
+Možda unutra ima sitniša.
+
+702
+01:12:37,103 --> 01:12:38,562
+To je privatno vlasništvo.
+
+703
+01:12:38,730 --> 01:12:44,401
+Možete li zamisliti
+što će vam se dogoditi
+
+704
+01:12:44,569 --> 01:12:48,906
+kada doznaju da ste vi
+omeli poziv predsjedniku?
+
+705
+01:12:49,074 --> 01:12:51,950
+Možete li zamisliti? Pucajte!
+
+706
+01:12:52,117 --> 01:12:56,705
+Puškom! Tomu meci služe, tupane!
+
+707
+01:12:56,873 --> 01:13:00,251
+Dobro, nabavit ću ti novac.
+
+708
+01:13:00,418 --> 01:13:04,421
+Ali ako ne dobiješ predsjednika,
+znaš što će biti s tobom? - Što?
+
+709
+01:13:04,923 --> 01:13:08,509
+Odgovarat ćeš <i>Coca-Coli</i>.
+
+710
+01:13:17,269 --> 01:13:20,312
+<i>Ovdje stožer za vezu SAC-a.</i>
+
+711
+01:13:20,522 --> 01:13:23,816
+<i>Kôd za opoziv OPE</i>
+
+712
+01:13:23,984 --> 01:13:30,281
+<i>prihvatili su dijelovi
+843. bombarderske pukovnije.</i>
+
+713
+01:13:30,949 --> 01:13:32,825
+<i>Evo pojedinosti.</i>
+
+714
+01:13:33,034 --> 01:13:37,496
+<i>Avione 12, 22, 30 i 38</i>
+
+715
+01:13:37,664 --> 01:13:41,125
+<i>uništilo je
+neprijateljsko djelovanje.</i>
+
+716
+01:13:41,293 --> 01:13:45,337
+<i>Svi su ostali potvrdili opoziv.</i>
+
+717
+01:13:45,964 --> 01:13:49,508
+<i>Stožer za vezu SAC-a - gotovo.</i>
+
+718
+01:13:49,676 --> 01:13:51,510
+Gospodo!
+
+719
+01:13:54,139 --> 01:13:55,973
+G. predsjedniče.
+
+720
+01:13:56,141 --> 01:14:01,478
+Nisam sentimentalan, ali
+mislim da znam što svi osjećamo.
+
+721
+01:14:01,646 --> 01:14:07,357
+Trebali bismo pognuti
+glavu i izmoliti zahvalnicu.
+
+722
+01:14:07,567 --> 01:14:09,111
+Gospodine...
+
+723
+01:14:10,322 --> 01:14:17,494
+Čuli smo lepet krila
+Anđela Smrti iz doline straha...
+
+724
+01:14:17,662 --> 01:14:22,207
+Izbavio si nas od
+sila zla... - Oprostite.
+
+725
+01:14:22,375 --> 01:14:25,377
+Zove predsjednik
+Kisov i bijesan je.
+
+726
+01:14:32,218 --> 01:14:36,055
+Gubimo gorivo brže nego prije.
+
+727
+01:14:36,222 --> 01:14:40,225
+Sad je 205/min.
+
+728
+01:14:41,353 --> 01:14:47,733
+Ostalo nam je otprilike 8790.
+
+729
+01:14:50,654 --> 01:14:53,406
+Primljeno.
+
+730
+01:14:53,574 --> 01:14:58,535
+<i>205/min i 8790.</i>
+
+731
+01:15:05,168 --> 01:15:09,213
+Ne, Dimitrij, mora biti pogreška.
+
+732
+01:15:09,381 --> 01:15:14,510
+Siguran sam. Potpuno siguran.
+
+733
+01:15:15,762 --> 01:15:20,891
+Samo malo. Kaže da
+se jedan avion ne vraća.
+
+734
+01:15:21,059 --> 01:15:26,647
+Kaže da je to onaj koji
+ide na raketnu bazu u Laputi.
+
+735
+01:15:30,777 --> 01:15:34,446
+Nemoguće. Pogledajte veliku ploču.
+
+736
+01:15:34,614 --> 01:15:40,869
+34 aviona, 30 opozvanih,
+4 uništena. I onaj za Laputu.
+
+737
+01:15:43,790 --> 01:15:50,295
+Potvrdili su nam svi avioni
+osim ona četiri srušena.
+
+738
+01:15:56,970 --> 01:16:03,434
+Samo malo. Protuzračna kaže
+da su sigurno srušili samo tri.
+
+739
+01:16:03,601 --> 01:16:05,978
+Četvrti je možda samo oštećen.
+
+740
+01:16:08,189 --> 01:16:12,484
+G. predsjedniče, počinje mi
+smrdjeti na komunističku prijevaru.
+
+741
+01:16:14,652 --> 01:16:18,657
+Možda laže za taj avion
+da nas mogu razbiti.
+
+742
+01:16:18,825 --> 01:16:21,994
+Ako bude svega, bit ćemo u nevolji.
+
+743
+01:16:25,331 --> 01:16:31,587
+Ako je to istina i ako
+avion uspije pogoditi metu,
+
+744
+01:16:31,755 --> 01:16:35,841
+hoće li to detonirati
+stroj sudnjega dana?
+
+745
+01:16:39,179 --> 01:16:41,138
+Jesi li siguran?
+
+746
+01:16:42,348 --> 01:16:46,852
+Onda ćete morati srušiti taj avion.
+
+747
+01:16:47,020 --> 01:16:54,026
+Žao mi je što vam ometaju radar
+i lete nisko, ali tako su obučeni.
+
+748
+01:16:55,612 --> 01:17:03,035
+Znaš kamo idu, a vaša obrana
+može zaustaviti jedan avion.
+
+749
+01:17:04,245 --> 01:17:10,167
+Nikomu neće pomoći ako
+stroj sudnjega dana eksplodira.
+
+750
+01:17:11,169 --> 01:17:16,381
+U ovakvu trenutku
+histeriziranje ne pomaže.
+
+751
+01:17:16,549 --> 01:17:20,677
+Ostani miran dok razgovaraš...
+
+752
+01:17:20,845 --> 01:17:27,518
+Ne, nisam... Samo sam zabrinut.
+
+753
+01:17:27,685 --> 01:17:32,646
+Ako naši kažu da je glavna meta
+Laputa, a sekundarna Borkov,
+
+754
+01:17:32,814 --> 01:17:36,151
+onda je to istina i moraš vjerovati.
+
+755
+01:17:36,319 --> 01:17:43,367
+Smijem li ti samo
+nešto savjetovati?
+
+756
+01:17:43,535 --> 01:17:48,705
+Pošalji sve što imaš u ta dva
+sektora i ne možeš promašiti.
+
+757
+01:17:55,213 --> 01:17:58,757
+Ako nastavimo gubiti
+gorivo ovom brzinom,
+
+758
+01:17:58,925 --> 01:18:05,556
+imamo samo 38 min, što nas
+neće dovesti do glavne mete.
+
+759
+01:18:06,057 --> 01:18:09,518
+Kvragu, rekao si da
+možemo do glavne!
+
+760
+01:18:09,686 --> 01:18:15,274
+To je bila procjena prema
+prvotnom gubitku goriva.
+
+761
+01:18:15,441 --> 01:18:19,903
+Nije me briga kako, ali
+dovedi me do glavne mete.
+
+762
+01:18:20,405 --> 01:18:26,743
+Stanje je takvo. Bit ćemo
+sretni ako stignemo do broda TD.
+
+763
+01:18:26,911 --> 01:18:32,875
+Nismo dovde došli da
+bombu izbacimo u more.
+
+764
+01:18:33,418 --> 01:18:35,419
+Koja je najbliža usputna meta?
+
+765
+01:18:44,304 --> 01:18:50,809
+Ako se gubitak goriva ne ubrza,
+možemo stići do mete 384.
+
+766
+01:18:50,977 --> 01:18:55,731
+Koordinate 003-691,
+
+767
+01:18:55,899 --> 01:18:59,651
+a zatim odatle
+možda do broda TD.
+
+768
+01:18:59,819 --> 01:19:05,824
+Kakva je to meta? - Baza s
+interkontinentalnim raketama.
+
+769
+01:19:05,992 --> 01:19:11,663
+Dobro. Nova je meta 384.
+
+770
+01:19:11,831 --> 01:19:14,791
+<i>Dajte mi smjer čim odredite.</i>
+
+771
+01:19:26,971 --> 01:19:31,808
+Držat ćemo fige. Zapamti
+da smo svi u istoj kaši.
+
+772
+01:19:31,976 --> 01:19:35,395
+Na tvojoj smo strani.
+
+773
+01:19:35,855 --> 01:19:39,149
+Dobro. Ostat ćemo na vezi.
+
+774
+01:19:39,484 --> 01:19:41,026
+Dobro, Dimitrij.
+
+775
+01:19:43,821 --> 01:19:48,158
+Može li se taj avion probiti?
+
+776
+01:19:49,869 --> 01:19:52,204
+Ako smijem govoriti otvoreno,
+
+777
+01:19:52,413 --> 01:19:55,958
+Rusi se hvalisaju, ali
+nemaju potrebno znanje.
+
+778
+01:19:56,125 --> 01:20:00,504
+Neuki kmetovi ne razumiju
+strojeve kao naši dečki.
+
+779
+01:20:00,672 --> 01:20:05,342
+To nije uvreda, g. veleposlaniče.
+Svi znamo da su Rusi hrabri.
+
+780
+01:20:05,510 --> 01:20:08,845
+Pobili su hrpe
+nacista i nisu odustali.
+
+781
+01:20:09,013 --> 01:20:10,847
+Možete li se držati teme?
+
+782
+01:20:11,015 --> 01:20:16,685
+Ako je pilot dobar,
+ako je zbilja vješt,
+
+783
+01:20:16,852 --> 01:20:20,897
+može se spustiti tako
+nisko... Trebate to vidjeti!
+
+784
+01:20:21,065 --> 01:20:26,571
+Tako velik avion, a ispuhom
+peče piliće u kokošinjcu!
+
+785
+01:20:26,739 --> 01:20:31,368
+Ali ima li šanse?
+- Ima li šanse? Nego što!
+
+786
+01:20:56,894 --> 01:20:59,928
+<i>Navigator zove
+kapetana. Prilazimo meti.</i>
+
+787
+01:21:00,096 --> 01:21:02,858
+<i>Udaljenost: 16 km.</i>
+
+788
+01:21:03,026 --> 01:21:06,236
+<i>Prebacujemo se na
+narančastu mrežu.</i>
+
+789
+01:21:06,404 --> 01:21:10,907
+Primljeno. Spreman za
+posljednju provjeru. Preuzmi.
+
+790
+01:21:16,247 --> 01:21:18,959
+DSO spreman. - Ciljač spreman.
+
+791
+01:21:19,127 --> 01:21:22,256
+Aktiviraj elektroničke,
+barometarske,
+
+792
+01:21:22,389 --> 01:21:24,749
+vremenske i udarne upaljače.
+
+793
+01:21:24,897 --> 01:21:28,023
+Aktiviram elektroničke,
+barometarske,
+
+794
+01:21:28,159 --> 01:21:29,634
+vremenske i udarne upaljače.
+
+795
+01:21:29,802 --> 01:21:36,058
+<i>Namjesti za eksploziju
+na površini, kašnjenje Y3.</i>
+
+796
+01:21:36,225 --> 01:21:38,894
+Provjeri upaljače 1-4.
+
+797
+01:21:39,062 --> 01:21:42,564
+Provjeravam 1-4.
+Svjetla upaljena.
+
+798
+01:21:42,732 --> 01:21:48,487
+<i>Svjetla za</i> aktiviranje bombe 1-4.
+
+799
+01:21:48,654 --> 01:21:54,451
+<i>Uključi glavni okidač.
+- Glavni okidač uključen.</i>
+
+800
+01:21:54,619 --> 01:21:59,623
+<i>Praćenje na maksimalni otklon.
+- Praćenje na maksimalni otklon.</i>
+
+801
+01:21:59,791 --> 01:22:05,670
+<i>Detonator na visinu 0.</i>
+- Detonator na visinu 0.
+
+802
+01:22:05,838 --> 01:22:07,506
+Isključi prvi sigurnosni sklop.
+
+803
+01:22:11,469 --> 01:22:13,762
+Prvi sklop isključen.
+
+804
+01:22:16,639 --> 01:22:18,517
+Otpusti drugi sigurnosni sklop.
+
+805
+01:22:21,979 --> 01:22:26,149
+Drugi sklop isključen.
+
+806
+01:22:33,699 --> 01:22:36,326
+Provjeri sklopove za
+otvaranje vrata 1-4.
+
+807
+01:22:48,506 --> 01:22:53,009
+Sklopovi za otvaranje vrata
+ne rade. Svjetlo je crveno.
+
+808
+01:22:53,177 --> 01:22:55,679
+<i>Prebaci na pomoćne sklopove.</i>
+
+809
+01:22:57,056 --> 01:22:59,724
+Prebacio sam, ali i dalje ne radi.
+
+810
+01:22:59,892 --> 01:23:03,645
+Uključi napajanje za nuždu.
+
+811
+01:23:04,063 --> 01:23:06,481
+Uključena je, ali i dalje ne radi.
+
+812
+01:23:08,526 --> 01:23:10,527
+Otvori ih ručno!
+
+813
+01:23:23,249 --> 01:23:28,503
+I dalje ne radi. Čini
+se da je kabel prekinut.
+
+814
+01:23:28,671 --> 01:23:32,716
+Raznesi vrata!
+
+815
+01:23:47,273 --> 01:23:50,942
+I dalje ništa. Sklopovi ne rade.
+
+816
+01:23:56,407 --> 01:24:00,285
+Ostani na prilazu za
+metu, a ja idem dolje.
+
+817
+01:24:13,257 --> 01:24:18,970
+Ostanite na prilazu, a ja ću
+otvoriti ta vrata ma što bilo.
+
+818
+01:25:12,525 --> 01:25:17,779
+Provjera mete.
+Udaljenost od mete: 13 km.
+
+819
+01:25:17,947 --> 01:25:22,048
+Primljeno. 13 km.
+Navođenje po narančastoj mreži.
+
+820
+01:25:22,215 --> 01:25:24,870
+Navođenje po narančastoj mreži.
+
+821
+01:25:33,546 --> 01:25:39,467
+Udaljenost od mete: 11 km.
+
+822
+01:25:39,635 --> 01:25:43,138
+<i>Još 11 km do mete. - Primljeno.</i>
+
+823
+01:25:43,306 --> 01:25:45,307
+Ubrzanje namješteno.
+
+824
+01:25:48,686 --> 01:25:53,062
+Udaljenost od mete: 10 km.
+- Primljeno. 10 km.
+
+825
+01:25:53,172 --> 01:25:57,527
+Uključi transponder. - Uključen.
+
+826
+01:26:04,577 --> 01:26:07,579
+<i>Udaljenost od mete: 8 km.</i>
+
+827
+01:26:07,747 --> 01:26:13,793
+<i>Poravnanje na nulu.</i>
+- Poravnanje na nulu.
+
+828
+01:26:17,381 --> 01:26:21,593
+Udaljenost od
+mete: 6 km. - Primljeno.
+
+829
+01:26:21,761 --> 01:26:27,307
+Auto CDC na ručnu vezu.
+- Auto CDC na ručnu vezu.
+
+830
+01:26:37,568 --> 01:26:42,572
+<i>Udaljenost od
+mete: 5 km.</i> - Primljeno.
+
+831
+01:26:42,740 --> 01:26:46,409
+Vidim metu. Gdje je bojnik Kong?
+
+832
+01:27:10,226 --> 01:27:11,434
+A bojnik Kong?
+
+833
+01:27:39,630 --> 01:27:41,258
+G. predsjedniče,
+
+834
+01:27:41,426 --> 01:27:46,386
+mislim da još možemo
+sačuvati jezgru čovječanstva.
+
+835
+01:27:46,971 --> 01:27:49,431
+Bilo bi vrlo lako.
+
+836
+01:27:51,809 --> 01:27:56,855
+Na dnu nekih od
+naših dubljih rudnika.
+
+837
+01:27:57,022 --> 01:28:01,776
+Zračenje ne bi prodrlo
+više stotina metara pod zemlju.
+
+838
+01:28:01,944 --> 01:28:08,116
+U nekoliko tjedana lako možemo
+poboljšati prostor za život.
+
+839
+01:28:08,284 --> 01:28:13,621
+Koliko bi trebalo
+ostati dolje? - Da vidimo...
+
+840
+01:28:15,040 --> 01:28:17,667
+Kobalt-torij G...
+
+841
+01:28:27,928 --> 01:28:31,723
+Vrijeme poluraspada...
+
+842
+01:28:33,851 --> 01:28:38,563
+Rekao bih...
+možda stotinu godina.
+
+843
+01:28:40,900 --> 01:28:44,861
+Ljudi bi mogli ostati
+dolje stotinu godina?
+
+844
+01:28:45,029 --> 01:28:47,155
+Ne bi bilo teško, <i>mein Führer</i>.
+
+845
+01:28:47,323 --> 01:28:51,868
+Nuklearni reaktori...
+Oprostite, g. predsjedniče.
+
+846
+01:28:52,036 --> 01:28:55,747
+Nuklearni reaktori mogu davati
+energiju gotovo beskonačno.
+
+847
+01:28:55,915 --> 01:28:58,666
+U staklenicima može rasti bilje.
+
+848
+01:28:58,834 --> 01:29:02,212
+Životinje možemo uzgajati i <i>klati</i>.
+
+849
+01:29:02,379 --> 01:29:06,841
+Trebalo bi pregledati
+sve pogodne rudnike.
+
+850
+01:29:07,051 --> 01:29:14,432
+Ali lako možemo naći
+mjesta za više stotina tisuća ljudi.
+
+851
+01:29:14,600 --> 01:29:20,605
+Ne bih volio odlučivati
+tko ostaje, a tko ide dolje.
+
+852
+01:29:20,773 --> 01:29:24,567
+To ne bi bilo potrebno.
+
+853
+01:29:24,735 --> 01:29:27,529
+Računalo to lako može obaviti.
+
+854
+01:29:27,696 --> 01:29:33,034
+Odlučivat će čimbenici
+mladosti, zdravlja,
+
+855
+01:29:33,202 --> 01:29:38,790
+spolne plodnosti,
+inteligencije i potrebnih vještina.
+
+856
+01:29:39,041 --> 01:29:45,255
+Moralo bi ići naše
+političko i vojno vodstvo
+
+857
+01:29:45,422 --> 01:29:50,218
+kako bi njegovali i usađivali
+načela vodstva i tradicije.
+
+858
+01:29:56,100 --> 01:29:59,102
+Naravno, brzo bi se razmnožavali.
+
+859
+01:29:59,270 --> 01:30:03,064
+Imali bi puno
+vremena, a malo posla.
+
+860
+01:30:03,649 --> 01:30:07,486
+Uz prikladne tehnike
+
+861
+01:30:07,654 --> 01:30:11,322
+i omjer deset žena
+na jednoga muškarca,
+
+862
+01:30:11,532 --> 01:30:18,663
+vratili bismo se na sadašnji
+BNP u dvadesetak godina.
+
+863
+01:30:18,831 --> 01:30:26,005
+Zar ti preživjeli
+ne bi bili tako tužni...
+
+864
+01:30:26,172 --> 01:30:30,592
+da bi zavidjeli mrtvima
+i izgubili želju za životom?
+
+865
+01:30:30,759 --> 01:30:33,553
+Ne... Ispričavam se.
+
+866
+01:30:42,646 --> 01:30:46,691
+Kad uđu u rudnik,
+svi će još biti živi.
+
+867
+01:30:46,859 --> 01:30:53,615
+Ne bi bilo šokantnih sjećanja i
+osjećali bi uglavnom nostalgiju.
+
+868
+01:30:53,782 --> 01:30:59,954
+I duh odvažne znatiželje
+za pustolovinu koja ih čeka!
+
+869
+01:31:16,639 --> 01:31:18,556
+Doktore...
+
+870
+01:31:20,726 --> 01:31:26,147
+Spomenuli ste deset
+žena na jednoga muškarca.
+
+871
+01:31:26,315 --> 01:31:33,196
+Zar tako ne bismo morali
+napustiti tzv. monogamne veze
+
+872
+01:31:33,364 --> 01:31:36,908
+bar što se tiče muškaraca?
+
+873
+01:31:37,076 --> 01:31:43,748
+Nažalost, da, ali moramo se
+žrtvovati za budućnost vrste.
+
+874
+01:31:43,916 --> 01:31:48,545
+Budući da će svaki muškarac
+
+875
+01:31:48,701 --> 01:31:52,382
+morati predano... raditi na tome,
+
+876
+01:31:52,549 --> 01:31:56,427
+žene će trebati birati po
+seksualnim karakteristikama
+
+877
+01:31:56,595 --> 01:32:00,264
+koje će morati biti
+vrlo primamljive.
+
+878
+01:32:00,432 --> 01:32:04,227
+Priznajem da je to
+nevjerojatno dobra ideja.
+
+879
+01:32:05,396 --> 01:32:11,776
+Hvala. - Trebamo to
+promotriti s vojnoga stajališta.
+
+880
+01:32:12,736 --> 01:32:16,614
+Ako su Rusi
+spremili velike bombe,
+
+881
+01:32:16,782 --> 01:32:19,575
+kad za sto godina
+izađemo, mogu nas pokoriti.
+
+882
+01:32:19,743 --> 01:32:25,289
+Slažem se. Možda i odmah
+napadnu da zauzmu naše rudnike.
+
+883
+01:32:25,457 --> 01:32:29,794
+Bilo bi naivno misliti
+da će ovo promijeniti
+
+884
+01:32:29,962 --> 01:32:32,964
+sovjetsku
+ekspanzionističku politiku.
+
+885
+01:32:33,173 --> 01:32:38,469
+Moramo dobro paziti da ne
+zauzmu prostor u rudnicima
+
+886
+01:32:38,679 --> 01:32:43,725
+kako bi se jače razmnožavali
+da bi ih poslije bilo više.
+
+887
+01:32:43,892 --> 01:32:47,895
+Ne smijemo dopustiti
+jaz u broju rudnika!
+
+888
+01:32:48,063 --> 01:32:52,442
+Gospodine, imam plan.
+
+889
+01:32:54,238 --> 01:32:58,823
+<i>Mein Führer</i>, mogu hodati!
+
+890
+01:33:05,000 --> 01:33:10,000
+<i>Obrada: Chordy</i>
+
+891
+01:33:13,000 --> 01:33:17,000
+Preuzeto sa www.titlovi.com
+
